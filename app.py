@@ -6,6 +6,7 @@ from PIL import Image
 from fpdf import FPDF 
 import time
 import os
+from datetime import datetime, date
 
 # ==========================================
 # 0. 頁面與全域設定
@@ -138,7 +139,6 @@ def get_user_data(username, prefix):
         else:
             return set(), set()
     except Exception as e:
-        # st.error(f"連線讀取失敗：{e}") # 除錯用
         return set(), set()
 
 def save_user_data(username, prefix, fav_set, mis_set):
@@ -167,6 +167,47 @@ def save_user_data(username, prefix, fav_set, mis_set):
         conn.update(data=df)
     except Exception as e:
         st.warning(f"自動存檔失敗：{e}")
+
+# --- 日期存取功能 ---
+def get_exam_dates(username):
+    col_dates = "Settings_ExamDates"
+    try:
+        conn = st.connection("gsheets", type=GSheetsConnection)
+        df = conn.read(ttl=0)
+        if df.empty: return {}
+        
+        if col_dates not in df.columns: return {}
+
+        user_row = df[df['Username'] == username]
+        if not user_row.empty:
+            dates_str = str(user_row.iloc[0][col_dates])
+            if dates_str and dates_str not in ['nan', 'None']:
+                return json.loads(dates_str)
+        return {}
+    except Exception as e:
+        return {}
+
+def save_exam_dates(username, dates_dict):
+    col_dates = "Settings_ExamDates"
+    try:
+        conn = st.connection("gsheets", type=GSheetsConnection)
+        df = conn.read(ttl=0)
+        
+        json_data = json.dumps(dates_dict, default=str)
+        
+        if col_dates not in df.columns: df[col_dates] = None
+
+        if username in df['Username'].values:
+            df.loc[df['Username'] == username, col_dates] = json_data
+        else:
+            new_data = {'Username': username, col_dates: json_data}
+            new_row = pd.DataFrame([new_data])
+            df = pd.concat([df, new_row], ignore_index=True)
+            
+        conn.update(data=df)
+        st.toast("📅 日期設定已更新！")
+    except Exception as e:
+        st.error(f"存檔失敗：{e}")
 
 # ==========================================
 # 2. 登入驗證
@@ -200,7 +241,7 @@ def create_pdf(questions, title):
     pdf = FPDF()
     pdf.add_page()
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    font_path = os.path.join(current_dir, 'font.ttf') # 請確認目錄下有字型檔
+    font_path = os.path.join(current_dir, 'font.ttf') 
 
     try:
         pdf.add_font('ChineseFont', '', font_path)
@@ -241,16 +282,10 @@ def load_questions(filename):
 # 4. 核心判斷邏輯 (單選 / 多選 / 爭議題)
 # ==========================================
 def check_answer(user_input, correct_input, q, username, prefix, fav_set, mis_set, mode):
-    """
-    處理單選、複選、爭議題的對錯判斷
-    user_input: 字串 (如 "A" 或 "BCDE")
-    correct_input: JSON中的 answer 欄位
-    """
     is_correct = False
     
     # 邏輯 A：複選題 (例如 "BCDE") - 長度>1 且不是 "A 或 C"
     if len(correct_input) > 1 and "或" not in correct_input and "/" not in correct_input:
-        # 這裡加一個保險，確保兩邊都排序過再比對 (避免 "CB" != "BC" 的情況)
         is_correct = ("".join(sorted(list(user_input))) == "".join(sorted(list(correct_input))))
         
     # 邏輯 B：爭議單選題 (例如 "A 或 C")
@@ -263,14 +298,12 @@ def check_answer(user_input, correct_input, q, username, prefix, fav_set, mis_se
 
     if is_correct:
         st.success(f"✅ 正確！答案是：{correct_input}")
-        # 如果是錯題模式，答對就移除
         if mode == "mis" and q['id'] in mis_set:
             mis_set.discard(q['id'])
             save_user_data(username, prefix, fav_set, mis_set)
             st.rerun()
     else:
         st.error(f"❌ 錯誤，正確答案是：{correct_input}")
-        # 答錯加入錯題集
         if q['id'] not in mis_set:
             mis_set.add(q['id'])
             save_user_data(username, prefix, fav_set, mis_set)
@@ -312,7 +345,6 @@ def run_handwriting_mode(config, username, fav_set):
             if st.button("✅ 已練" if is_fav else "⬜ 未練", key=f"hw_fav_{q['id']}"):
                 if is_fav: fav_set.discard(q['id'])
                 else: fav_set.add(q['id'])
-                # 手寫模式暫存於 Fav 欄位
                 save_user_data(username, config['prefix'], fav_set, st.session_state['current_mis'])
                 st.rerun()
         st.info(q['prompt'])
@@ -419,7 +451,7 @@ def run_quiz_mode(config, username, fav_set, mis_set):
     # --- 題目顯示迴圈 ---
     for q in final_qs:
         q_label = f"{q['year']}#{str(q['id'])[-2:]}"
-        with st.container(border=True): # 加上邊框讓題目分明
+        with st.container(border=True): 
             c1, c2 = st.columns([0.08, 0.92])
             with c1:
                 is_fav = q['id'] in fav_set
@@ -431,29 +463,21 @@ def run_quiz_mode(config, username, fav_set, mis_set):
             with c2:
                 st.markdown(f"### **[{q_label}]** {q['question']}")
                 
-                # 自動判斷單選或複選
-                # 條件：答案長度 > 1 且不包含 "或" 或 "/"
                 is_multiple = len(q['answer']) > 1 and "或" not in q['answer'] and "/" not in q['answer']
 
                 if not is_multiple:
-                    # --- 單選模式 (Radio) ---
                     u_ans = st.radio("選項", q['options'], key=f"q_{config['prefix']}_{q['id']}", label_visibility="collapsed", index=None)
                     if u_ans:
-                        # 提取字母 A, B, C, D
                         ans_char = u_ans.replace("(","").replace(")","").replace(".","").strip()[0]
                         check_answer(ans_char, q['answer'], q, username, config['prefix'], fav_set, mis_set, mode)
                 else:
-                    # --- 複選模式 (Multiselect) ---
                     st.info("💡 此題為複選題，需全對才給分")
                     u_ans_list = st.multiselect("請選擇所有正確選項", q['options'], key=f"q_{config['prefix']}_{q['id']}")
                     
                     if st.button("確認送出", key=f"btn_submit_{q['id']}"):
                         if u_ans_list:
-                            # 提取所有字母並排序，例如 ["(E)...", "(B)..."] -> "BE"
                             user_chars = "".join(sorted([opt.replace("(","").replace(")","").replace(".","").strip()[0] for opt in u_ans_list]))
-                            # 正確答案也做排序
                             correct_chars = "".join(sorted(list(q['answer'])))
-                            
                             check_answer(user_chars, correct_chars, q, username, config['prefix'], fav_set, mis_set, mode)
                         else:
                             st.warning("請至少選擇一個選項")
@@ -467,8 +491,109 @@ def run_quiz_mode(config, username, fav_set, mis_set):
 # 階段 1: 選擇考試類型 (Exam Type)
 if st.session_state['current_exam_type'] is None:
     st.title(f"👋 歡迎回來，{st.session_state['username']}")
-    st.subheader("請選擇您的考試類別：")
+    
+    # --- 優化後的介面：卡片式倒數計時器 (調整字體與顏色) ---
+    st.subheader("⏳ 考試倒數")
+    
+    # 1. 讀取使用者設定的日期
+    user_dates = get_exam_dates(st.session_state['username'])
+    
+    # 2. 顯示倒數資訊 (卡片式設計)
+    if user_dates:
+        # 依據日期排序，越近的排越前面
+        sorted_dates = sorted(user_dates.items(), key=lambda x: datetime.strptime(x[1], "%Y-%m-%d").date())
+        
+        # 動態調整欄位數，最多顯示 4 欄
+        cols = st.columns(min(len(sorted_dates), 4))
+        
+        for idx, (exam_name, date_str) in enumerate(sorted_dates):
+            try:
+                target_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+                today = date.today()
+                delta = target_date - today
+                days_left = delta.days
+                
+                # 計算顯示的欄位位置
+                with cols[idx % 4]:
+                    # 使用 container 建立邊框卡片效果
+                    with st.container(border=True):
+                        # 標題區
+                        st.markdown(f"#### **{exam_name}**")
+                        
+                        # 日期區 (移到標題下方，靠左對齊，亮青色)
+                        # 注意：這裡 HTML 字串不縮排，避免 Streamlit 誤判為 Code Block
+                        st.markdown(f'<div style="font-size: 1.2em; font-weight: bold; color: #4FC3F7; margin-bottom: 10px;">📅 {date_str}</div>', unsafe_allow_html=True)
+                        
+                        # 倒數邏輯與視覺呈現 (顏色邏輯)
+                        if days_left < 0:
+                            st.error(f"🏁 已結束 {abs(days_left)} 天")
+                            val_color, note = "gray", "已結束"
+                        elif days_left == 0:
+                            val_color, note = "#FF4B4B", "🔥 就是今天！"
+                        else:
+                            # 依據天數給予不同顏色的視覺提示
+                            if days_left <= 30:
+                                val_color = "#FF4B4B"    # 紅色 (緊急)
+                                note = "🔥 最後衝刺"
+                            elif days_left <= 90:
+                                val_color = "#FFA500"    # 橘色 (注意)
+                                note = "💪 保持節奏"
+                            else:
+                                val_color = "#2ECC71"    # 綠色 (充裕)
+                                note = "🌱 穩步累積"
+
+                        # 倒數區 (置中顯示)
+                        # 注意：這裡 HTML 字串不縮排，避免 Streamlit 誤判為 Code Block
+                        if days_left >= 0:
+                            html_code = f"""
+<div style="text-align: center; margin-top: 10px;">
+<div style="line-height: 1; margin-bottom: 15px;">
+<span style="font-size: 5em; font-weight: 900; color: {val_color}; text-shadow: 0 0 10px rgba(0,0,0,0.5);">{days_left}</span>
+<span style="font-size: 1.5em; font-weight: bold; color: #aaa;"> 天</span>
+</div>
+<div style="font-size: 1.3em; font-weight: bold; color: #eeeeee; letter-spacing: 1px;">
+{note}
+</div>
+</div>
+"""
+                            st.markdown(html_code, unsafe_allow_html=True)
+            except:
+                pass
+    else:
+        st.info("尚未設定考試日期，請點擊下方設定。")
+
+    # 3. 設定區塊 (收納狀態)
+    with st.expander("⚙️ 設定/修改 考試日期", expanded=False):
+        c_add1, c_add2, c_add3 = st.columns([2, 2, 1])
+        with c_add1:
+            exam_options = list(EXAM_STRUCTURE.keys()) + ["其他考試"]
+            new_exam_name = st.selectbox("選擇或輸入考試名稱", exam_options)
+            if new_exam_name == "其他考試":
+                new_exam_name = st.text_input("輸入自訂考試名稱")
+        with c_add2:
+            new_exam_date = st.date_input("選擇日期", min_value=date.today())
+        with c_add3:
+            st.write("") 
+            st.write("") 
+            if st.button("➕ 新增/更新", use_container_width=True):
+                if new_exam_name:
+                    user_dates[new_exam_name] = str(new_exam_date)
+                    save_exam_dates(st.session_state['username'], user_dates)
+                    st.rerun()
+        
+        if user_dates:
+            st.markdown("---")
+            st.caption("已設定的考試 (點擊垃圾桶刪除)：")
+            del_cols = st.columns(4)
+            for idx, ex_name in enumerate(user_dates.keys()):
+                with del_cols[idx % 4]:
+                    if st.button(f"🗑️ {ex_name}", key=f"del_{ex_name}", use_container_width=True):
+                        del user_dates[ex_name]
+                        save_exam_dates(st.session_state['username'], user_dates)
+                        st.rerun()
+
     st.markdown("---")
+    st.subheader("請選擇您的刷題題庫：")
     
     cols = st.columns(3)
     for idx, (exam_name, exam_info) in enumerate(EXAM_STRUCTURE.items()):
@@ -508,7 +633,6 @@ else:
     curr_subj_name = st.session_state['current_subject']
     config = EXAM_STRUCTURE[curr_exam_name]['subjects'][curr_subj_name]
 
-    # 載入 User Data
     if 'current_fav' not in st.session_state or st.session_state.get('loaded_subject') != curr_subj_name:
         with st.spinner(f"正在載入 {curr_subj_name} 的進度..."):
             f_data, m_data = get_user_data(st.session_state['username'], config['prefix'])
@@ -516,13 +640,11 @@ else:
             st.session_state['current_mis'] = m_data
             st.session_state['loaded_subject'] = curr_subj_name
 
-    # 側邊欄 - 返回按鈕
     st.sidebar.title(f"{config['icon']} {curr_subj_name}")
     if st.sidebar.button("⬅️ 回科目選單"):
         st.session_state['current_subject'] = None
         st.rerun()
     
-    # 判斷是手寫還是選擇題
     if config.get('has_handwriting', False):
         mode = st.sidebar.radio("練習類型", ["測驗題 (選擇)", "作文/公文 (手寫)"], index=0, key="quiz_type_selector")
         if mode == "作文/公文 (手寫)":
