@@ -402,32 +402,86 @@ def run_quiz_mode(config, username, fav_set, mis_set):
     json_subjects = sorted(list(set([q['subject'] for q in all_questions])))
     selected_json_sub = st.sidebar.radio("子科目", json_subjects) if json_subjects else "無"
     
-    # 篩選題目池
+    # 建立初步題目池 (Year & Keyword & Mode & Subject)
     sub_questions = [q for q in all_questions if q['subject'] == selected_json_sub]
     years = sorted(list(set([q['year'] for q in sub_questions])), reverse=True)
     sel_years = [y for y in years if st.sidebar.checkbox(f"{y} 年", value=True)]
 
-    pool = []
+    pool_step1 = []
     for q in all_questions:
         if q['subject'] != selected_json_sub: continue
         if q['year'] not in sel_years: continue
         if keyword and keyword not in q['question']: continue
         if mode == MODE_FAV and q['id'] not in fav_set: continue
         if mode == MODE_MIS and q['id'] not in mis_set: continue
-        pool.append(q)
+        pool_step1.append(q)
 
-    # 分類 (Category) 篩選
+    # ----------------------------------------------------
+    # 新增邏輯：雙層分類篩選 (Category -> Sub-Category)
+    # 並加入「依照數量由多到少排序」的邏輯
+    # ----------------------------------------------------
+    
+    # 1. 整理出目前的 Category 清單與數量
     cat_counts = {}
-    for q in pool: 
+    for q in pool_step1: 
         c = q.get('category', '未分類')
         cat_counts[c] = cat_counts.get(c, 0) + 1
-    cats = sorted(list(set([q.get('category', '未分類') for q in pool])))
+    
+    # 取得 Category 清單
+    unique_cats = list(set([q.get('category', '未分類') for q in pool_step1]))
+    
+    # --- 關鍵修改：依照數量 (cat_counts) 由大到小排序 ---
+    cats = sorted(unique_cats, key=lambda x: cat_counts.get(x, 0), reverse=True)
+    
+    # 插入 "全部" 在最上方
     cats.insert(0, "全部")
-    sel_cat = st.sidebar.radio("領域", cats, format_func=lambda x: f"{x} ({cat_counts.get(x,0)})" if x!="全部" else f"全部 ({len(pool)})")
+    
+    # 顯示 Category Radio
+    sel_cat = st.sidebar.radio("領域 (Category)", cats, 
+        format_func=lambda x: f"{x} ({cat_counts.get(x,0)})" if x!="全部" else f"全部 ({len(pool_step1)})",
+        key="sel_cat_radio"
+    )
 
-    # 最終篩選
-    final_qs = [q for q in pool if (sel_cat == "全部" or q.get('category') == sel_cat)]
+    # 根據 Category 篩選得到 pool_step2
+    if sel_cat == "全部":
+        pool_step2 = pool_step1
+    else:
+        pool_step2 = [q for q in pool_step1 if q.get('category') == sel_cat]
 
+    # 2. 判斷是否有 Sub-Category 欄位
+    sub_cat_counts = {}
+    has_sub_cat = False
+    for q in pool_step2:
+        sc = q.get('sub_category')
+        if sc:
+            has_sub_cat = True
+            sub_cat_counts[sc] = sub_cat_counts.get(sc, 0) + 1
+            
+    # 預設最終池為 step2
+    final_qs = pool_step2
+
+    if has_sub_cat:
+        st.sidebar.markdown("---") 
+        
+        # 取得 Sub-Category 清單
+        unique_sub_cats = list(set([q.get('sub_category') for q in pool_step2 if q.get('sub_category')]))
+        
+        # --- 關鍵修改：依照數量 (sub_cat_counts) 由大到小排序 ---
+        sub_cats = sorted(unique_sub_cats, key=lambda x: sub_cat_counts.get(x, 0), reverse=True)
+        
+        # 插入 "全部"
+        sub_cats.insert(0, "全部")
+        
+        sel_sub_cat = st.sidebar.radio("細項 (Sub-Category)", sub_cats,
+            format_func=lambda x: f"{x} ({sub_cat_counts.get(x,0)})" if x!="全部" else f"全部 ({len(pool_step2)})",
+            key="sel_sub_cat_radio"
+        )
+        
+        if sel_sub_cat != "全部":
+            final_qs = [q for q in pool_step2 if q.get('sub_category') == sel_sub_cat]
+
+    # ----------------------------------------------------
+    
     st.title(f"{config['icon']} {selected_json_sub} - {mode_label(mode)}")
     st.caption(f"題目數：{len(final_qs)}")
 
@@ -461,6 +515,7 @@ def run_quiz_mode(config, username, fav_set, mis_set):
                     save_user_data(username, config['prefix'], fav_set, mis_set)
                     st.rerun()
             with c2:
+                # 恢復原本顯示：只顯示 [年份#題號] 題目內容
                 st.markdown(f"### **[{q_label}]** {q['question']}")
                 
                 is_multiple = len(q['answer']) > 1 and "或" not in q['answer'] and "/" not in q['answer']
@@ -521,7 +576,6 @@ if st.session_state['current_exam_type'] is None:
                         st.markdown(f"#### **{exam_name}**")
                         
                         # 日期區 (移到標題下方，靠左對齊，亮青色)
-                        # 注意：這裡 HTML 字串不縮排，避免 Streamlit 誤判為 Code Block
                         st.markdown(f'<div style="font-size: 1.2em; font-weight: bold; color: #4FC3F7; margin-bottom: 10px;">📅 {date_str}</div>', unsafe_allow_html=True)
                         
                         # 倒數邏輯與視覺呈現 (顏色邏輯)
@@ -543,7 +597,6 @@ if st.session_state['current_exam_type'] is None:
                                 note = "🌱 穩步累積"
 
                         # 倒數區 (置中顯示)
-                        # 注意：這裡 HTML 字串不縮排，避免 Streamlit 誤判為 Code Block
                         if days_left >= 0:
                             html_code = f"""
 <div style="text-align: center; margin-top: 10px;">
