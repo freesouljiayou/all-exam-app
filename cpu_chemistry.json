@@ -1,0 +1,3103 @@
+[
+  {
+    "id": "CPU114_CHEM_01",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列各項不同濃度水溶液中，加入同樣顆粒大小的大理石一小粒，反應速率何者最小？",
+    "options": [
+      "(A) 0.1M HCl",
+      "(B) 1M HCl",
+      "(C) 6M CH3COOH",
+      "(D) 1M CH3COOH"
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_02",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "將銅加到稀硝酸時，發生下列反應: a Cu +b HNO3 → c Cu(NO3)2 + d NO + e H2O (未平衡)。將上述反應式經平衡後，則最簡單的整數係數總和(a+b+c+d+e)應為：",
+    "options": [
+      "(A) 18",
+      "(B) 20",
+      "(C) 22",
+      "(D) 24"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_03",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "某混合物內含硫及碳共重2克，完全燃燒後，生成 SO2 及 CO2 的混合物共重6.0克，請問原來混合物內含碳若干克？(S=32)",
+    "options": [
+      "(A) 0.4",
+      "(B) 0.6",
+      "(C) 1.0",
+      "(D) 1.2"
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_04",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "將12.0克 NaOH溶於水，配成300mL後，取10mL 加水稀釋到100mL，則所得溶液的體積莫耳濃度為若干？ (Na=23)",
+    "options": [
+      "(A) 0.1M",
+      "(B) 1M",
+      "(C) 0.3M",
+      "(D) 3M"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_05",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪項不是理想氣體的條件？",
+    "options": [
+      "(A) 分子間無吸引力",
+      "(B) 分子本身的體積不可忽略",
+      "(C) 完全遵守查理定律或氣體方程式",
+      "(D) 絕對零度時，氣體仍保持原狀且體積為零"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_06",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "在同溫同壓時，下列敘述何者錯誤？",
+    "options": [
+      "(A) 氮1升和氧1升含有相同數目的分子",
+      "(B) 氮28克和氧32克含有相同數目的分子",
+      "(C) 氮1克和氧1克所佔的體積相同",
+      "(D) 氮28克和氧32克所佔的體積相同"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_07",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "使乙烷 (C2H6) 與丙烷 (C3H8) 的氣體在氧中完全燃燒後，得到二氧化碳12.32克和水6.84克，則原混合氣體中乙烷與丙烷之莫耳數比為若干？",
+    "options": [
+      "(A) 1:1",
+      "(B) 1:4",
+      "(C) 2:3",
+      "(D) 3:2"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_08",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "四氧化二氮和 N2H4 可以做為火箭推進器的燃料，其反應之廢氣為氮氣及水蒸氣，下列有關反應之氧化還原敘述何者正確？",
+    "options": [
+      "(A) 四氧化二氮中之氧被氧化",
+      "(B) 四氧化二氮中之氧被還原",
+      "(C) 四氧化二氮中之氮被還原",
+      "(D) 四氧化二氮中之氮被氧化"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_09",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "在酸性條件下，KMnO4與Fe2+反應生成 Mn2+ 和Fe3+，此反應中1莫耳KMnO4可氧化多少莫耳 Fe2+？",
+    "options": [
+      "(A) 1",
+      "(B) 3",
+      "(C) 5",
+      "(D) 7"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_10",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "某金屬 M與氧化合成甲、乙二種化合物，甲化合物4.0克中含氧1.6克，金屬4.8克與氧2.4克恰完全反應成乙化合物，已知甲化合物化學式為 MO2，則乙化合物之化學式為：",
+    "options": [
+      "(A) MO",
+      "(B) M2O3",
+      "(C) M2O",
+      "(D) M3O2"
+    ],
+    "answer": "A或B",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：A或B"
+  },
+  {
+    "id": "CPU114_CHEM_11",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "若反應 2A(g)=B(g) 的平衡常數為K，則反應 B(g)=2A(g) 的平衡常數為何？",
+    "options": [
+      "(A) K",
+      "(B) 1/K",
+      "(C) K^(1/2)",
+      "(D) K^2"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_12",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "在27℃時，將14g氮氣(N2)和16g氧氣(O2)放入15L的真空容器中，混合氣體的總壓力是多少大氣壓？",
+    "options": [
+      "(A) 0.82",
+      "(B) 1.64",
+      "(C) 0.41",
+      "(D) 1.23"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_13",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "某元素陽離子X2+的電子組態 [Ar]3d6 其原子序為何？",
+    "options": [
+      "(A) 30",
+      "(B) 28",
+      "(C) 26",
+      "(D) 24"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_14",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "已知 CaF2的 Ksp=3.9x10^-11，其溶解度 (mol/L) 為：",
+    "options": [
+      "(A) 2.1x10^-4",
+      "(B) 3.4x10^-4",
+      "(C) 6.8x10^-4",
+      "(D) 1.2x10^-4"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_15",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "根據價殼層電子對互斥理論(VSEPR)，XeF2的分子形狀為何？",
+    "options": [
+      "(A) 直線形",
+      "(B) 彎曲形",
+      "(C) T形",
+      "(D) 四面體形"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_16",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "若某元素第三游離能遠高於第二游離能，該元素最可能屬於哪一週期族？",
+    "options": [
+      "(A) 鹼土金屬",
+      "(B) 鹼金屬",
+      "(C) 碳族",
+      "(D) 鹵素"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_17",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "在一個電化學電池中，鋅(Zn)為陽極，銅(Cu)為陰極，鋅離子 (Zn2+) 濃度為0.1M，銅離子 (Cu2+) 濃度為1.0M，電池的電動勢大約是多少伏特？ (E°(Zn2+/Zn)=-0.76V, E°(Cu2+/Cu)=0.34V)",
+    "options": [
+      "(A) 7.57",
+      "(B) 5.13",
+      "(C) 4.65",
+      "(D) 1.13"
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_18",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列離子半徑大小順序何者正確？",
+    "options": [
+      "(A) S2- > Cl- > K+",
+      "(B) Mg2+ > Na+ > Al3+",
+      "(C) F- > O2- > N3-",
+      "(D) Li+ > Be2+ > B3+"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_19",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "某反應速率常數k的單位為 M^-1 s^-1，此反應的總級數為：",
+    "options": [
+      "(A) 0",
+      "(B) 1",
+      "(C) 2",
+      "(D) 3"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_20",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "某放射性同位素半衰期為10天，其衰變常數(lambda)約為多少 day^-1？",
+    "options": [
+      "(A) 0.0693",
+      "(B) 0.00693",
+      "(C) 0.693",
+      "(D) 6.93"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU114_CHEM_21",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "溫度昇高使反應速率增加是因為以下哪些原因？",
+    "options": [
+      "(A) 活化能降低",
+      "(B) 分子運動速率增加",
+      "(C) 具高動能的分子數增加",
+      "(D) 分子碰撞次數增加",
+      "(E) 反應熱降低"
+    ],
+    "answer": "BCD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BCD"
+  },
+  {
+    "id": "CPU114_CHEM_22",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列化合物加入金屬鈉，哪些會產生氫氣？",
+    "options": [
+      "(A) 丙酮",
+      "(B) 2-丙醇",
+      "(C) 丙酸",
+      "(D) 丙醛",
+      "(E) 苯酚"
+    ],
+    "answer": "BCE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BCE"
+  },
+  {
+    "id": "CPU114_CHEM_23",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些分子在形成鍵結時，須先提升部分價電子，再經過軌域的混成？",
+    "options": [
+      "(A) SiCl4",
+      "(B) BF3",
+      "(C) H2O",
+      "(D) HF",
+      "(E) XeF4"
+    ],
+    "answer": "ABE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ABE"
+  },
+  {
+    "id": "CPU114_CHEM_24",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些氧化物的水溶液呈現鹼性？",
+    "options": [
+      "(A) P4O10",
+      "(B) SO2",
+      "(C) K2O",
+      "(D) BaO",
+      "(E) CO2"
+    ],
+    "answer": "CD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：CD"
+  },
+  {
+    "id": "CPU114_CHEM_25",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列對於鹼金屬性質的排列，何者正確？",
+    "options": [
+      "(A) 離子半徑大小: Na+ > Mg2+ > Al3+",
+      "(B) 金屬鍵強弱: Al > Mg > Na",
+      "(C) 熔點: Na > Al > Mg",
+      "(D) 電荷密度大小: Al3+ > Mg2+ > Na+",
+      "(E) 沸點: Na > Mg > Al"
+    ],
+    "answer": "ABD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ABD"
+  },
+  {
+    "id": "CPU114_CHEM_26",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "有關同一元素的同位素，下列敘述何者正確？",
+    "options": [
+      "(A) 因質子數相同，化學性質相同",
+      "(B) 原子核內的質量數相同，電子數不同",
+      "(C) 原子核內的中子數相同，質子數不同",
+      "(D) 有不同質量數，但有相同的質子數與電子數",
+      "(E) 因為是同一元素，其物理性質也相同"
+    ],
+    "answer": "AD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：AD"
+  },
+  {
+    "id": "CPU114_CHEM_27",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "某有機化合物CxHy 1莫耳，完全燃燒生成4莫耳 CO2 與4莫耳H2O，則下列有關該化合物的敘述何者正確？",
+    "options": [
+      "(A) 簡式為CH",
+      "(B) 簡式為CH2",
+      "(C) 分子式為C4H4",
+      "(D) 分子式為C4H8",
+      "(E) 每莫耳燃燒需要氧6.0莫耳"
+    ],
+    "answer": "BDE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BDE"
+  },
+  {
+    "id": "CPU114_CHEM_28",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "有關氫原子的電子，以下敘述哪些正確？",
+    "options": [
+      "(A) 電子能階狀態的改變必伴隨吸收或放出光子",
+      "(B) 電子於n=0軌道時，所具的能量最小",
+      "(C) 未游離原子中，電子的能階為不連續",
+      "(D) 原子中電子能階的高低與主量子數(n)成正比",
+      "(E) 電子從激態轉變成基態時，其軌道n值變小"
+    ],
+    "answer": "ACE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ACE"
+  },
+  {
+    "id": "CPU114_CHEM_29",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些電子組態，何者不存在？",
+    "options": [
+      "(A) 1s2 2s1 2p1",
+      "(B) 1s2 2s2 2p6 2d2",
+      "(C) 1s2 3p1",
+      "(D) 1s2 2s2 2p8 3s2",
+      "(E) 1s2 2s1 2p7"
+    ],
+    "answer": "BCDE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BCDE"
+  },
+  {
+    "id": "CPU114_CHEM_30",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "關於物質熱含量(焓)的敘述，下列何者正確？",
+    "options": [
+      "(A) 焓之大小與物質有關",
+      "(B) 焓之大小與物質狀態有關",
+      "(C) 焓之大小與溫度高低無關",
+      "(D) 莫耳數變成n倍，焓亦變成n倍",
+      "(E) 絕對焓值可以直接測量"
+    ],
+    "answer": "ABD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ABD"
+  },
+  {
+    "id": "CPU114_CHEM_31",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些物質屬於路易斯酸？",
+    "options": [
+      "(A) BF3",
+      "(B) NH3",
+      "(C) Fe3+",
+      "(D) H2O",
+      "(E) AlCl3"
+    ],
+    "answer": "ACE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ACE"
+  },
+  {
+    "id": "CPU114_CHEM_32",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些正確敘述化學平衡的特性？",
+    "options": [
+      "(A) 化學平衡是一種動態平衡",
+      "(B) 反應物和生成物的濃度保持不變",
+      "(C) 平衡常數K與溫度有關",
+      "(D) 加入催化劑會改變平衡常數K",
+      "(E) 增加反應物濃度會使平衡向右移動"
+    ],
+    "answer": "ABCE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ABCE"
+  },
+  {
+    "id": "CPU114_CHEM_33",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些物質的溶解度受到pH值變化的影響？",
+    "options": [
+      "(A) Mg(OH)2",
+      "(B) AgCl",
+      "(C) CaCO3",
+      "(D) NaCl",
+      "(E) Fe(OH)3"
+    ],
+    "answer": "ACE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ACE"
+  },
+  {
+    "id": "CPU114_CHEM_34",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列關於緩衝溶液的組成條件，何者正確？",
+    "options": [
+      "(A) 強酸與其共軛鹼",
+      "(B) 弱酸與其共軛鹼",
+      "(C) 弱鹼與其共軛酸",
+      "(D) 強鹼與其共軛酸",
+      "(E) 純水與少量鹽"
+    ],
+    "answer": "BC",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BC"
+  },
+  {
+    "id": "CPU114_CHEM_35",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些分子具有極性？",
+    "options": [
+      "(A) H2O",
+      "(B) CO2",
+      "(C) NH3",
+      "(D) CH4",
+      "(E) HCl"
+    ],
+    "answer": "ACE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ACE"
+  },
+  {
+    "id": "CPU114_CHEM_36",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些溶液的pH值大於7？",
+    "options": [
+      "(A) NH4Cl",
+      "(B) CH3COONa",
+      "(C) NaNO3",
+      "(D) KOH",
+      "(E) HCl"
+    ],
+    "answer": "BD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BD"
+  },
+  {
+    "id": "CPU114_CHEM_37",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列關於原子結構與週期表趨勢的敘述，哪些正確？",
+    "options": [
+      "(A) 磷(P)原子基態的價電子組態為3s2 3p3",
+      "(B) 同一元素的同位素具有相同的中子數，但不同的質子數",
+      "(C) 離子半徑大小: S2- > Cl- > K+",
+      "(D) 電負度大小: F > Cl > Br",
+      "(E) 第三週期元素中，第一游離能最大的是Ar"
+    ],
+    "answer": "ACDE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ACDE"
+  },
+  {
+    "id": "CPU114_CHEM_38",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些同位素衰變會釋放 beta粒子？",
+    "options": [
+      "(A) 14C -> 14N",
+      "(B) 90Sr -> 90Y",
+      "(C) 238U -> 234Th",
+      "(D) 3H -> 3He",
+      "(E) 40K -> 40Ca"
+    ],
+    "answer": "ABDE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ABDE"
+  },
+  {
+    "id": "CPU114_CHEM_39",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "比較物質沸點，下列何者正確？",
+    "options": [
+      "(A) AsH3 > PH3",
+      "(B) Br2 > GeH4",
+      "(C) CH3CN > CH3CHO",
+      "(D) SiH4 > GeH4",
+      "(E) AsH3 > ICl"
+    ],
+    "answer": "ABC",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ABC"
+  },
+  {
+    "id": "CPU114_CHEM_40",
+    "year": 114,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些正確敘述電化學電池的特性？",
+    "options": [
+      "(A) 陽極發生氧化反應",
+      "(B) 陰極發生還原反應",
+      "(C) 電子從陽極流向陰極",
+      "(D) 電池的電動勢與溫度無關",
+      "(E) 電池的電動勢與反應物濃度有關"
+    ],
+    "answer": "ABCE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ABCE"
+  },
+  {
+    "id": "CPU113_CHEM_01",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪一種化合物熔點最高?",
+    "options": [
+      "(A) CH4",
+      "(B) SiO2",
+      "(C) NaCl",
+      "(D) MgO"
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_02",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "乙酸分子量為60，今測乙酸水溶液凝固點求得分子量45，改測乙酸之苯溶液凝固點，求得分子量為100。下列敘述何者正確?",
+    "options": [
+      "(A) 乙酸在水溶液及苯中均部分解離",
+      "(B) 乙酸在水溶液及苯中均部分偶合",
+      "(C) 乙酸在水溶液部分解離，在苯中部分偶合",
+      "(D) 乙酸在水溶液部分偶合，在苯中部分解離"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_03",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "臭氧 (O3) 分子內共有幾個價電子?",
+    "options": [
+      "(A) 12",
+      "(B) 18",
+      "(C) 20",
+      "(D) 24"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_04",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪一個化合物的水溶液呈鹼性?",
+    "options": [
+      "(A) NO2",
+      "(B) H3PO4",
+      "(C) CH3OH",
+      "(D) Mg(OH)2"
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_05",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "等重的 NO、NO2、N2O 三種化合物所含氧原子莫耳數的大小關係，何者為正確?",
+    "options": [
+      "(A) NO2>NO>N2O",
+      "(B) NO2>N2O>NO",
+      "(C) NO>N2O>NO2",
+      "(D) N2O>NO>NO2"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_06",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列鍵長的比較，何者正確?",
+    "options": [
+      "(A) S-O鍵: SO2>SO3>SO4 2-",
+      "(B) C-C鍵: C2H6>C2H4>C2H2",
+      "(C) C-C鍵: 鑽石>石墨=苯",
+      "(D) N-O鍵: NO>NO2>NO3"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_07",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列反應，何者必為吸熱反應?",
+    "options": [
+      "(A) 莫耳解離熱",
+      "(B) 莫耳燃燒熱",
+      "(C) 莫耳生成熱",
+      "(D) 莫耳中和熱"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_08",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪一組量子所表示的電子為3s軌域?",
+    "options": [
+      "(A) n=3,l=1,m=0, s=-1/2",
+      "(B) n=3,l=0, m=1, s=1/2",
+      "(C) n=3,l=0, m=0, s=1/2",
+      "(D) n=3,l=1, m=1, s=-1/2"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_09",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "化學需氧量是指用化學方法氧化耗氧有機物所需耗氧的量，常用以表示水受到耗氧有機物污染的程度。若化合物的莫耳數相同，則下列何者的化學需氧量最大?",
+    "options": [
+      "(A) C5H12",
+      "(B) C5H11OH",
+      "(C) C4H9CHO",
+      "(D) C4H9COOH"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_10",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列有關蒸餾與分餾的敘述，何者正確?",
+    "options": [
+      "(A) 蒸餾是利用沸點的不同而分離物質，分餾則不是",
+      "(B) 分餾是利用沸點的不同而分離物質，蒸餾則不是",
+      "(C) 蒸餾所得的物質為純物質，分餾所得為混合物",
+      "(D) 分餾所得的物質為純物質，蒸餾所得為混合物"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_11",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "依有效數字規則計算 (17mL+127.7 mL+22.55 mL) 的水，其值為多少mL?",
+    "options": [
+      "(A) 167.25",
+      "(B) 167.3",
+      "(C) 167",
+      "(D) 170"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_12",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "在STP條件下，苯之計量濃度(stoichiometric concentration)約為多少%?",
+    "options": [
+      "(A) 5.21",
+      "(B) 2.72",
+      "(C) 9.55",
+      "(D) 0.85"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_13",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "三氯化磷27.46g與水混合之計量反應，能夠生成約多少克之磷酸?",
+    "options": [
+      "(A) 48 g",
+      "(B) 27 g",
+      "(C) 16 g",
+      "(D) 2.0 g"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_14",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "液態乙醇的蒸發熱為+38.56kJ/mol、燃燒熱為 -1,370.7kJ/mol，試求 1g 氣態乙醇的燃燒熱?",
+    "options": [
+      "(A) -1,409.26 kJ",
+      "(B) +1,409.26 kJ",
+      "(C) -1,276.7 kJ",
+      "(D) -30.6 kJ"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_15",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "有一電子移動速度是光速的0.30倍，請問其德布洛依(de Broglie)波長?",
+    "options": [
+      "(A) 8.09x10^-11 m",
+      "(B) 8.09x10^-3 nm",
+      "(C) 2.7x10^-12 m",
+      "(D) 6.55x10^4 m"
+    ],
+    "answer": "D",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_16",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "賈法尼電池之反應為 2Al3+(aq)+3Mg(s)->2Al(s)+3Mg2+(aq)，請問何者為電池的陰極部分?",
+    "options": [
+      "(A) HCl",
+      "(B) Mg",
+      "(C) Al",
+      "(D) H2SO4"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_17",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "鋁熱劑反應所產生的高熱可使剛開始形成的鐵熔化成液體，反應物鋁粉為何類公共危險物品?",
+    "options": [
+      "(A) 第1類",
+      "(B) 第2類",
+      "(C) 第3類",
+      "(D) 第4類"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_18",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "絕熱條件下，100°C 的500.0g水倒入 25.0°C 的250.0g水中，則水的最終溫度為何?",
+    "options": [
+      "(A) 50.0°C",
+      "(B) 62.5°C",
+      "(C) 75.0°C",
+      "(D) 85.0°C"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_19",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "中和48.0mL的0.25M H2SO4 溶液需要多少體積的0.30N NaOH溶液?",
+    "options": [
+      "(A) 40mL",
+      "(B) 80mL",
+      "(C) 48mL",
+      "(D) 24mL"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_20",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "在 25°C 時，氫氧化鎳 Ni(OH)2(II)的Ksp值為 5.0x10^-16。在 25°C 時，每公升會有多少克的氫氧化鎳(II)溶解?",
+    "options": [
+      "(A) 5.0x10^-16 g/L",
+      "(B) 5.4x10^-2 g/L",
+      "(C) 4.6x10^-4 g/L",
+      "(D) 7.4x10^-6 g/L"
+    ],
+    "answer": "C",
+    "explanation": ""
+  },
+  {
+    "id": "CPU113_CHEM_21",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些鹽類的溶解度會因pH值下降而增加?",
+    "options": [
+      "(A) ZnS",
+      "(B) PbI2",
+      "(C) AgCl",
+      "(D) Ag3PO4",
+      "(E) K2CrO4"
+    ],
+    "answer": "AD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：AD"
+  },
+  {
+    "id": "CPU113_CHEM_22",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "有關物質的反應熱 (dH) 的敘述，下列何者正確?",
+    "options": [
+      "(A) 化學反應的 dH 為正值時，為一放熱反應",
+      "(B) 汽油的燃燒是放熱反應， dH 為負值",
+      "(C) 反應熱大小與物質種類無關，與溫度高低有關",
+      "(D) 化學反應的 dH 為負值時，反應進行系統的溫度會上升",
+      "(E) 方程式係數變成n倍，反應熱大小不變"
+    ],
+    "answer": "ADE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ADE"
+  },
+  {
+    "id": "CPU113_CHEM_23",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列有關物質三態的特性，何者正確?",
+    "options": [
+      "(A) 固體及液態粒子間的空間很小，加壓對其體積影響均不大",
+      "(B) 液態密度高，但比其固態低",
+      "(C) 固態中，粒子間的凝聚力小於分散力",
+      "(D) 氣態中，粒子間的分散力大於凝聚力",
+      "(E) 液態具有一定的體積，不定的形狀"
+    ],
+    "answer": "BD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BD"
+  },
+  {
+    "id": "CPU113_CHEM_24",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列哪些敘述符合波耳理論?",
+    "options": [
+      "(A) 電子繞核運轉的角動量為特定值",
+      "(B) 電子具有足夠能量時可在原子核外任意處繞合作圓周運動",
+      "(C) 電子可以吸收任意波長的光，躍遷到不同之軌道",
+      "(D) 電子從較高的能階回到低能階時，放出熱量",
+      "(E) 氫原子能階為不連續，可以推出氫原子光譜為線光譜"
+    ],
+    "answer": "AE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：AE"
+  },
+  {
+    "id": "CPU113_CHEM_25",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列有關二氧化鈦 (TiO2) 光觸媒的敘述，何者正確?",
+    "options": [
+      "(A) 在黑暗中使用，仍具有消毒效果",
+      "(B) 二氧化鈦光觸媒作用原理主要是吸附作用",
+      "(C) 修正液的成分也是二氧化鈦，故修正液也具殺菌液、除臭的光觸媒特性",
+      "(D) 二氧化鈦可吸收紫外線，將有機汙染物分解",
+      "(E) 二氧化鈦製成奈米級材料顆粒，可以有效增大表面積"
+    ],
+    "answer": "DE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：DE"
+  },
+  {
+    "id": "CPU113_CHEM_26",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "火箭中的液態燃料肼 (N2H4) 與氧化劑四氧化二氮 (N2O4) 反應後，產生氮氣與水，假設有64克的 N2H4 與46克的 N2O4 完全反應，下列敘述何者正確?",
+    "options": [
+      "(A) 反應後產生水36克",
+      "(B) 以最小整數為係數平衡方程式，可得係數總和為10",
+      "(C) 反應後生成氮氣72克",
+      "(D) 反應後程的氮氣在STP下體積為24升",
+      "(E) 限量試劑為 N2O4"
+    ],
+    "answer": "ABE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ABE"
+  },
+  {
+    "id": "CPU113_CHEM_27",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列各化合物，何者可以導電?",
+    "options": [
+      "(A) H2SO4(l)",
+      "(B) Cu(l)",
+      "(C) AgNO3(l)",
+      "(D) C6H12O6(l)",
+      "(E) NaCl(l)"
+    ],
+    "answer": "BCE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BCE"
+  },
+  {
+    "id": "CPU113_CHEM_28",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "對於 Ag+(aq)+2NH3(aq)=Ag(NH3)2+ 的平衡系中，加入同體積的水，則下列敘述何者正確?",
+    "options": [
+      "(A) 平衡向左移動",
+      "(B) [Ag+] 濃度增加",
+      "(C) NH3 莫耳數增加",
+      "(D) 溶液顏色變深",
+      "(E) [NH3] 增大"
+    ],
+    "answer": "AC",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：AC"
+  },
+  {
+    "id": "CPU113_CHEM_29",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "有關氣態離子半徑大小之比較，下列各關係中，何者正確?",
+    "options": [
+      "(A) Cs+>Na+",
+      "(B) Mg2+>Na+",
+      "(C) F->Na+",
+      "(D) Li+>Na+",
+      "(E) Cr2+>Cr3+"
+    ],
+    "answer": "ACE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ACE"
+  },
+  {
+    "id": "CPU113_CHEM_30",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列有關化學鍵的敘述，何者正確?",
+    "options": [
+      "(A) 共價鍵是利用共用電子對所形成的作用力束縛兩個原子",
+      "(B) 離子鍵是利用分離電子對所形成的作用力束縛兩個原子",
+      "(C) 離子鍵形成時，電子從原子轉移到另一原子",
+      "(D) 共價鍵形成時，電子從原子轉移到另一原子",
+      "(E) 金屬鍵形成時，金屬中的價電子能自由地在原子間穿梭往來"
+    ],
+    "answer": "ACE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ACE"
+  },
+  {
+    "id": "CPU113_CHEM_31",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "有關每一原子結構，下列敘述何者正確?",
+    "options": [
+      "(A) s軌域的形狀總是錐形的",
+      "(B) 2s 軌域和3s軌域的大小不同",
+      "(C) 每一主能階僅有一個s軌域",
+      "(D) p軌域的葉瓣數目會隨n值的增加而增加，亦即3p軌域的葉瓣較2p軌域的多",
+      "(E) 電子的路徑可用軌域的表面加以標示確認"
+    ],
+    "answer": "BC",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BC"
+  },
+  {
+    "id": "CPU113_CHEM_32",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "在STP條件下，31.2g苯之計量燃燒反應，所需空氣量約為Xmol，計量濃度(stoichiometric concentration)約為Y%，則下列何者正確?",
+    "options": [
+      "(A) X=11.28",
+      "(B) 需3.0 mol O2",
+      "(C) Y=0.272",
+      "(D) X+Y=17",
+      "(E) X-Y=9.6"
+    ],
+    "answer": "BD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BD"
+  },
+  {
+    "id": "CPU113_CHEM_33",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "氯化鋇2.08g溶於水之溶劑體積莫耳濃度xM，混合硝酸鈣2.46g溶於1,000mL 水之溶劑體積莫耳濃度yM，產生沉澱物約 z 公克，則下列何者正確?",
+    "options": [
+      "(A) x=0.02",
+      "(B) y=15.0",
+      "(C) z=2.61",
+      "(D) x+y+z=17.63",
+      "(E) x+y-z=0.035"
+    ],
+    "answer": "AE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：AE"
+  },
+  {
+    "id": "CPU113_CHEM_34",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "有一反應之平衡狀態為 3X(g)+Y(s)=2Z(g)+W(g)，反應熱 dH=-280 kJ/mol，則下列何者會使平衡會往右移?",
+    "options": [
+      "(A) 添加 X(g)",
+      "(B) 添加 Y(s)",
+      "(C) 移除 Z(g)",
+      "(D) 系統體積減少一半",
+      "(E) 系統升溫"
+    ],
+    "answer": "AC",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：AC"
+  },
+  {
+    "id": "CPU113_CHEM_35",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "極性影響石油與水是否相溶之原因，下列敘述何者正確?",
+    "options": [
+      "(A) 石油主要由碳氫元素混合組成，其陰電性相近，為非極性",
+      "(B) 石油碳氫鍵結電子幾乎是均等共用，鍵結是極性的",
+      "(C) 水分子元素之陰電性相近，合成之水為極性",
+      "(D) 非極性的分子無法與極性水分子生成吸引力，所以無法溶解於水",
+      "(E) 石油與水兩者陰電性相近，故不相溶"
+    ],
+    "answer": "AD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：AD"
+  },
+  {
+    "id": "CPU113_CHEM_36",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "一化合物的通式為X2O，其中X是未知的元素或離子， 代表氧，下列何者可為此化合物的名稱?",
+    "options": [
+      "(A) 氧化亞鐵",
+      "(B) 氧化亞銅",
+      "(C) 一氧化二氮",
+      "(D) 水",
+      "(E) 氧化亞錫"
+    ],
+    "answer": "BCD",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BCD"
+  },
+  {
+    "id": "CPU113_CHEM_37",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "有關三氟化硼分子 (BF3) 結構，下列何者正確?",
+    "options": [
+      "(A) 為四面體結構",
+      "(B) 硼原子上有3對價電子",
+      "(C) 有參鍵結構",
+      "(D) 硼原子上有4對價電子",
+      "(E) F-B-F的鍵角約120度"
+    ],
+    "answer": "BE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BE"
+  },
+  {
+    "id": "CPU113_CHEM_38",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "當含硫的有機化合物燃燒時會產生 SO2，而所形成的 SO2 的量可以雙氧水反應形成硫酸，然後用標準的NaOH溶液加以滴定來測定。今有一塊3.202g的煤樣品燃燒，以雙氧水收集所生成的 SO2 形成之硫酸，需要50mL的0.20M NaOH完全滴定。請問下列敘述何者正確?",
+    "options": [
+      "(A) 形成之硫酸約為0.05mol",
+      "(B) 生成的S約為0.005mol",
+      "(C) 生成的 SO2 約為0.05mol",
+      "(D) 生成的S約為0.16g",
+      "(E) 此煤樣品中硫的質量百分比約5%"
+    ],
+    "answer": "BDE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BDE"
+  },
+  {
+    "id": "CPU113_CHEM_39",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "下列有關3.011x10^24個水分子之敘述，何者正確?",
+    "options": [
+      "(A) 含有0.5莫耳的水分子",
+      "(B) 含有10.08g的氫",
+      "(C) 含有9.01g的水分子",
+      "(D) 含有10莫耳的氫",
+      "(E) 含有9.035x10^24個原子"
+    ],
+    "answer": "BDE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：BDE"
+  },
+  {
+    "id": "CPU113_CHEM_40",
+    "year": 113,
+    "subject": "普通化學",
+    "category": "普通化學",
+    "question": "乙醇及二甲基醚為具相同分子式C2H6O的異構物，基於分子間作用力的考量，相同條件下，有關兩者之判定，下列何者正確?",
+    "options": [
+      "(A) 乙醇沸點較高",
+      "(B) 二甲基醚沸點較高",
+      "(C) 乙醇較易揮發",
+      "(D) 二甲基醚較易揮發",
+      "(E) 兩者均含有氫鍵"
+    ],
+    "answer": "ADE",
+    "explanation": "⚠️ 注意：本題答案有修正，官方公布為：ADE"
+  },
+  {
+    "id": 11201,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "量子化學",
+    "question": "已知電子的質量為 9.1×10⁻³¹ kg，假設一電子以 2.5×10⁶ m/s 的速度前進，相對應的波長為多少？",
+    "options": [
+      "(A) 2.9×10⁻¹⁰ m",
+      "(B) 2.3×10⁻²⁴ m",
+      "(C) 7.3×10⁻⁴ m",
+      "(D) 7.3 nm"
+    ],
+    "answer": "A",
+    "explanation": "依據物質波公式 λ = h / (mv) 計算：λ = 6.626×10⁻³⁴ / (9.1×10⁻³¹ × 2.5×10⁶) ≈ 2.9×10⁻¹⁰ m [cite: 58, 66]。"
+  },
+  {
+    "id": 11202,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "酸鹼化學",
+    "question": "試計算 0.10M 醋酸鈉 (CH₃COONa) 水溶液中，氫離子的濃度為何？(CH₃COOH 的 Ka 值為 1.8×10⁻⁵)",
+    "options": [
+      "(A) 4.2×10⁻³",
+      "(B) 1.3×10⁻⁸",
+      "(C) 7.5×10⁻⁶",
+      "(D) 7.5×10⁻⁷"
+    ],
+    "answer": "B",
+    "explanation": "醋酸鈉水解呈鹼性。Kb = Kw/Ka ≈ 5.6×10⁻¹⁰。[OH⁻] = √(C×Kb) ≈ 7.5×10⁻⁶ M。[H⁺] = Kw/[OH⁻] ≈ 1.3×10⁻⁹ M。選項 (B) 1.3×10⁻⁸ 為最接近數量級的答案 [cite: 71, 75]。"
+  },
+  {
+    "id": 11203,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "酸鹼化學",
+    "question": "下列哪一種化合物是路易士酸 (Lewis Acid)？",
+    "options": [
+      "(A) NH₃",
+      "(B) AsH₃",
+      "(C) GaH₃",
+      "(D) GeH₄"
+    ],
+    "answer": "C",
+    "explanation": "路易士酸是電子對接受者。GaH₃ 的鎵原子僅有 6 個價電子，具有空軌域可接受電子對 [cite: 76, 33]。"
+  },
+  {
+    "id": 11204,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列鍵結中，何者鍵長最大？",
+    "options": [
+      "(A) H-H",
+      "(B) H-C",
+      "(C) H-N",
+      "(D) H-O"
+    ],
+    "answer": "B",
+    "explanation": "原子半徑 C > N > O > H，因此 H-C 的鍵長最長 [cite: 78, 33]。"
+  },
+  {
+    "id": 11205,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "下列化合物中，何者黏度最大？",
+    "options": [
+      "(A) 正己烷",
+      "(B) 正庚烷",
+      "(C) 正辛烷",
+      "(D) 2-甲基庚烷"
+    ],
+    "answer": "C",
+    "explanation": "碳鏈越長，分子間凡得瓦力越大，黏度越高。正辛烷 (C8) 為選項中碳數最多且為直鏈結構 [cite: 80, 33]。"
+  },
+  {
+    "id": 11206,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列化合物中，何者的中心原子的混成軌域不是屬於 dsp³ (即 sp³d)？",
+    "options": [
+      "(A) SF₄",
+      "(B) IF₅",
+      "(C) IF₃",
+      "(D) I₃⁻"
+    ],
+    "answer": "B",
+    "explanation": "(B) IF₅ 的 I 有 5 個鍵與 1 對孤對電子，為 sp³d² 混成軌域。其他選項皆為 sp³d [cite: 98, 33]。"
+  },
+  {
+    "id": 11207,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "下列碳鍵中，哪一個最具有活性（容易斷裂反應）？",
+    "options": [
+      "(A) C-C",
+      "(B) C-I",
+      "(C) C=O",
+      "(D) C-Li"
+    ],
+    "answer": "D",
+    "explanation": "官方解答為 (D)。C-Li (有機鋰試劑) 極性極大，碳帶負電，活性極高。註：C-I 鍵亦容易斷裂，但 C-Li 作為試劑活性更強 [cite: 102, 33]。"
+  },
+  {
+    "id": 11208,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "光譜化學",
+    "question": "下列電磁波中，何者頻率最小？",
+    "options": [
+      "(A) Microwave (微波)",
+      "(B) UV (紫外線)",
+      "(C) Visible (可見光)",
+      "(D) Infrared (紅外線)"
+    ],
+    "answer": "A",
+    "explanation": "頻率大小：UV > 可見光 > 紅外線 > 微波 [cite: 104, 33]。"
+  },
+  {
+    "id": 11209,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "溶液性質",
+    "question": "有關 CO₂ 溶於水的性質，下列敘述何者正確？",
+    "options": [
+      "(A) CO₂ 溶於水的量與水上面的 O₂ 壓力有關",
+      "(B) CO₂ 溶於水的量與水溫度成正比",
+      "(C) CO₂ 溶於純水中，水溶液的 pH 值變大",
+      "(D) 將含 CO₂ 的水加熱，其 pH 值變大"
+    ],
+    "answer": "D",
+    "explanation": "氣體溶解度隨溫度升高而降低，加熱會趕走 CO₂，使溶液酸性下降，pH 值上升 [cite: 106, 33]。"
+  },
+  {
+    "id": 11210,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "量子化學",
+    "question": "根據海森堡不確定原理，如果一個電子的速度不確定性是 4×10³ m/s，那麼它的位置不確定性至少是多少公尺？",
+    "options": [
+      "(A) 14.4×10⁻⁹ m",
+      "(B) 18.2×10⁻⁹ m",
+      "(C) 22.4×10⁻⁹ m",
+      "(D) 25.1×10⁻⁹ m"
+    ],
+    "answer": "A",
+    "explanation": "利用 Δx·Δv ≥ h/(4πm) 計算，可得 Δx 約為 1.44×10⁻⁸ m [cite: 111, 33]。"
+  },
+  {
+    "id": 11211,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "原子結構",
+    "question": "一個處於基態的 Se 原子含有 34 個電子，其中有多少個電子在角量子數 l=1 的軌域中？",
+    "options": [
+      "(A) 8",
+      "(B) 12",
+      "(C) 14",
+      "(D) 25"
+    ],
+    "answer": "C",
+    "explanation": "官方解答為 (C)。註：Se 電子組態為 [Ar]3d¹⁰4s²4p⁴。l=1 為 p 軌域，含 2p⁶, 3p⁶, 4p⁴，共 16 個電子。選項中無 16，官方給分 C (14) 可能有誤或有特殊定義，建議依官方答案作答 [cite: 119, 33]。"
+  },
+  {
+    "id": 11212,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "週期表",
+    "question": "下列哪一個組合中，三個粒子皆為等電子粒子（具有相同電子數）？",
+    "options": [
+      "(A) Ca²⁺, Cr, Ar",
+      "(B) K⁺, Mn²⁺, Fe²⁺",
+      "(C) Si⁴⁺, Na⁺, F⁻",
+      "(D) Ar, P³⁺, Cl⁻"
+    ],
+    "answer": "A",
+    "explanation": "官方解答為 (A)。註：化學理論上正確應為 (C) (皆為 10e⁻)。(A) 選項中 Cr 為 24e⁻，並非等電子。但考試請依官方公佈答案 (A) 為準 [cite: 123, 33]。"
+  },
+  {
+    "id": 11213,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "生物化學",
+    "question": "信使核醣核酸 (mRNA) 主要是擔任何種角色？",
+    "options": [
+      "(A) 蛋白質合成",
+      "(B) 傳遞遺傳密碼",
+      "(C) 氨基酸輸送",
+      "(D) 組成染色體"
+    ],
+    "answer": "B",
+    "explanation": "mRNA 負責將 DNA 的遺傳訊息轉錄並攜帶至核糖體 [cite: 124, 33]。"
+  },
+  {
+    "id": 11214,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "溶液性質",
+    "question": "下列哪一組溶液的組合可以形成理想溶液？",
+    "options": [
+      "(A) 氯仿和丙酮",
+      "(B) 乙醇和丙酮",
+      "(C) 正己烷和正庚烷",
+      "(D) 苯酚和苯胺"
+    ],
+    "answer": "C",
+    "explanation": "結構相似的非極性分子（同系物）最接近理想溶液 [cite: 131, 33]。"
+  },
+  {
+    "id": 11215,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "溶液性質",
+    "question": "將 100mL 0.500M 的硝酸鈣 (Ca(NO₃)₂) 溶液加入 0.900L 水中，所得溶液中硝酸根離子的濃度是多少？",
+    "options": [
+      "(A) 0.080 M",
+      "(B) 0.056 M",
+      "(C) 0.050 M",
+      "(D) 0.100 M"
+    ],
+    "answer": "D",
+    "explanation": "稀釋後 [Ca(NO₃)₂] = 0.05 M。因含 2 個 NO₃⁻，故 [NO₃⁻] = 0.10 M [cite: 132, 33]。"
+  },
+  {
+    "id": 11216,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "液態性質",
+    "question": "下列哪個物質的汽化熱最高？",
+    "options": [
+      "(A) CH₃CH₂CH₂OH",
+      "(B) HOCH₂CH₂OH",
+      "(C) CH₃CH₂CH₂CH₃",
+      "(D) CH₃CH₂CH₂F"
+    ],
+    "answer": "B",
+    "explanation": "乙二醇 (B) 含有兩個羥基，氫鍵作用力最強，故汽化熱最高 [cite: 140, 33]。"
+  },
+  {
+    "id": 11217,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "化學反應",
+    "question": "銅和稀硝酸反應會產生下列哪一種氣體？",
+    "options": [
+      "(A) N₂O",
+      "(B) NO₂",
+      "(C) NO",
+      "(D) N₂"
+    ],
+    "answer": "C",
+    "explanation": "銅與稀硝酸反應產生 NO；與濃硝酸反應則產生 NO₂ [cite: 142, 33]。"
+  },
+  {
+    "id": 11218,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "溶液性質",
+    "question": "一種未知的氣體“X”在 2.5 bar 壓力下溶於水中，並在溶液中具有 0.04 的莫耳分率。在相同的溫度條件下，當氣體的壓力加倍時，該氣體的莫耳分率是多少？",
+    "options": [
+      "(A) 0.08",
+      "(B) 0.04",
+      "(C) 0.02",
+      "(D) 0.92"
+    ],
+    "answer": "A",
+    "explanation": "亨利定律：氣體溶解度與分壓成正比。壓力加倍，莫耳分率亦加倍 [cite: 143, 33]。"
+  },
+  {
+    "id": 11219,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "鏡像異構物只在下列哪個特性有所不同？",
+    "options": [
+      "(A) 沸點",
+      "(B) 溶解度",
+      "(C) 熔點",
+      "(D) 旋光性"
+    ],
+    "answer": "D",
+    "explanation": "鏡像異構物的物理性質相同，唯對平面偏振光的旋轉方向（旋光性）不同 [cite: 147, 33]。"
+  },
+  {
+    "id": 11220,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "週期表",
+    "question": "下列哪個元素的最高氧化態之氧化物表現出最強的酸性？",
+    "options": [
+      "(A) P",
+      "(B) S",
+      "(C) As",
+      "(D) Se"
+    ],
+    "answer": "B",
+    "explanation": "非金屬氧化物的酸性隨中心原子電負度增加而增強。S 的電負度最高，形成的 SO₃ (H₂SO₄) 酸性最強 [cite: 151, 33]。"
+  },
+  {
+    "id": 11221,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "有機烯類化合物容易發生的反應，下列哪些為正確？",
+    "options": [
+      "(A) 脫水反應",
+      "(B) 氫化反應",
+      "(C) 氯化反應",
+      "(D) 自由基反應",
+      "(E) 氧化反應"
+    ],
+    "answer": "BCDE",
+    "explanation": "烯類主要進行加成反應 (B, C) 及氧化反應 (E)，亦可進行自由基聚合 (D) [cite: 156, 33]。"
+  },
+  {
+    "id": 11222,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "酸鹼化學",
+    "question": "比較物質酸性大小，下列哪些為正確？",
+    "options": [
+      "(A) H₂SeO₂ > H₂SeO₃",
+      "(B) H₃PO₄ > H₃AsO₄",
+      "(C) BF₃ > BCl₃",
+      "(D) HBr > H₂Se",
+      "(E) BeCl₂ > FeCl₃"
+    ],
+    "answer": "BCD",
+    "explanation": "官方解答為 BCD。(B) P 電負度大於 As。(D) 同週期越右邊酸性越強。(C) 依此題解答邏輯，BCl₃ 酸性小於 BF₃ (通常路易士酸性相反，考生需留意此題官方認定) [cite: 168, 33]。"
+  },
+  {
+    "id": 11223,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "酸鹼化學",
+    "question": "下列氧化物中，哪些可溶於水而呈鹼性？",
+    "options": [
+      "(A) CO₂",
+      "(B) P₄O₁₀",
+      "(C) K₂O",
+      "(D) Al₂O₃",
+      "(E) CaO"
+    ],
+    "answer": "CE",
+    "explanation": "金屬氧化物溶於水呈鹼性 (K₂O, CaO)。非金屬氧化物呈酸性 [cite: 173, 33]。"
+  },
+  {
+    "id": 11224,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "固態化學",
+    "question": "有關半導體與導體性質的敘述，下列哪些為正確？",
+    "options": [
+      "(A) 導體是價帶與導電帶彼此重疊",
+      "(B) 導體溫度升高，導電度也升高",
+      "(C) 半導體是溫度升高才會導電 (導電度升高)",
+      "(D) 矽是一種半導體",
+      "(E) 鉛、硒等硫化物可能是半導體"
+    ],
+    "answer": "ACDE",
+    "explanation": "(B) 錯誤，金屬導體溫度升高，電阻增加，導電度下降 [cite: 184, 33]。"
+  },
+  {
+    "id": 11225,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "核化學",
+    "question": "有關放射性元素的衰變，下列哪些為正確？",
+    "options": [
+      "(A) P-32 進行 beta 衰變變成 S-32",
+      "(B) N-13 正子衰變變成 C-13",
+      "(C) U-238 beta 衰變變成 Th-234",
+      "(D) K-40 電子捕獲變成 Ar-40",
+      "(E) Te-125 放出 γ 射線，元素不變"
+    ],
+    "answer": "ABDE",
+    "explanation": "(C) 錯誤，U-238 變成 Th-234 是 Alpha 衰變 [cite: 191, 33]。"
+  },
+  {
+    "id": 11226,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "化學平衡",
+    "question": "哈伯反應 N₂ + 3H₂ ⇌ 2NH₃ (ΔH < 0)，下列何者可增加氨的產率？",
+    "options": [
+      "(A) 減少壓力",
+      "(B) 增加氮氣與氫氣的濃度",
+      "(C) 溫度升高",
+      "(D) 使氨變成液態",
+      "(E) 加入催化劑"
+    ],
+    "answer": "BCDE",
+    "explanation": "官方解答包含 BCDE。註：理論上高溫 (C) 會使放熱反應平衡向左（產率下降），但工業上需高溫配合催化劑 (E) 以提升速率。官方答案可能考量實務操作 [cite: 197, 33]。"
+  },
+  {
+    "id": 11227,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列哪些為極性分子？",
+    "options": [
+      "(A) HCl",
+      "(B) CH₃Cl",
+      "(C) H₂S",
+      "(D) CF₄",
+      "(E) C₆H₆"
+    ],
+    "answer": "ABC",
+    "explanation": "(D) 正四面體對稱，非極性。(E) 平面對稱，非極性 [cite: 202, 33]。"
+  },
+  {
+    "id": 11228,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "固態化學",
+    "question": "關於晶質固體(晶體)的敘述，下列哪些正確？",
+    "options": [
+      "(A) 是真正的固體",
+      "(B) 其組成粒子有規則的排列",
+      "(C) 晶體一般都不具有雙折射性",
+      "(D) 乾冰不是晶體",
+      "(E) 明確的熔點溫度"
+    ],
+    "answer": "ABE",
+    "explanation": "晶體具有規則排列與明確熔點 [cite: 210, 33]。"
+  },
+  {
+    "id": 11229,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "原子結構",
+    "question": "根據所列的電子組態，下列哪些離子具有順磁性（有未成對電子）？",
+    "options": [
+      "(A) Ca⁺",
+      "(B) Fe³⁺",
+      "(C) Cu⁺",
+      "(D) Ga²⁺",
+      "(E) Co³⁺"
+    ],
+    "answer": "ABDE",
+    "explanation": "Cu⁺ (3d¹⁰) 為全滿軌域，具逆磁性。其餘皆有未成對電子 [cite: 216, 33]。"
+  },
+  {
+    "id": 11230,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列哪些分子含有雙鍵？",
+    "options": [
+      "(A) CO₂",
+      "(B) CH₂O",
+      "(C) N₂",
+      "(D) O₂",
+      "(E) HCOOH"
+    ],
+    "answer": "ABDE",
+    "explanation": "N₂ 為三鍵，其餘皆含雙鍵 [cite: 223, 33]。"
+  },
+  {
+    "id": 11231,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "週期表",
+    "question": "下列哪些元素有 ns²np⁶ 的最外層電子組態？",
+    "options": [
+      "(A) He",
+      "(B) Ne",
+      "(C) Ar",
+      "(D) Rn",
+      "(E) S"
+    ],
+    "answer": "BCD",
+    "explanation": "即鈍氣組態 (He 除外，為 1s²)。S 為 6A 族 [cite: 229, 33]。"
+  },
+  {
+    "id": 11232,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "熱力學",
+    "question": "下列敘述哪些錯誤？",
+    "options": [
+      "(A) 當吸熱過程發生時，焓值增加",
+      "(B) 當放熱過程發生時，焓值增加",
+      "(C) 當對環境進行功時，焓值增加",
+      "(D) 當系統進行功時，焓值增加",
+      "(E) 當吸熱過程並對環境進行功時，焓值增加"
+    ],
+    "answer": "BCDE",
+    "explanation": "題目問錯誤選項。(A) 是唯一正確敘述。放熱時焓值減少 [cite: 235, 33]。"
+  },
+  {
+    "id": 11233,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "熱力學",
+    "question": "當 21.45 克 KNO₃ 溶解在卡計中，溫度從 25.00℃ 下降到 14.14℃，熱容量 682 J/℃。下列哪些正確？",
+    "options": [
+      "(A) KNO₃ 莫耳數約為 0.41",
+      "(B) 該反應釋放熱量",
+      "(C) 每莫耳 KNO₃ 約可吸收 34.92 kJ 的熱量",
+      "(D) 該反應吸收約 7407 J 的熱量",
+      "(E) KNO₃ 莫耳數約為 0.21"
+    ],
+    "answer": "CDE",
+    "explanation": "溫度下降為吸熱反應。q = CΔT = 682 × (25-14.14) ≈ 7407 J。莫耳數 ≈ 0.21 [cite: 241, 33]。"
+  },
+  {
+    "id": 11234,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "相變",
+    "question": "當冰融化時會產生下列哪些現象？",
+    "options": [
+      "(A) 密度變化",
+      "(B) 形狀變化",
+      "(C) 分子組成變化",
+      "(D) 分子排列變化",
+      "(E) 分子速度變化"
+    ],
+    "answer": "ABDE",
+    "explanation": "融化是物理變化，分子組成 (H₂O) 不變 [cite: 249, 33]。"
+  },
+  {
+    "id": 11235,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "原子理論",
+    "question": "關於道耳頓原子論的敘述，下列哪些正確？",
+    "options": [
+      "(A) 一種元素的原子可以使用化學方法轉化為不同原子",
+      "(B) 不同元素的原子以整數比例結合",
+      "(C) 同一元素的原子具有相同的質量",
+      "(D) 不同元素的原子具有不同的質量",
+      "(E) 在化學反應中，物質不會被創造或毀滅"
+    ],
+    "answer": "BCDE",
+    "explanation": "(A) 錯誤，原子論認為原子不可分割及轉化 [cite: 253, 33]。"
+  },
+  {
+    "id": 11236,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "分子間作用力",
+    "question": "比較 CH₃CN 與 CH₃I 性質，下列哪些正確？",
+    "options": [
+      "(A) 偶極作用力 CH₃I > CH₃CN",
+      "(B) 偶極作用力 CH₃CN > CH₃I",
+      "(C) 倫敦分散力 CH₃I > CH₃CN",
+      "(D) 倫敦分散力 CH₃CN > CH₃I",
+      "(E) 沸點 CH₃I > CH₃CN"
+    ],
+    "answer": "BC",
+    "explanation": "CN 基團極性大 (偶極大)；I 原子大，電子多 (分散力大)。官方答案為 BC [cite: 261, 33]。"
+  },
+  {
+    "id": 11237,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "原子結構",
+    "question": "下列敘述哪些正確？",
+    "options": [
+      "(A) ⁵¹V 的原子序為 23",
+      "(B) ⁹⁵Mo 含有 53 個中子",
+      "(C) ⁶⁶Zn 的電子數和質子數相同",
+      "(D) ¹²C 的質子、中子和電子數相同",
+      "(E) ⁵⁶Fe 的中子數和質子數相同"
+    ],
+    "answer": "ABCD",
+    "explanation": "(E) Fe (26p), 中子數 56-26=30，不相同 [cite: 267, 33]。"
+  },
+  {
+    "id": 11238,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "化學計量",
+    "question": "反應容器中含 0.25 mol KO₂ 和 0.15 mol H₂O，下列哪些正確？(4KO₂ + 2H₂O → 4KOH + 3O₂)",
+    "options": [
+      "(A) KO₂ 為限量試劑",
+      "(B) H₂O 為限量試劑",
+      "(C) 生成 O₂ 約 6.1g",
+      "(D) 生成 O₂ 約 0.19 mol",
+      "(E) H₂O 過量"
+    ],
+    "answer": "ACD",
+    "explanation": "依係數比 4:2 = 2:1。0.25 mol KO₂ 需 0.125 mol H₂O (現有 0.15，故水過量，KO₂ 限量)。產氧 = 0.25 × (3/4) ≈ 0.19 mol ≈ 6.1g [cite: 273, 33]。"
+  },
+  {
+    "id": 11239,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "化學計量",
+    "question": "索爾維法製備碳酸氫鈉 (NaHCO₃) 3.00 kg，需多少原料？",
+    "options": [
+      "(A) 需 38.7 mol NH₃",
+      "(B) 需 800 L NH₃ (STP)",
+      "(C) 需 800 L CO₂ (STP)",
+      "(D) 需 55.7 mol CO₂",
+      "(E) 需 35.7 mol CO₂"
+    ],
+    "answer": "BCE",
+    "explanation": "3000g / 84 (MW) ≈ 35.7 mol。STP 下體積 ≈ 35.7 × 22.4 ≈ 800 L [cite: 279, 33]。"
+  },
+  {
+    "id": 11240,
+    "year": 112,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列哪些為離子化合物？",
+    "options": [
+      "(A) MgCl₂",
+      "(B) H₂S",
+      "(C) NaF",
+      "(D) AlCl₃",
+      "(E) CaO"
+    ],
+    "answer": "ACDE",
+    "explanation": "H₂S 為共價分子。註：AlCl₃ 雖具共價性，但官方歸類為離子化合物 [cite: 285, 33]。"
+  },
+  {
+    "id": 11101,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "有關不飽和脂肪酸之敘述，下列何者不正確？",
+    "options": [
+      "(A) 不飽和脂肪酸含有碳-碳雙鍵",
+      "(B) 不飽和脂肪酸通常比具有相同碳原子數的飽和脂肪酸有更高的熔點",
+      "(C) 不飽和脂肪酸在通過金屬催化劑存在下，用 H₂ 處理後，可以轉化為飽和脂肪酸",
+      "(D) 不飽和脂肪酸必須含有氧原子"
+    ],
+    "answer": "B",
+    "explanation": "不飽和脂肪酸因含有雙鍵（通常為順式），分子結構較不規則，堆疊不易，因此熔點通常「低於」相同碳數的飽和脂肪酸。"
+  },
+  {
+    "id": 11102,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "溶液濃度",
+    "question": "下列組合中，何者會產生 0.4 M NaCl 溶液？(Molar masses: Na=23g, Cl=35g, O=16g)",
+    "options": [
+      "(A) 將 500 mL 的 0.4 M NaOH 與 500 mL 的 0.4 M HCl 混合",
+      "(B) 將 300 mL 的 1.2 M NaOH 與 600 mL 的 0.6 M HCl 混合",
+      "(C) 將 500 mL 的 0.4 M NaCl 溶液與 500 mL 水混合",
+      "(D) 用水稀釋 400 mL 的 0.6 M NaCl 至最終體積為 1.0 L"
+    ],
+    "answer": "B",
+    "explanation": "(A) 體積加倍，濃度減半變 0.2 M。(B) NaOH (0.36 mol) + HCl (0.36 mol) → NaCl (0.36 mol)，總體積 0.9 L，濃度 = 0.36/0.9 = 0.4 M。(C) 稀釋後變 0.2 M。(D) 0.24 mol / 1.0 L = 0.24 M。"
+  },
+  {
+    "id": 11103,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "固態化學",
+    "question": "有關離子固體 (ionic solid) 的熔點高低順序，下列何者正確？",
+    "options": [
+      "(A) KBr < NaCl < NaF < MgO",
+      "(B) NaF < NaCl < MgO < KBr",
+      "(C) KBr < NaCl < MgO < NaF",
+      "(D) MgO < NaF < KBr < NaCl"
+    ],
+    "answer": "A",
+    "explanation": "離子鍵強度與電荷乘積成正比，與離子半徑成反比。電荷：MgO (+2,-2) > NaF (+1,-1)。半徑：F < Cl < Br，故晶格能 NaF > NaCl > KBr。綜合順序：KBr < NaCl < NaF < MgO。"
+  },
+  {
+    "id": 11104,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "熱力學",
+    "question": "在 25°C 之下，下列物質中，何者的熵 (entropy) 最大？",
+    "options": [
+      "(A) 2 mol HBr(s)",
+      "(B) 2 mol HBr(l)",
+      "(C) 2 mol HBr(g)",
+      "(D) 1 mol H2(g) + 1 mol Br2(l)"
+    ],
+    "answer": "C",
+    "explanation": "氣態物質的熵遠大於液態與固態。且 2 mol HBr(g) 的粒子數較多，熵值最大。"
+  },
+  {
+    "id": 11105,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "化學計量",
+    "question": "高錳酸根離子在酸性環境中氧化過氧化氫的反應如下：\n2MnO₄⁻ + 5H₂O₂ + 6H⁺ → 2Mn²⁺ + 5O₂ + 8H₂O\n如果用 0.150 M KMnO₄ 酸性溶液 35.0 mL 可以消耗 50.0 mL 消毒藥水中所有的 H₂O₂，請問消毒藥水中 H₂O₂ 的濃度是多少？",
+    "options": [
+      "(A) 0.042 M",
+      "(B) 0.105 M",
+      "(C) 0.263 M",
+      "(D) 0.368 M"
+    ],
+    "answer": "C",
+    "explanation": "MnO₄⁻ 莫耳數 = 0.150 × 0.035 = 0.00525 mol。依係數比 2:5，H₂O₂ 莫耳數 = 0.00525 × (5/2) = 0.013125 mol。濃度 = 0.013125 / 0.050 ≈ 0.2625 M。"
+  },
+  {
+    "id": 11106,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "熱化學",
+    "question": "已知反應熱：\n(1) S(s) + O₂(g) → SO₂(g), ΔH° = -296.8 kJ/mol\n(2) H₂(g) + 1/2O₂(g) → H₂O(l), ΔH° = -285.8 kJ/mol\n(3) H₂(g) + S(s) → H₂S(g), ΔH° = -20.6 kJ/mol\n請問反應 2H₂S(g) + 3O₂(g) → 2H₂O(l) + 2SO₂(g) 的 ΔH° 為何？",
+    "options": [
+      "(A) -603.2 kJ/mol",
+      "(B) -562.0 kJ/mol",
+      "(C) -1206.4 kJ/mol",
+      "(D) -1124.0 kJ/mol"
+    ],
+    "answer": "D",
+    "explanation": "目標反應 = 2 × (1) + 2 × (2) - 2 × (3)。\nΔH = 2(-296.8) + 2(-285.8) - 2(-20.6) = -593.6 - 571.6 + 41.2 = -1124.0 kJ/mol。"
+  },
+  {
+    "id": 11107,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "溶液性質",
+    "question": "當以下的溶液以對等體積的液體充分混合後靜置時，哪一對最有可能分成兩層？",
+    "options": [
+      "(A) ethanol and methanol",
+      "(B) carbon tetrachloride and methanol",
+      "(C) hexane and pentane",
+      "(D) carbon tetrachloride and hexane"
+    ],
+    "answer": "B",
+    "explanation": "「相似互溶原理」。四氯化碳 (CCl₄) 為非極性，甲醇 (Methanol) 為極性，兩者不互溶，故會分層。(A) 極性溶極性。(C)(D) 非極性溶非極性。"
+  },
+  {
+    "id": 11108,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "動力學",
+    "question": "一個化學反應在溫度 60°C 時的反應速率是 50°C 時的 2.3 倍。請問此反應溫度從 60°C 到 70°C 速率會增加多少？",
+    "options": [
+      "(A) 小於 2.3 倍",
+      "(B) 等於 2.3 倍",
+      "(C) 超過 2.3 倍",
+      "(D) 等於 4.6 倍"
+    ],
+    "answer": "A",
+    "explanation": "依 Arrhenius 方程式，ln(k2/k1) = Ea/R (1/T1 - 1/T2)。溫差相同 (10度)，但在較高溫區間 (60→70) 的 (1/T1 - 1/T2) 值會比低溫區間 (50→60) 略小，故速率增加倍率會略小於 2.3 倍。"
+  },
+  {
+    "id": 11109,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "氣體定律",
+    "question": "氮氣在 25°C、380 mmHg 佔的體積是 2.6×10³ mL，則該體積在相同溫度、760 mmHg 之下佔的體積是多少？",
+    "options": [
+      "(A) 5,200 mL",
+      "(B) 2,600 mL",
+      "(C) 1,300 mL",
+      "(D) 1,150 mL"
+    ],
+    "answer": "C",
+    "explanation": "波以耳定律 P₁V₁ = P₂V₂。\n380 × 2600 = 760 × V₂ → V₂ = 1300 mL。"
+  },
+  {
+    "id": 11110,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "核化學",
+    "question": "Cs-131 原子核的半衰期為 40 年。一個 Cs-131 樣品經過 120 年後剩下 5.4 g，此樣品原來質量大約為多少 g？",
+    "options": [
+      "(A) 10.8",
+      "(B) 21.6",
+      "(C) 43.2",
+      "(D) 86.4"
+    ],
+    "answer": "C",
+    "explanation": "120 年是 3 個半衰期 (120/40=3)。\n原質量 = 剩下質量 × 2³ = 5.4 × 8 = 43.2 g。"
+  },
+  {
+    "id": 11111,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "熱化學",
+    "question": "在 25°C 下，把 1.00 M Ba(NO₃)₂ 與 1.00 M Na₂SO₄ 之溶液混合後，產生 BaSO₄ 沉澱，溶液溫度上升至 28.1°C。若溶液重 2 kg，比熱 4.18 J/g·K，試計算此反應的焓變化是多少？",
+    "options": [
+      "(A) +2.6×10⁴ J",
+      "(B) -2.6×10⁴ J",
+      "(C) +6.1×10³ J",
+      "(D) -6.1×10³ J"
+    ],
+    "answer": "B",
+    "explanation": "溫度上升代表放熱反應 (ΔH < 0)。\nq = msΔT = 2000 g × 4.18 J/g·C × (28.1 - 25.0) = 2000 × 4.18 × 3.1 ≈ 25916 J ≈ 2.6×10⁴ J。\n放熱，故為 -2.6×10⁴ J。"
+  },
+  {
+    "id": 11112,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "溶解度",
+    "question": "磷酸鈣 Ca₃(PO₄)₂ 溶於水中，其溶解度為 2.5×10⁻⁶ M，則該鹽之 Ksp 值是多少？",
+    "options": [
+      "(A) 1.1×10⁻²⁶",
+      "(B) 9.8×10⁻³⁰",
+      "(C) 6.3×10⁻⁶",
+      "(D) 1.0×10⁻³⁰"
+    ],
+    "answer": "A",
+    "explanation": "Ca₃(PO₄)₂ ⇌ 3Ca²⁺ + 2PO₄³⁻。若溶解度為 s，則 Ksp = (3s)³(2s)² = 108s⁵。\nKsp = 108 × (2.5×10⁻⁶)⁵ ≈ 108 × 9.76×10⁻²⁹ ≈ 1.05×10⁻²⁶。"
+  },
+  {
+    "id": 11113,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "核化學",
+    "question": "下列的各種核衰變中，何者會釋放 X 射線？",
+    "options": [
+      "(A) α 衰變",
+      "(B) β 衰變",
+      "(C) 正子衰變",
+      "(D) 電子捕獲"
+    ],
+    "answer": "D",
+    "explanation": "電子捕獲 (Electron Capture) 過程中，內層電子被核捕獲，外層電子躍遷填補空缺時會釋放 X 射線。"
+  },
+  {
+    "id": 11114,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "配位化學",
+    "question": "下列錯化合物中，何者是平面四邊形？",
+    "options": [
+      "(A) CoCl₄²⁻",
+      "(B) Ni(CN)₄²⁻",
+      "(C) Zn(OH)₄²⁻",
+      "(D) Fe(en)₃²⁺"
+    ],
+    "answer": "B",
+    "explanation": "Ni²⁺ (d⁸) 配合強場配位基 (CN⁻) 形成 dsp² 混成，為平面四邊形。(A)(C) 為四面體 (sp³)，(D) 為八面體 (d²sp³ 或 sp³d²)。"
+  },
+  {
+    "id": 11115,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "下列化合物在汽車引擎中燃燒，何者最容易產生爆震 (Knocking)？",
+    "options": [
+      "(A) 正庚烷",
+      "(B) 異辛烷",
+      "(C) 甲基第三丁基醚",
+      "(D) 苯"
+    ],
+    "answer": "A",
+    "explanation": "正庚烷 (n-Heptane) 的辛烷值定義為 0，抗爆震能力最差，最容易產生爆震。異辛烷定義為 100。"
+  },
+  {
+    "id": 11116,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "光譜化學",
+    "question": "波長在 0.5 nm 的電磁波，屬於下列何種光的波長範圍？",
+    "options": [
+      "(A) 紅外光",
+      "(B) 微波",
+      "(C) 紫外光",
+      "(D) X-ray"
+    ],
+    "answer": "D",
+    "explanation": "X 射線的波長範圍約為 0.01 nm 至 10 nm。0.5 nm 落在此範圍內。"
+  },
+  {
+    "id": 11117,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "溶液性質",
+    "question": "同樣是 100 g 的物質溶於 1 L 水中，下列何種物質的水溶液沸點最高？",
+    "options": [
+      "(A) Na₂SO₄",
+      "(B) NaCl",
+      "(C) 蔗糖",
+      "(D) 酒精"
+    ],
+    "answer": "B",
+    "explanation": "沸點上升度數 ΔTb = i × Kb × m。需考慮范特荷夫因子 (i) 與莫耳濃度 (m)。\n雖然 Na₂SO₄ (i=3, MW=142) 看似 i 大，但 NaCl (i=2, MW=58.5) 分子量小，莫耳數較多。\n估算粒子總莫耳數：\n(A) 100/142 × 3 ≈ 2.11\n(B) 100/58.5 × 2 ≈ 3.41 (最高，故沸點上升最多)\n(C) 100/342 × 1 ≈ 0.29\n(D) 酒精揮發性高，反而可能降低沸點或不適用此比較。"
+  },
+  {
+    "id": 11118,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "原子結構",
+    "question": "下列物質中，何者不具有順磁性？",
+    "options": [
+      "(A) C 碳",
+      "(B) B 硼",
+      "(C) Zn 鋅",
+      "(D) Ni 鎳"
+    ],
+    "answer": "C",
+    "explanation": "Zn (鋅) 的電子組態為 [Ar] 3d¹⁰ 4s²，所有軌域皆全滿，無未成對電子，故為逆磁性 (Diamagnetic)。"
+  },
+  {
+    "id": 11119,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "溶液性質",
+    "question": "在 20°C 時，將 5.8 g 的丙酮溶入 180 g 的水中，則此溶液的蒸氣壓是多少？(丙酮 MW=58, 20°C P°=100 mmHg；水 MW=18, 20°C P°=17.54 mmHg)",
+    "options": [
+      "(A) 17.3 mmHg",
+      "(B) 17.54 mmHg",
+      "(C) 18.36 mmHg",
+      "(D) 117.54 mmHg"
+    ],
+    "answer": "C",
+    "explanation": "丙酮莫耳數 = 0.1 mol，水莫耳數 = 10 mol。總莫耳 = 10.1 mol。\n丙酮分壓 = 100 × (0.1/10.1) ≈ 0.99 mmHg。\n水分壓 = 17.54 × (10/10.1) ≈ 17.37 mmHg。\n總壓 = 0.99 + 17.37 = 18.36 mmHg。"
+  },
+  {
+    "id": 11120,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列分子中，何者偶極距最大？",
+    "options": [
+      "(A) CS₂",
+      "(B) SCl₂",
+      "(C) SiF₄",
+      "(D) SF₆"
+    ],
+    "answer": "B",
+    "explanation": "(A) 直線形，非極性。(C) 正四面體，非極性。(D) 正八面體，非極性。(B) 角形 (Bent)，具有極性，偶極距最大。"
+  },
+  {
+    "id": 11121,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "酸鹼化學",
+    "question": "下列哪些配對可以形成緩衝溶液？",
+    "options": [
+      "(A) HNO₂ 和 KNO₂",
+      "(B) HCN 和 KClO",
+      "(C) NH₄Cl 和 NH₃",
+      "(D) H₂S 和 LiHS",
+      "(E) HNO₃ 和 KNO₂"
+    ],
+    "answer": "ACD",
+    "explanation": "緩衝溶液需由「弱酸 + 弱酸鹽」或「弱鹼 + 弱鹼鹽」組成。\n(A) 弱酸 + 弱酸鹽 (O)\n(C) 弱酸鹽 + 弱鹼 (O)\n(D) 弱酸 + 弱酸鹽 (O)\n(B) 弱酸 + 無關鹽類 (X)\n(E) 強酸 + 弱酸鹽 (若比例不對則無法緩衝，通常視為強酸反應) (X)"
+  },
+  {
+    "id": 11122,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列的結構中，哪些有共振結構？",
+    "options": [
+      "(A) NO₂",
+      "(B) OCl₂",
+      "(C) NF₃",
+      "(D) O₃",
+      "(E) N₂O"
+    ],
+    "answer": "ADE",
+    "explanation": "(A) NO₂ (有共振)。(D) O₃ (有共振)。(E) N₂O (有共振)。(B) OCl₂ 單鍵無共振。(C) NF₃ 單鍵無共振。"
+  },
+  {
+    "id": 11123,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "分子形狀",
+    "question": "根據 VSEPR 模型推測分子或離子的形狀，下列何者正確？",
+    "options": [
+      "(A) PCl₃ 為平面四邊形",
+      "(B) SiF₆²⁻ 為八面體",
+      "(C) XeF₄ 為平面四邊形",
+      "(D) XeF₃⁻ 為 T 形",
+      "(E) IF₅ 為三角錐體"
+    ],
+    "answer": "BCD",
+    "explanation": "(A) 三角錐。(B) 八面體 (Correct)。(C) 平面四邊形 (Correct)。(D) 視為 AX3E3 為 T 形或平面三角形，但 XeF3- 少見，可能是 XeF3+ (T形)，依選項判斷 BCD 為官方給分。(E) 四角錐。"
+  },
+  {
+    "id": 11124,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "氧化還原",
+    "question": "下列化合物中，依照 N 之氧化數大小排列，何者正確？",
+    "options": [
+      "(A) N₂O > NO > N₂",
+      "(B) N₂O₅ > NO > N₂",
+      "(C) N₂O₃ > N₂O₄ > HNO₃",
+      "(D) NO > N₂H₄ > K₃N",
+      "(E) Ca(NO₃)₂ > N₂ > NO₂⁻"
+    ],
+    "answer": "BD",
+    "explanation": "氧化數計算：\n(B) +5 > +2 > 0 (Correct)\n(D) +2 > -2 > -3 (Correct)\n(A) +1 < +2 > 0 (False)\n(C) +3 < +4 < +5 (False)\n(E) +5 > 0 < +3 (False)"
+  },
+  {
+    "id": 11125,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "量子化學",
+    "question": "下列哪些量子數的組合可以代表原子內部 4p 軌域的電子？",
+    "options": [
+      "(A) n=4, l=1, ml=0, ms=+1/2",
+      "(B) n=4, l=2, ml=0, ms=+1/2",
+      "(C) n=4, l=1, ml=1, ms=-1/2",
+      "(D) n=4, l=1, ml=-1, ms=+1/2",
+      "(E) n=4, l=2, ml=0, ms=+1/2"
+    ],
+    "answer": "ACD",
+    "explanation": "4p 軌域對應 n=4, l=1。ml 可為 -1, 0, +1。ms 可為 ±1/2。\n(A)(C)(D) 皆符合。(B)(E) l=2 為 d 軌域。"
+  },
+  {
+    "id": 11126,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "化學命名",
+    "question": "下列多原子離子的命名，何者正確？",
+    "options": [
+      "(A) NO₂⁻ 硝酸根",
+      "(B) HSO₃⁻ 亞硫酸氫根",
+      "(C) ClO₂⁻ 亞氯酸根",
+      "(D) Cr₂O₇²⁻ 重鉻酸根",
+      "(E) HPO₄²⁻ 磷酸根"
+    ],
+    "answer": "BCD",
+    "explanation": "(A) 亞硝酸根。(B) 正確。(C) 正確。(D) 正確。(E) 磷酸氫根。"
+  },
+  {
+    "id": 11127,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "電子組態",
+    "question": "下列的電子組態何者是不合理的 (違反原理)？",
+    "options": [
+      "(A) 1s²2s²2p⁶3s²",
+      "(B) 1s²2s²2p⁶3s¹3p⁶3d⁵",
+      "(C) 1s²2s²2p⁶3s¹3p⁵4s¹",
+      "(D) 1s²2s²2p⁶3s²3p⁶4s¹3d¹4p²",
+      "(E) 1s²2s²2p⁶3s²3p⁶4s²3d¹"
+    ],
+    "answer": "BCD",
+    "explanation": "(B) 3s 未滿即填 3p/3d (違反構築原理)。(C) 3s/3p 未滿即填 4s (違反)。(D) 4s/3d 未滿即填 4p (違反)。(A)(E) 合理。"
+  },
+  {
+    "id": 11128,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "聚合物",
+    "question": "下列哪些聚合物是從縮合聚合的方式形成的？",
+    "options": [
+      "(A) Polyethylene",
+      "(B) Nylon",
+      "(C) Polystyrene",
+      "(D) Polyvinylchloride",
+      "(E) Polyester"
+    ],
+    "answer": "BE",
+    "explanation": "Nylon (尼龍) 與 Polyester (聚酯) 為縮合聚合。(A)(C)(D) 皆為加成聚合 (烯類聚合)。"
+  },
+  {
+    "id": 11129,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "沉澱反應",
+    "question": "下列哪些溶液的組合，混合後會產生沉澱物質？",
+    "options": [
+      "(A) AgNO₃ 和 (NH₄)₂S",
+      "(B) Ba(OH)₂ 和 HCl",
+      "(C) Cu(NO₃)₂ 和 Na₂S",
+      "(D) Pb(NO₃)₂ 和 H₂SO₄",
+      "(E) Hg(NO₃)₂ 和 NaCl"
+    ],
+    "answer": "ACD",
+    "explanation": "(A) Ag₂S (沉澱)。(C) CuS (沉澱)。(D) PbSO₄ (沉澱)。(B) 酸鹼中和無沉澱。(E) HgCl₂ 可溶 (Hg₂Cl₂ 才會沉澱，題目是 Hg²⁺)，但部分文獻視濃度可能析出，官方解答給 ACD。"
+  },
+  {
+    "id": 11130,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "下列化合物中，哪些的化學式是 C₃H₆O？",
+    "options": [
+      "(A) Cyclopropanol",
+      "(B) Propanone",
+      "(C) 1-buten-1-ol",
+      "(D) Vinyl alcohol",
+      "(E) Propanal"
+    ],
+    "answer": "ABE",
+    "explanation": "C₃H₆O 不飽和度為 1。(A) 環丙醇 (C3H6O)。(B) 丙酮 (C3H6O)。(E) 丙醛 (C3H6O)。(C) C4。(D) C2。"
+  },
+  {
+    "id": 11131,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "分子間作用力",
+    "question": "比較沸點的高低，下列何者正確？",
+    "options": [
+      "(A) SiH₄ > GeH₄",
+      "(B) Br₂ > GeH₄",
+      "(C) AsH₃ > PH₃",
+      "(D) AsH₃ > NH₃",
+      "(E) CH₃CN > CH₃CHO"
+    ],
+    "answer": "BCE",
+    "explanation": "(A) GeH4 > SiH4 (分子量大)。(B) Br2 (MW 160) > GeH4 (MW 77)。(C) AsH3 > PH3 (分子量大)。(E) CH3CN 極性較強，沸點高於 CH3CHO。"
+  },
+  {
+    "id": 11132,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "酸鹼化學",
+    "question": "下列哪些物質之水溶液的 pH 值小於 7？",
+    "options": [
+      "(A) CH₃COONa",
+      "(B) ArNH₃⁺",
+      "(C) NaHCO₃",
+      "(D) HN(CH₃)₃Br",
+      "(E) SO₂"
+    ],
+    "answer": "BDE",
+    "explanation": "(B) 陽離子酸。(D) 弱鹼之共軛酸鹽。(E) 非金屬氧化物溶於水呈酸性。(A)(C) 為鹼性鹽。"
+  },
+  {
+    "id": 11133,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "酸鹼化學",
+    "question": "比較物質溶在水中酸鹼性大小，下列何者正確？",
+    "options": [
+      "(A) 鹼性 CH₃NH₂ > NH₃",
+      "(B) 鹼性 Mg(OH)₂ > Al(OH)₃",
+      "(C) 鹼性 C₆H₅NH₂ > CH₃NH₂",
+      "(D) 酸性 C₂H₅COOH > HCOOH",
+      "(E) 酸性 Fe³⁺ > Fe²⁺"
+    ],
+    "answer": "ABE",
+    "explanation": "(A) 甲基推電子增強鹼性。(B) IIA 族鹼性 > IIIA 族。(E) 電荷密度大，酸性強。(C) 苯胺鹼性弱。(D) 甲酸酸性大於乙酸/丙酸。"
+  },
+  {
+    "id": 11134,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "核化學",
+    "question": "有關核素的放射性衰變方式，下列何者正確？",
+    "options": [
+      "(A) C-15 電子捕獲",
+      "(B) Cr-48 β 衰變",
+      "(C) Ra-226 α 衰變",
+      "(D) Fe-61 β 衰變",
+      "(E) N-12 電子捕獲"
+    ],
+    "answer": "CDE",
+    "explanation": "(C) 正確。(D) 中子過多，β 衰變。(E) 質子過多，電子捕獲或正子衰變。"
+  },
+  {
+    "id": 11135,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "熱力學",
+    "question": "有關物質熵值的變化或物質本身熵的大小之敘述，下列何者正確？",
+    "options": [
+      "(A) 酒精揮發熵值增加",
+      "(B) 二氧化碳溶於水中熵值減少",
+      "(C) 把體積 1 L 的氧氣壓縮成 0.1 L 的體積，熵值增加",
+      "(D) 同樣 mol 的 CCl₄(g) 熵比 CH₄(g) 大",
+      "(E) 同樣 mol 的 Na(s) 熵比 K(s) 大"
+    ],
+    "answer": "ABD",
+    "explanation": "(A) 液變氣，熵增。(B) 氣變液溶，熵減。(D) 分子量/複雜度大，熵大。(C) 體積減小，亂度減少，熵減。(E) 半徑小/束縛強，熵較小 (通常原子量大熵大)。"
+  },
+  {
+    "id": 11136,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "週期表",
+    "question": "有關元素金屬性的大小比較，下列何者正確？",
+    "options": [
+      "(A) Ca > Rb",
+      "(B) Mg > Ra",
+      "(C) I > Br",
+      "(D) Sb > As",
+      "(E) Na > Be"
+    ],
+    "answer": "CDE",
+    "explanation": "金屬性：左下 > 右上。(C) 碘的金屬性大於溴 (正確)。(D) 銻 > 砷 (正確)。(E) 鈉 > 鈹 (正確)。(A) Rb > Ca。(B) Ra > Mg。"
+  },
+  {
+    "id": 11137,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "電化學",
+    "question": "有關氧化還原反應之電位，下列敘述何者正確？",
+    "options": [
+      "(A) 反應電位與濃度無關",
+      "(B) E° 值越大，平衡常數越大",
+      "(C) E° 值越大，反應速率越快",
+      "(D) 在反應過程中，E 值會發生變化",
+      "(E) 如果 E° 值是負的反應，仍可靠加電壓使它發生反應"
+    ],
+    "answer": "BDE",
+    "explanation": "(B) logK = nE°/0.059。(D) E = E° - (RT/nF)lnQ，隨濃度改變。(E) 電解原理。(A) 有關。(C) 熱力學不決定動力學速率。"
+  },
+  {
+    "id": 11138,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "溶液性質",
+    "question": "比較離子水合能大小，下列何者正確？",
+    "options": [
+      "(A) Mg²⁺ > Ba²⁺",
+      "(B) Mg²⁺ > Na⁺",
+      "(C) NO₃⁻ > CO₃²⁻",
+      "(D) Fe³⁺ > Fe²⁺",
+      "(E) K⁺ > Ca²⁺"
+    ],
+    "answer": "ABD",
+    "explanation": "水合能與「電荷²/半徑」成正比。(A) 半徑小者能大。(B) 電荷大者能大。(D) 電荷大者能大。"
+  },
+  {
+    "id": 11139,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "週期表性質",
+    "question": "下列原子的半徑與游離能的大小排列順序何者正確？",
+    "options": [
+      "(A) 半徑 S>O>F；游離能 S>O>F",
+      "(B) 半徑 S>O>F；游離能 F>O>S",
+      "(C) 半徑 As>P>N；游離能 N>P>As",
+      "(D) 半徑 C>N>O；游離能 O>N>C",
+      "(E) 半徑 N>C>Si；游離能 N>C>Si"
+    ],
+    "answer": "BCD",
+    "explanation": "(B) 半徑：下>上，左>右。游離能：右>左，上>下。(C) 同族比較正確。(D) N 半滿全滿效應，游離能 N > O，故此選項前半正確，後半游離能排序有例外 (N>O>C)，但官方解答選 D，可能忽略例外或針對趨勢。"
+  },
+  {
+    "id": 11140,
+    "year": 111,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "有關自由基性質之敘述，下列何者正確？",
+    "options": [
+      "(A) 自由基容易破壞有機物的雙鍵",
+      "(B) 自由基會破壞 DNA",
+      "(C) 自由基不易與飽和油產生反應",
+      "(D) 自由基可能被維他命 C 消除",
+      "(E) 自由基對於聚合物的產生沒有作用"
+    ],
+    "answer": "ABCD",
+    "explanation": "自由基活性高，會攻擊雙鍵、DNA，維他命 C 為抗氧化劑可清除自由基。自由基可用於引發聚合反應，故 (E) 錯。"
+  },
+  {
+    "id": 11001,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "密度計算",
+    "question": "製作一個重量為 1.20 kg 且可浮在水面的長方體盒子，該盒寬及高均為 6.0 cm。要使該盒可浮在水面，下列何者為長的最小值？(假設水的密度是 1.0 g/cm³)",
+    "options": [
+      "(A) 100 cm",
+      "(B) 50 cm",
+      "(C) 40 cm",
+      "(D) 20 cm"
+    ],
+    "answer": "C",
+    "explanation": "浮體原理：浮力 = 物重。浮力最大值 = 排開水的體積 × 水密度。物重 1.2 kg = 1200 g。\n設長度為 L，總體積 V = 6 × 6 × L = 36L cm³。\n若要浮起，密度需小於等於水 (1 g/cm³)，即 V × 1 ≥ 1200。\n36L ≥ 1200 → L ≥ 33.33 cm。\n選項中最小值需大於 33.33，故選 (C) 40 cm (若選 A, B 亦可浮但非最小值；若選 D 20cm 則體積僅 720 cm³，浮力不足 1200g 會沉)。"
+  },
+  {
+    "id": 11002,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學計量",
+    "question": "某一水果行發生火災，殘火處理過程中因有電土發生爆炸。請問常溫常壓下，0.80 kg 之電土 (CaC₂) 約可產生乙炔 (C₂H₂) 氣體多少公升？(molar masses: Ca = 40.07 g，假設常溫常壓下氣體莫耳體積約 24.5 L)",
+    "options": [
+      "(A) 800 公升",
+      "(B) 500 公升",
+      "(C) 300 公升",
+      "(D) 100 公升"
+    ],
+    "answer": "C",
+    "explanation": "反應式：CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂。\n電土 (CaC₂) 分子量 ≈ 40+24 = 64 g/mol。\n0.8 kg = 800 g。莫耳數 = 800 / 64 = 12.5 mol。\n產生 C₂H₂ 亦為 12.5 mol。\n體積 ≈ 12.5 × 24.5 ≈ 306.25 L。最接近選項 (C)。"
+  },
+  {
+    "id": 11003,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "沉澱反應",
+    "question": "將硝酸鈣溶液加入 4 個燒杯中，燒杯中分別含有以下限量反應物，哪個燒杯會有沉澱生成？",
+    "options": [
+      "(A) 燒杯 1 (氯化鋇)",
+      "(B) 燒杯 2 (碳酸鈉)",
+      "(C) 燒杯 3 (鹽酸)",
+      "(D) 燒杯 4 (氯化鈉)"
+    ],
+    "answer": "B",
+    "explanation": "Ca(NO₃)₂ + Na₂CO₃ → CaCO₃ (白色沉澱) + 2NaNO₃。\n(A) CaCl₂ 可溶，Ba(NO₃)₂ 可溶。(C) 無反應。(D) 無反應。"
+  },
+  {
+    "id": 11004,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學計量",
+    "question": "當氯化銨與限量反應物氫氧化鈉 2.0 g 完全反應時，約可產生氨氣多少質量？(molar masses: Na=22.99g; N=14.01g)",
+    "options": [
+      "(A) 2.0 g",
+      "(B) 1.4 g",
+      "(C) 0.8 g",
+      "(D) 0.4 g"
+    ],
+    "answer": "C",
+    "explanation": "反應式：NH₄Cl + NaOH → NaCl + H₂O + NH₃。\nNaOH 分子量 ≈ 40 g/mol。\n2.0 g NaOH = 2.0/40 = 0.05 mol。\n生成 NH₃ 亦為 0.05 mol。\nNH₃ 分子量 = 17 g/mol。質量 = 0.05 × 17 = 0.85 g。最接近 (C)。"
+  },
+  {
+    "id": 11005,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "電子組態",
+    "question": "請指出下列何者為基態鉻原子 ²⁴Cr 之電子組態？",
+    "options": [
+      "(A) [Ar]4s²3d⁴",
+      "(B) [Ar]4s¹3d⁵",
+      "(C) [Ar]4s²4p⁶3d⁴",
+      "(D) [Ar]4s¹3d¹⁰"
+    ],
+    "answer": "D",
+    "explanation": "鉻 (Cr) 為原子序 24，基態電子組態具有半滿穩定性，電子會從 4s 躍遷至 3d，形成 [Ar] 4s¹ 3d⁵。註：原試卷與解答給 (D)，但標準答案應為 [Ar] 4s¹ 3d⁵。選項 (D) 寫 [Ar] 4s¹ 3d¹⁰ 是銅 (Cu) 的組態，(B) 雖為正確組態但解答給 (D)，推測為試題選項誤植或官方認定差異。**依官方解答給 (D)。** (實際上 (B) 才是標準化學的 Cr 基態，若考試請注意官方可能勘誤或特殊考量，此處依官方解答 D 呈現)。\n*修正註記：重新檢視官方解答 PDF，第 5 題答案為 **D**。但選項內容 (D) 是 [Ar]4s¹3d⁵ 還是 [Ar]4s¹3d¹⁰？ 依題目卷截圖，選項 (D) 是 `[Ar]4s¹3d⁵` (截圖最後一行右側)，選項 (B) 是 `[Ar]4s¹3d¹⁰`。OCR 可能誤判順序。經確認截圖位置：(B)在左下為 4s¹3d¹⁰(Cu)，(D)在右下為 4s¹3d⁵(Cr)。故選 (D) 是正確的 Cr 組態。*"
+  },
+  {
+    "id": 11006,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "週期表",
+    "question": "元素磷，Z=15 有多少價電子？",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 5"
+    ],
+    "answer": "D",
+    "explanation": "磷 (P) 位於第 15 族 (VA 族)，價電子數為 5 (電子組態 [Ne] 3s² 3p³)。"
+  },
+  {
+    "id": 11007,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列的鍵結何者極性最大？",
+    "options": [
+      "(A) H-H",
+      "(B) O-H",
+      "(C) Cl-H",
+      "(D) F-H"
+    ],
+    "answer": "D",
+    "explanation": "鍵極性取決於兩原子的電負度差。F 的電負度最大 (4.0)，與 H (2.1) 的差值最大，故 F-H 極性最大。"
+  },
+  {
+    "id": 11008,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學計量",
+    "question": "一個 40.0 L 的鎳容器在 400°C 下充滿 0.43 atm 的氙氣 (Xe) 和 0.68 atm 的氟氣 (F₂)，假設產率 100%，則約可生成四氟化氙 (XeF₄) 多少質量？(Xe=131.3, F=19.0)",
+    "options": [
+      "(A) 51.0 g",
+      "(B) 100.0 g",
+      "(C) 25.0 g",
+      "(D) 75.0 g"
+    ],
+    "answer": "A",
+    "explanation": "反應式：Xe + 2F₂ → XeF₄。\n利用 PV=nRT 計算莫耳數 (T=673 K)。\nXe 莫耳數 n(Xe) = (0.43 × 40) / (0.082 × 673) ≈ 0.311 mol。\nF₂ 莫耳數 n(F₂) = (0.68 × 40) / (0.082 × 673) ≈ 0.493 mol。\n限量試劑判斷：0.311 mol Xe 需 0.622 mol F₂，現有 F₂ 不足，故 F₂ 為限量試劑。\n生成 XeF₄ 莫耳數 = 0.493 / 2 = 0.2465 mol。\nXeF₄ 分子量 = 131.3 + 4×19 = 207.3 g/mol。\n質量 = 0.2465 × 207.3 ≈ 51.1 g。選 (A)。"
+  },
+  {
+    "id": 11009,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "熱化學",
+    "question": "水的莫耳熔化熱為 6.02 kJ/mol、莫耳汽化熱為 40.8 kJ/mol、比熱 4.18 J/g°C。將 0°C 的 25.0 g 冰熔化並升溫成為 100°C 水蒸氣所需要的熱量約為多少？",
+    "options": [
+      "(A) 50 kJ",
+      "(B) 75 kJ",
+      "(C) 100 kJ",
+      "(D) 19 kJ"
+    ],
+    "answer": "B",
+    "explanation": "1. 冰熔化 (0°C)：n = 25/18 ≈ 1.39 mol。q1 = 1.39 × 6.02 ≈ 8.37 kJ。\n2. 水升溫 (0→100°C)：q2 = 25 × 4.18 × 100 = 10450 J ≈ 10.45 kJ。\n3. 水汽化 (100°C)：q3 = 1.39 × 40.8 ≈ 56.7 kJ。\n總熱量 = 8.37 + 10.45 + 56.7 ≈ 75.52 kJ。選 (B)。"
+  },
+  {
+    "id": 11010,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "固態性質",
+    "question": "化合物 H₂O(s)、H₂S(s)、NaCl(s)、CH₄(s)，依熔點由高至低的順序排列，何者正確？",
+    "options": [
+      "(A) H₂O > H₂S > NaCl > CH₄",
+      "(B) H₂O > NaCl > H₂S > CH₄",
+      "(C) NaCl > H₂O > H₂S > CH₄",
+      "(D) NaCl > H₂O > CH₄ > H₂S"
+    ],
+    "answer": "C",
+    "explanation": "離子晶體 (NaCl, MP~800°C) > 氫鍵分子晶體 (H₂O, 0°C) > 極性分子 (H₂S, -82°C) > 非極性分子 (CH₄, -182°C)。"
+  },
+  {
+    "id": 11011,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學平衡",
+    "question": "在一密閉容器中氫氣、氧氣和水蒸氣處於平衡 (2H₂ + O₂ ⇌ 2H₂O)，將氧氣注入於容器，且讓系統重新達到平衡，下列敘述何者正確？",
+    "options": [
+      "(A) K 值增加",
+      "(B) 氫氣濃度不變",
+      "(C) 水蒸氣濃度增加",
+      "(D) 氫氣濃度增加"
+    ],
+    "answer": "C",
+    "explanation": "加入反應物 (O₂)，平衡向生成物 (右) 移動，水蒸氣濃度增加，氫氣濃度減少。K 值只隨溫度改變，不隨濃度改變。"
+  },
+  {
+    "id": 11012,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "極性共價鍵中，什麼因素決定極性的相對程度？",
+    "options": [
+      "(A) 雙鍵",
+      "(B) 價電子",
+      "(C) 電子組態",
+      "(D) 陰電性 (電負度)"
+    ],
+    "answer": "D",
+    "explanation": "鍵的極性取決於鍵結兩原子之間的電負度 (Electronegativity) 差值。"
+  },
+  {
+    "id": 11013,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "分子間作用力",
+    "question": "下列化合物何者的沸點最高？",
+    "options": [
+      "(A) H₂O",
+      "(B) H₂S",
+      "(C) H₂Se",
+      "(D) H₂"
+    ],
+    "answer": "A",
+    "explanation": "H₂O 具有氫鍵，分子間作用力極強，沸點遠高於同族的 H₂S 與 H₂Se (雖分子量較大但無氫鍵)。"
+  },
+  {
+    "id": 11014,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "電子組態",
+    "question": "氯原子含有 17 個電子，請問其中多少電子是在 s 軌域？",
+    "options": [
+      "(A) 2",
+      "(B) 4",
+      "(C) 6",
+      "(D) 8"
+    ],
+    "answer": "C",
+    "explanation": "Cl (17): 1s² 2s² 2p⁶ 3s² 3p⁵。\ns 軌域電子 = 1s(2) + 2s(2) + 3s(2) = 6 個。"
+  },
+  {
+    "id": 11015,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "液態性質",
+    "question": "在 25°C 時，以下何種液體有最高的黏度？",
+    "options": [
+      "(A) CH₃OCH₃",
+      "(B) C₂H₅OH",
+      "(C) CH₃Br",
+      "(D) HOCH₂CH₂OH (乙二醇)"
+    ],
+    "answer": "D",
+    "explanation": "乙二醇分子含有兩個羥基 (-OH)，能形成大量氫鍵，分子間作用力最強，故黏度最高。(B) 乙醇僅一個 OH。(A)(C) 無氫鍵。"
+  },
+  {
+    "id": 11016,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "酸鹼化學",
+    "question": "在水溶液中，下列何種離子之水解傾向大於游離傾向 (即呈鹼性)？",
+    "options": [
+      "(A) HSO₄⁻",
+      "(B) HSO₃⁻",
+      "(C) H₂PO₃⁻",
+      "(D) HS⁻"
+    ],
+    "answer": "D",
+    "explanation": "(A) HSO₄⁻ 為強酸 H₂SO₄ 的共軛鹼 (極弱)，主要解離出 H⁺ (呈酸性)。(D) HS⁻ 為極弱酸 H₂S 的共軛鹼，水解 (接受 H⁺) 傾向大於解離，故溶液呈鹼性。"
+  },
+  {
+    "id": 11017,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "電子組態",
+    "question": "碳原子的電子組態以何者最安定？",
+    "options": [
+      "(A) 1s² 2s¹ 2px¹ 2py¹ 2pz¹",
+      "(B) 1s² 2s² 2px¹ 2py¹",
+      "(C) 1s² 2s² 2px²",
+      "(D) 1s² 2s² 3s²"
+    ],
+    "answer": "B",
+    "explanation": "碳 (C, 6e⁻) 基態組態為 1s² 2s² 2p²。依洪德定則，2p 電子應分佔不同軌域且自旋平行，故 (B) 1s² 2s² 2px¹ 2py¹ 最安定。(A) 為激發態 (sp3 混成前)。"
+  },
+  {
+    "id": 11018,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學俗名",
+    "question": "下列化合物的俗名，何者錯誤？",
+    "options": [
+      "(A) CaO: 生石灰",
+      "(B) NaSO₄: 海波",
+      "(C) Al₂O₃: 鋁礬土",
+      "(D) MgO: 苦土"
+    ],
+    "answer": "B",
+    "explanation": "海波 (Hypo) 是硫代硫酸鈉 (Na₂S₂O₃)，而非硫酸鈉 (Na₂SO₄，芒硝)。"
+  },
+  {
+    "id": 11019,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "熱化學",
+    "question": "15 g 的鐵吸收多少熱能可以讓它增加 15°C？(比熱 k = 0.444 J/g°C)",
+    "options": [
+      "(A) 13 J",
+      "(B) 100 cal",
+      "(C) 6.7 J",
+      "(D) 1.0×10² J"
+    ],
+    "answer": "D",
+    "explanation": "H = msΔT = 15 g × 0.444 J/g°C × 15°C ≈ 99.9 J ≈ 1.0×10² J。"
+  },
+  {
+    "id": 11020,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "熱化學",
+    "question": "氮氣 N₂(g) 和氫氣 H₂(g) 在卡計中完全燃燒並生成 5.0 g 之氨氣 NH₃(g) 時，卡計的溫度上升了 0.42°C。已知該卡計之熱容量為 32.16 kJ/K。請問氨之生成熱為何？",
+    "options": [
+      "(A) -4.75 kJ/mol",
+      "(B) -13.5 kJ/mol",
+      "(C) -46 kJ/mol",
+      "(D) 32.16 kJ/K"
+    ],
+    "answer": "C",
+    "explanation": "放出熱量 q = CΔT = 32.16 kJ/K × 0.42 K ≈ 13.5 kJ。\nNH₃ 莫耳數 = 5.0 / 17 ≈ 0.294 mol。\n莫耳生成熱 ΔH = -13.5 kJ / 0.294 mol ≈ -45.9 kJ/mol。最接近 (C)。"
+  },
+  {
+    "id": 11021,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列鍵結 H-H、O-H、Cl-H、S-H 及 F-H，依極性大小之排列，何者正確？",
+    "options": [
+      "(A) H-H > O-H > Cl-H",
+      "(B) Cl-H > O-H < F-H",
+      "(C) H-H < O-H < Cl-H",
+      "(D) Cl-H > S-H > H-H",
+      "(E) S-H < Cl-H < O-H"
+    ],
+    "answer": "BDE",
+    "explanation": "電負度：F(4.0) > O(3.5) > Cl(3.0) > S(2.5) > H(2.1)。\n鍵極性差值：F-H(1.9) > O-H(1.4) > Cl-H(0.9) > S-H(0.4) > H-H(0)。\n(B) Cl-H(0.9) < O-H(1.4) < F-H(1.9) (正確)\n(D) Cl-H > S-H > H-H (正確)\n(E) S-H < Cl-H < O-H (正確)"
+  },
+  {
+    "id": 11022,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "原子結構",
+    "question": "帶 2+ 電的一金屬離子含有中子數 34 和電子數 27，則下列有關該元素之述敘何者正確？",
+    "options": [
+      "(A) 質子數 27",
+      "(B) 質子數 29",
+      "(C) 質量數約 61",
+      "(D) 質量數約 63",
+      "(E) 電子組態 [Ar]4s²3d⁹"
+    ],
+    "answer": "BD",
+    "explanation": "離子 X²⁺ 電子數 27，故原中性原子電子數 = 27+2 = 29 = 質子數 (B)。\n質量數 = 質子數 29 + 中子數 34 = 63 (D)。\n該元素為銅 (Cu)，基態 [Ar]4s¹3d¹⁰，Cu²⁺ 為 [Ar]3d⁹ (E 錯)。"
+  },
+  {
+    "id": 11023,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "沉澱反應",
+    "question": "將硝酸鉛(II)溶液加入 5 個燒杯中，分別為以下限量反應物，請問哪個燒杯會有沉澱生成？",
+    "options": [
+      "(A) 燒杯 A (氫氧化鈉)",
+      "(B) 燒杯 B (硫酸鈉)",
+      "(C) 燒杯 C (氯化鈉)",
+      "(D) 燒杯 D (氯化鋇)",
+      "(E) 燒杯 E (磷酸鈉)"
+    ],
+    "answer": "ABCDE",
+    "explanation": "Pb²⁺ 與多數陰離子形成沉澱：\n(A) Pb(OH)₂ (白沉澱)\n(B) PbSO₄ (白沉澱)\n(C) PbCl₂ (白沉澱，冷水難溶)\n(D) 與 Cl⁻ 形成 PbCl₂\n(E) Pb₃(PO₄)₂ (沉澱)\n故全部皆有沉澱。"
+  },
+  {
+    "id": 11024,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列那些分子含有極性共價鍵？",
+    "options": [
+      "(A) 一氧化碳 (CO)",
+      "(B) 臭氧 (O₃)",
+      "(C) 磷 (P₄)",
+      "(D) 氟化氫 (HF)",
+      "(E) 氧 (O₂)"
+    ],
+    "answer": "AD",
+    "explanation": "異核原子鍵結具極性：CO, HF。(B) O₃ 具微弱極性鍵/分子極性，但一般視同核為非極性鍵或極弱，考題常選明顯異核者，解答選 AD。(C)(E) 同核非極性。"
+  },
+  {
+    "id": 11025,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學鍵",
+    "question": "下列各雙原子分子中，有關分子中相對於另一端為正之述敘，何者正確？(指部分正電荷 δ+)",
+    "options": [
+      "(A) 氟化氫 (HF) 中之 H",
+      "(B) 一氧化碳 (CO) 中之 C",
+      "(C) 一氟化氯 (ClF) 中之 F",
+      "(D) 一氟化溴 (BrF) 中之 Br",
+      "(E) 一氯化碘 (ICl) 中之 Cl"
+    ],
+    "answer": "AD",
+    "explanation": "電負度小者帶部分正電 (δ+)。\n(A) H(2.1) < F(4.0) → H 為正 (正確)。\n(B) C < O → C 為正 (但 CO 形式電荷 C 為負，偶極矩方向特殊，一般簡單判斷可選，但官方解答僅給 AD，可能考量形式電荷或 CO 特殊性)。\n(C) Cl < F → Cl 為正 (F 為負)。\n(D) Br < F → Br 為正 (正確)。\n(E) I < Cl → I 為正。"
+  },
+  {
+    "id": 11026,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "氣體定律",
+    "question": "溫度 24°C 的 3% 過氧化氫，加入錳催化劑分解製備 300 mL 氧氣，排水集氣法收集，集氣瓶內壓力 646 mmHg。水於 24°C 蒸氣壓 23 mmHg。下列何者正確？",
+    "options": [
+      "(A) 氧氣分壓 0.5 atm",
+      "(B) 氧氣分壓 0.82 atm",
+      "(C) 氧氣莫耳數 0.01 mole",
+      "(D) 氧氣莫耳數 0.02 mole",
+      "(E) 水蒸氣分壓 0.5 atm"
+    ],
+    "answer": "BC",
+    "explanation": "P(O₂) = P(總) - P(水) = 646 - 23 = 623 mmHg。\n623 / 760 ≈ 0.82 atm (B 正確)。\nn = PV/RT = (0.82 × 0.3) / (0.082 × 297) ≈ 0.0101 mol (C 正確)。"
+  },
+  {
+    "id": 11027,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "氣體定律",
+    "question": "混合物中含 O₂、N₂、CO₂ 及 Ne 各 10 g，STP 條件下，下列何者正確？",
+    "options": [
+      "(A) 混合物體積約 10.0 L",
+      "(B) 氧氣分壓約 0.45 atm",
+      "(C) 混合物體積約 30.0 L",
+      "(D) 氮氣分壓約 0.25 atm",
+      "(E) 氖氣分壓約 0.35 atm"
+    ],
+    "answer": "CDE",
+    "explanation": "莫耳數：O₂=10/32=0.31, N₂=10/28=0.36, CO₂=10/44=0.23, Ne=10/20.2=0.50。\n總莫耳 n = 1.40 mol。\n總體積 V = 1.40 × 22.4 ≈ 31.3 L (接近 C)。\n分壓 = 總壓 (1 atm) × 莫耳分率。\nP(N₂) = 0.36/1.40 ≈ 0.257 atm (D 正確)。\nP(Ne) = 0.50/1.40 ≈ 0.357 atm (E 正確)。"
+  },
+  {
+    "id": 11028,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "分子間作用力",
+    "question": "甲醛 (H₂CO) 分子之間彼此吸引是因為何者作用力的結合？",
+    "options": [
+      "(A) 離子力",
+      "(B) 共價鍵與氫鍵",
+      "(C) 氫鍵與偶極-誘發偶極力",
+      "(D) 偶極-偶極作用力",
+      "(E) 倫敦分散力"
+    ],
+    "answer": "DE",
+    "explanation": "甲醛為極性分子，具有偶極-偶極力 (D)。所有分子間皆有倫敦分散力 (E)。甲醛氫接在碳上，無氫鍵。"
+  },
+  {
+    "id": 11029,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "酸鹼化學",
+    "question": "下列何種組合可作為緩衝溶液？",
+    "options": [
+      "(A) HClO 和 HClO₄",
+      "(B) HClO₂ 和 KClO₂",
+      "(C) HCl 與 NaCl",
+      "(D) HC₃H₅O₂ 和 NaC₃H₅O₂",
+      "(E) CH₃COOH 與 KCH₃COO"
+    ],
+    "answer": "BDE",
+    "explanation": "緩衝溶液需為弱酸+弱酸鹽 (或弱鹼+弱鹼鹽)。\n(B) 亞氯酸 (弱酸) + 鹽 (O)\n(D) 丙酸 (弱酸) + 鹽 (O)\n(E) 醋酸 (弱酸) + 鹽 (O)\n(A)(C) 含強酸，不可。"
+  },
+  {
+    "id": 11030,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "氧化還原",
+    "question": "鐵礦煉製反應：Fe₂O₃(s) + 3CO(g) → 2Fe(l) + 3CO₂(g)。有關此反應之述敘何者正確？",
+    "options": [
+      "(A) 碳原子被氧化",
+      "(B) 鐵原子被氧化",
+      "(C) 碳原子被還原",
+      "(D) Fe₂O₃(s) 是氧化劑",
+      "(E) CO(g) 是氧化劑"
+    ],
+    "answer": "AD",
+    "explanation": "C 的氧化數：+2 (CO) → +4 (CO₂)，被氧化 (A)。\nFe 的氧化數：+3 (Fe₂O₃) → 0 (Fe)，被還原，故 Fe₂O₃ 為氧化劑 (D)。"
+  },
+  {
+    "id": 11031,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "分子形狀",
+    "question": "以下何者具有平面三角形分子構型？",
+    "options": [
+      "(A) SO₃",
+      "(B) SO₃²⁻",
+      "(C) NO₃⁻",
+      "(D) PF₃",
+      "(E) BF₃"
+    ],
+    "answer": "ACE",
+    "explanation": "(A) SO₃ (sp², 平面三角)。(C) NO₃⁻ (sp², 平面三角)。(E) BF₃ (sp², 平面三角)。(B)(D) 具有孤對電子，為三角錐形。"
+  },
+  {
+    "id": 11032,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "氧化數",
+    "question": "下列哪些化合物具有氧化數為 -1 的原子？",
+    "options": [
+      "(A) H₂O₂",
+      "(B) LiH",
+      "(C) HOF",
+      "(D) Na₂S₂O₈",
+      "(E) NaBH₄"
+    ],
+    "answer": "ABCDE",
+    "explanation": "(A) O 為 -1。\n(B) H 為 -1 (金屬氫化物)。\n(C) F 為 -1 (O為0, H為+1? 或 F-1, H+1, O 0)。\n(D) 過二硫酸根含過氧鍵 (-O-O-)，其中 O 為 -1。\n(E) H 為 -1 (硼氫化鈉)。\n故全選。"
+  },
+  {
+    "id": 11033,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "下列各項反應中，何者是氧化還原反應？",
+    "options": [
+      "(A) 烯烴加溴 (加成)",
+      "(B) 沉澱反應",
+      "(C) 酸鹼中和",
+      "(D) 脫去反應 (生成烯)",
+      "(E) 酯類胺解"
+    ],
+    "answer": "AD",
+    "explanation": "(A) 加成反應，C 的氧化數改變 (氧化還原)。(D) 鹵代烷脫去生成烯，C 氧化數改變 (氧化還原)。(B)(C)(E) 通常非氧化還原。"
+  },
+  {
+    "id": 11034,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "酸鹼滴定",
+    "question": "弱酸 HA 3.76 g 溶成 100 mL，取 24 mL 滴定。加入 NaOH 24 mL 時 pH=4.7，達終點耗去 48 mL。下列敘述何者正確？",
+    "options": [
+      "(A) 分子量 406",
+      "(B) 原濃度 0.003 M",
+      "(C) Ka 為 2×10⁻⁵",
+      "(D) 當量點 pH 為 7.5",
+      "(E) 當量點 pH 為 8.76"
+    ],
+    "answer": "CE",
+    "explanation": "達終點 48 mL，半當量點 (Half-equivalence point) 為 24 mL。此時 pH = pKa = 4.7。Ka = 10⁻⁴·⁷ ≈ 2×10⁻⁵ (C 正確)。\n由 Ka 計算當量點 pH，弱酸強鹼鹽呈鹼性，pH > 7，計算得約 8.76 (E)。"
+  },
+  {
+    "id": 11035,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "電化學",
+    "question": "下列各電池中哪些電池可以用 KOH(aq) 當電解質？",
+    "options": [
+      "(A) 鹼性電池",
+      "(B) 氫-氧燃料電池",
+      "(C) 鋰碘電池",
+      "(D) 水銀電池",
+      "(E) 鎳鎘電池"
+    ],
+    "answer": "ABDE",
+    "explanation": "鹼性條件下運作的電池：鹼性乾電池 (A)、鹼性燃料電池 (B)、水銀電池 (D)、鎳鎘/鎳氫電池 (E)。(C) 鋰電池需用非水溶劑。"
+  },
+  {
+    "id": 11036,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "水處理",
+    "question": "下列哪些方法，可使硬水的鈣、鎂離子去除 (軟化)？",
+    "options": [
+      "(A) 加入 Na₂CO₃",
+      "(B) 加入 Ca(OH)₂",
+      "(C) 加熱至沸騰 (暫時硬水)",
+      "(D) 泡沸石 (離子交換)",
+      "(E) 通過陰離子交換樹脂"
+    ],
+    "answer": "ABCD",
+    "explanation": "(A) 沉澱法 (CaCO₃)。(B) 萊姆法 (除 Mg)。(C) 除暫時硬水。(D) 陽離子交換。(E) 去除 Ca²⁺/Mg²⁺ 需用「陽」離子交換樹脂，陰離子交換樹脂是去除陰離子，無助軟化陽離子 (除非是去離子水製程的一環，但單選軟化主要是陽離子交換)。官方解答給 ABCD。"
+  },
+  {
+    "id": 11037,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學命名",
+    "question": "下列酸的命名，何者正確？",
+    "options": [
+      "(A) HClO 次氯酸",
+      "(B) H₂S₂O₄ 低硫酸 (連二亞硫酸)",
+      "(C) HMnO₄ 過錳酸",
+      "(D) HBr(aq) 氫溴酸",
+      "(E) H₂C₂O₄ 草酸"
+    ],
+    "answer": "ACDE",
+    "explanation": "(A) 正確。(B) H₂S₂O₄ 俗稱保險粉酸 (Hyposulfurous acid) 或連二亞硫酸，非低硫酸 (H₂SO₅? Peroxy-)。但官方解答不選 B。(C)(D)(E) 皆正確。"
+  },
+  {
+    "id": 11038,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "有機化學",
+    "question": "下列化合物的化學式，何者為 C₃H₈O₂？",
+    "options": [
+      "(A) 1,2-Dimethoxyethane",
+      "(B) 2-Methoxyethanol",
+      "(C) 1,3-Propanediol",
+      "(D) 2-Methyl-1,3-propanediol",
+      "(E) 2-ethyl-2-methyl-1,3-propanediol"
+    ],
+    "answer": "BC",
+    "explanation": "(A) C4H10O2。(B) C3H8O2 (Methoxy=CH3O, Ethyl=C2H4, OH)。(C) C3H8O2 (Propanediol)。(D) C4。(E) C7。"
+  },
+  {
+    "id": 11039,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "化學計量",
+    "question": "一芳香族化合物含 C, H, N，一級胺，13.5 g 燃燒得 39.6 g CO₂ 及 11.7 g H₂O。下列敘述何者正確？",
+    "options": [
+      "(A) 化合物實驗式為 C₈H₁₂N₄",
+      "(B) C 的重量為 10.8 克",
+      "(C) H 的重量 2.5 克",
+      "(D) N 的重量 1.4 克",
+      "(E) 化合物實驗式 C₉H₁₃N"
+    ],
+    "answer": "BDE",
+    "explanation": "C 重 = 39.6 × 12/44 = 10.8 g (B 正確)。\nH 重 = 11.7 × 2/18 = 1.3 g (C 錯誤)。\nN 重 = 13.5 - 10.8 - 1.3 = 1.4 g (D 正確)。\n莫耳比 C:H:N = 10.8/12 : 1.3/1 : 1.4/14 = 0.9 : 1.3 : 0.1 = 9 : 13 : 1。\n實驗式 C₉H₁₃N (E 正確)。"
+  },
+  {
+    "id": 11040,
+    "year": 110,
+    "subject": "普通化學",
+    "category": "方程式平衡",
+    "question": "平衡反應式 a Mg₃N₂ + b H₂O → c NH₃ + d Mg(OH)₂，a,b,c,d 為最簡整數。下列敘述何者正確？",
+    "options": [
+      "(A) a=1",
+      "(B) b=6",
+      "(C) c=2",
+      "(D) d=3",
+      "(E) a+b+c-d=12"
+    ],
+    "answer": "ABCD",
+    "explanation": "平衡後：1 Mg₃N₂ + 6 H₂O → 2 NH₃ + 3 Mg(OH)₂。\na=1, b=6, c=2, d=3。\n(E) 1+6+2-3 = 6 ≠ 12。"
+  }
+
+]

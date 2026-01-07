@@ -1,0 +1,3264 @@
+[
+  {
+    "id": 1140201,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "The victim reported the case to the authorities, claiming she had been a target of ______ during the late-night party.",
+    "options": [
+      "(A) forgery",
+      "(B) manslaughter",
+      "(C) corruption",
+      "(D) sexual assault"
+    ],
+    "answer": "D",
+    "explanation": "被害人向當局報案，聲稱她在深夜派對中成為性侵(sexual assault)的目標。(A)偽造；(B)過失殺人；(C)貪污/腐敗。"
+  },
+  {
+    "id": 1140202,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "High-visibility patrols in crime-prone areas are intended to ______ potential offenders from committing illegal acts.",
+    "options": [
+      "(A) detect",
+      "(B) deter",
+      "(C) defend",
+      "(D) define"
+    ],
+    "answer": "B",
+    "explanation": "高見警率的巡邏旨在嚇阻(deter)潛在罪犯實施非法行為。(A)偵測；(C)防禦；(D)定義。"
+  },
+  {
+    "id": 1140203,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "The fraud syndicate used social media to spread false ______ and recruit new members.",
+    "options": [
+      "(A) prosecution",
+      "(B) procedure",
+      "(C) propaganda",
+      "(D) protocol"
+    ],
+    "answer": "C",
+    "explanation": "詐騙集團利用社群媒體散布不實的宣傳(propaganda)並招募新成員。(A)起訴；(B)程序；(D)協議/禮節。"
+  },
+  {
+    "id": 1140204,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "Police officers are trained to identify potential ______ at crime scenes, such as dangerous chemicals or unstable structures.",
+    "options": [
+      "(A) hazards",
+      "(B) solutions",
+      "(C) consequences",
+      "(D) extensions"
+    ],
+    "answer": "A",
+    "explanation": "警官受訓識別犯罪現場的潛在危害(hazards)，如危險化學品或不穩定的結構。(B)解決方案；(C)後果；(D)延伸。"
+  },
+  {
+    "id": 1140205,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語",
+    "question": "The suspect was arrested for theft but was released ______ while awaiting trial.",
+    "options": [
+      "(A) on parole",
+      "(B) on bail",
+      "(C) on probation",
+      "(D) in custody"
+    ],
+    "answer": "B",
+    "explanation": "嫌疑犯因竊盜被捕，但在候審期間獲准交保(on bail)。(A)假釋；(C)緩刑；(D)拘留中。"
+  },
+  {
+    "id": 1140206,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "The officers could not legally enter the suspect's house without first obtaining a ______.",
+    "options": [
+      "(A) subpoena",
+      "(B) search warrant",
+      "(C) confession",
+      "(D) plea deal"
+    ],
+    "answer": "B",
+    "explanation": "未先取得搜索票(search warrant)，警官無法合法進入嫌疑犯的房子。(A)傳票；(C)自白；(D)認罪協商。"
+  },
+  {
+    "id": 1140207,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "The officer acted on his growing ______ that the driver was under the influence and conducted a roadside sobriety test.",
+    "options": [
+      "(A) suspicion",
+      "(B) supervision",
+      "(C) submission",
+      "(D) specification"
+    ],
+    "answer": "A",
+    "explanation": "警官基於他越來越強烈的懷疑(suspicion)認為駕駛受酒精影響，因而進行路邊酒測。(B)監督；(C)提交/屈服；(D)規格。"
+  },
+  {
+    "id": 1140208,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "The police arrested a ______ who had broken into several homes in the neighborhood during the night.",
+    "options": [
+      "(A) burglar",
+      "(B) hostage",
+      "(C) vendor",
+      "(D) witness"
+    ],
+    "answer": "A",
+    "explanation": "警方逮捕了一名在夜間闖入鄰近數戶人家的竊賊(burglar)。(B)人質；(C)攤販；(D)證人。"
+  },
+  {
+    "id": 1140209,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語",
+    "question": "The aggressive invasive species totally ______ the native wildlife.",
+    "options": [
+      "(A) cut down",
+      "(B) died out",
+      "(C) wiped out",
+      "(D) sit down"
+    ],
+    "answer": "C",
+    "explanation": "這種具侵略性的外來物種徹底消滅了(wiped out)原生野生動物。(A)砍倒；(B)滅絕(主詞通常是物種本身)；(D)坐下。"
+  },
+  {
+    "id": 1140210,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語",
+    "question": "Sarah's around here somewhere... I can hear her ______ something.",
+    "options": [
+      "(A) munching on",
+      "(B) digging in",
+      "(C) eating up",
+      "(D) eat out"
+    ],
+    "answer": "A或B",
+    "explanation": "依據官方修正解答，(A)與(B)皆給分。(A) munching on (津津有味地嚼)；(B) digging in (開始大吃)。原意應指聽到咀嚼聲，故(A)最貼切，但口語中(B)亦可指正在吃東西。"
+  },
+  {
+    "id": 1140211,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "In response, officers were ordered to maintain ______ while dispersing the crowd and protecting public infrastructure.",
+    "options": [
+      "(A) pressure",
+      "(B) impatience",
+      "(C) confidence",
+      "(D) discipline"
+    ],
+    "answer": "D",
+    "explanation": "警官被命令在驅散群眾時保持紀律(discipline)。(A)壓力；(B)不耐煩；(C)信心。"
+  },
+  {
+    "id": 1140212,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "Human rights organizations later criticized the use of force, calling for greater transparency and the ______ of body camera footage.",
+    "options": [
+      "(A) release",
+      "(B) capture",
+      "(C) denial",
+      "(D) deletion"
+    ],
+    "answer": "A",
+    "explanation": "人權組織呼籲提高透明度並公布(release)隨身密錄器畫面。(B)捕捉；(C)否認；(D)刪除。"
+  },
+  {
+    "id": 1140213,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "The police department defended its actions, stating that officers had acted in ______ with legal procedures...",
+    "options": [
+      "(A) comparison",
+      "(B) violation",
+      "(C) accordance",
+      "(D) resistance"
+    ],
+    "answer": "C",
+    "explanation": "in accordance with 為固定片語，意指「依照、符合」。警方聲稱員警行為符合法律程序。"
+  },
+  {
+    "id": 1140214,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "Officials urged protesters to express their views through lawful means and warned against any attempts to incite ______.",
+    "options": [
+      "(A) reservation",
+      "(B) violence",
+      "(C) employment",
+      "(D) strategy"
+    ],
+    "answer": "B",
+    "explanation": "官員警告不要試圖煽動暴力(violence)。(A)保留；(C)雇用；(D)策略。"
+  },
+  {
+    "id": 1140215,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "As the investigation continues, the government emphasized the need to balance civil liberties with the ______ of order.",
+    "options": [
+      "(A) production",
+      "(B) mitigation",
+      "(C) maintenance",
+      "(D) elimination"
+    ],
+    "answer": "C",
+    "explanation": "政府強調需要在公民自由與維持(maintenance)秩序之間取得平衡。(A)生產；(B)減輕；(D)消除。"
+  },
+  {
+    "id": 1140216,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "According to the paragraph, traffic violations are considered dangerous because they:",
+    "options": [
+      "(A) only affect those who break the law.",
+      "(B) are usually not noticed by pedestrians.",
+      "(C) put multiple road users at risk.",
+      "(D) occur mostly in rural areas."
+    ],
+    "answer": "C",
+    "explanation": "文章提到交通違規不僅危害違規者本身，也對行人和其他駕駛構成嚴重風險 (put multiple road users at risk)。"
+  },
+  {
+    "id": 1140217,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "What is one strategy mentioned in the paragraph that law enforcement agencies use to deter traffic violations?",
+    "options": [
+      "(A) Offering incentives to careful drivers",
+      "(B) Using social media to shame offenders",
+      "(C) Implementing road toll systems",
+      "(D) Installing traffic cameras"
+    ],
+    "answer": "D",
+    "explanation": "文章中提到的策略包括增加巡邏、自動交通攝影機(automated traffic cameras)和更嚴格的懲罰。"
+  },
+  {
+    "id": 1140218,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "What can be inferred about police enforcement during rush hours?",
+    "options": [
+      "(A) It is less effective due to heavy congestion.",
+      "(B) It helps reduce the chance of reckless driving.",
+      "(C) It only targets commercial vehicles.",
+      "(D) It is avoided because of logistical difficulties."
+    ],
+    "answer": "B",
+    "explanation": "文章提到員警在尖峰時刻加強執法，因為那時魯莽駕駛的可能性最高，而研究顯示執法能顯著減少事故，故推論有助於減少魯莽駕駛的機會。"
+  },
+  {
+    "id": 1140219,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "Which of the following is the best title for this passage?",
+    "options": [
+      "(A) Urban Planning and Road Design",
+      "(B) Common Excuses for Speeding",
+      "(C) Enforcing Traffic Laws: Safety vs. Fairness",
+      "(D) A Day in the Life of a Traffic Officer"
+    ],
+    "answer": "C",
+    "explanation": "文章討論了交通違規的危險、執法的策略與好處（安全），以及批評者對偏差執法的擔憂（公平性），故(C)為最佳標題。"
+  },
+  {
+    "id": 1140220,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "The word \"enforcement\", as used in line 3 of the paragraph, most nearly means:",
+    "options": [
+      "(A) celebration",
+      "(B) negotiation",
+      "(C) regulation",
+      "(D) implementation"
+    ],
+    "answer": "D",
+    "explanation": "在此脈絡下，enforcement 指的是法律的執行與實施(implementation)。(C) regulation 偏向法規本身，而 enforcement 是執行的動作。"
+  },
+  {
+    "id": 1140221,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The defendant tried to ______ the charges against him, but the evidence was too strong to ignore. (多選題)",
+    "options": [
+      "(A) evade",
+      "(B) plead guilty",
+      "(C) deny",
+      "(D) dispute",
+      "(E) face the music"
+    ],
+    "answer": "ACD",
+    "explanation": "被告試圖逃避(evade)、否認(deny)或爭辯(dispute)指控，但證據太強烈。(B)認罪與(E)面對現實（接受懲罰）與句意相反（因為證據太強而無法...，暗示他原本是想抗辯的）。"
+  },
+  {
+    "id": 1140222,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "The criminal was finally caught after being ______ for years, evading law enforcement at every turn. (多選題)",
+    "options": [
+      "(A) at large",
+      "(B) on the loose",
+      "(C) in hiding",
+      "(D) behind bars",
+      "(E) in custody"
+    ],
+    "answer": "ABC",
+    "explanation": "罪犯在逍遙法外(at large/on the loose)或躲藏(in hiding)多年後終於被逮。(D)(E)皆指被監禁中。"
+  },
+  {
+    "id": 1140223,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The coast guard was able to ______ the illegal fishing vessels before they escape into international waters. (多選題)",
+    "options": [
+      "(A) intercept",
+      "(B) detain",
+      "(C) rescue",
+      "(D) apprehend",
+      "(E) abandon"
+    ],
+    "answer": "ABD",
+    "explanation": "海巡署在非法漁船逃入公海前成功攔截(intercept)、扣押(detain)或逮捕(apprehend)它們。(C)救援；(E)放棄。"
+  },
+  {
+    "id": 1140224,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The firefighters managed to ______ the blaze before it could spread to nearby buildings. (多選題)",
+    "options": [
+      "(A) extinguish",
+      "(B) contain",
+      "(C) fuel",
+      "(D) ignite",
+      "(E) suppress"
+    ],
+    "answer": "ABE",
+    "explanation": "消防員在火勢蔓延前撲滅(extinguish/suppress)或控制(contain)了大火。(C)(D)皆指助長火勢。"
+  },
+  {
+    "id": 1140225,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Officers must stay ______ at all times during patrol. (多選題)",
+    "options": [
+      "(A) vigilant",
+      "(B) watchful",
+      "(C) alert",
+      "(D) attentive",
+      "(E) observant"
+    ],
+    "answer": "ABCDE",
+    "explanation": "所有選項皆為形容詞，意指警惕的、注意的、觀察敏銳的，皆符合員警巡邏時應保持的狀態。"
+  },
+  {
+    "id": 1140226,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "To obtain a search warrant, law enforcers must present ______ evidence to a judge. (多選題)",
+    "options": [
+      "(A) credible",
+      "(B) fabricated",
+      "(C) probable",
+      "(D) admissible",
+      "(E) inconsistent"
+    ],
+    "answer": "ACD",
+    "explanation": "取得搜索票需提供可信的(credible)、可能有罪的(probable cause)或可採納的(admissible)證據。(B)偽造的；(E)不一致的。"
+  },
+  {
+    "id": 1140227,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法(多選)",
+    "question": "The suspect ______ by officers before he attempted to flee the scene. (多選題)",
+    "options": [
+      "(A) was questioned",
+      "(B) has questioned",
+      "(C) had been questioned",
+      "(D) is questioning",
+      "(E) had questioned"
+    ],
+    "answer": "AC",
+    "explanation": "嫌疑犯在試圖逃跑前「被訊問」。需用被動語態。(A)過去被動；(C)過去完成被動（強調在逃跑之前已發生）。"
+  },
+  {
+    "id": 1140228,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "After the incident, the officer was placed ______ for six months to evaluate his performance. (多選題)",
+    "options": [
+      "(A) on probation",
+      "(B) under review",
+      "(C) in probation",
+      "(D) probation",
+      "(E) probationed"
+    ],
+    "answer": "AB",
+    "explanation": "警官被處以留職察看(on probation)或審查中(under review)。(C)(D)(E)文法或搭配詞錯誤。"
+  },
+  {
+    "id": 1140229,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The suspect was arrested for ______ after spray-painting graffiti on several public buildings. (多選題)",
+    "options": [
+      "(A) vandalism",
+      "(B) theft",
+      "(C) assault",
+      "(D) defacement",
+      "(E) destruction"
+    ],
+    "answer": "ADE",
+    "explanation": "噴漆塗鴉屬於破壞公物(vandalism)、污損(defacement)或破壞(destruction)。(B)偷竊；(C)攻擊。"
+  },
+  {
+    "id": 1140230,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The criminal attempted to ______ the victim into paying a large sum of money, threatening to release sensitive information. (多選題)",
+    "options": [
+      "(A) extort",
+      "(B) blackmail",
+      "(C) intimidate",
+      "(D) bribe",
+      "(E) coerce"
+    ],
+    "answer": "ABCE",
+    "explanation": "威脅洩漏敏感資訊以索取金錢，屬於勒索(extort)、敲詐(blackmail)、恐嚇(intimidate)或強迫(coerce)。(D)賄賂（是給錢，非索錢）。"
+  },
+  {
+    "id": 1140231,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀理解(多選)",
+    "question": "______ so the officers were extremely frustrated. (多選題)",
+    "options": [
+      "(A) The police department announced a significant reduction in funding",
+      "(B) The police chief promised to improve working conditions",
+      "(C) The precinct received state-of-the-art equipment and resources",
+      "(D) The officers were required to work extra shifts without prior notice",
+      "(E) The team successfully apprehended a notorious criminal"
+    ],
+    "answer": "AD",
+    "explanation": "需選擇會導致員警「挫折(frustrated)」的原因。(A)經費縮減；(D)無預警加班。其他選項皆為正面事件。"
+  },
+  {
+    "id": 1140232,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀理解(多選)",
+    "question": "______ so the protesters felt their efforts were in vain. (多選題)",
+    "options": [
+      "(A) The government ignored the demonstration and continued with its plans",
+      "(B) The protestors were offered a platform to voice their concerns",
+      "(C) The protest quickly gained national attention and support",
+      "(D) The police used force to break up the demonstration",
+      "(E) The protest led to meaningful dialogues and policy changes"
+    ],
+    "answer": "AD",
+    "explanation": "需選擇讓抗議者覺得「徒勞無功(in vain)」的原因。(A)政府忽視並繼續計畫；(D)警方武力驅散（導致抗議無法持續）。"
+  },
+  {
+    "id": 1140233,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法(多選)",
+    "question": "Which sentence is in the active voice? (多選題)",
+    "options": [
+      "(A) Charles wrote the song.",
+      "(B) The song was written by Amy.",
+      "(C) She drives fast.",
+      "(D) Andy killed his friend.",
+      "(E) The paper is published online."
+    ],
+    "answer": "ACD",
+    "explanation": "主動語態(Active Voice)為主詞執行動作。(A) Charles wrote; (C) She drives; (D) Andy killed。(B)與(E)包含 beV + p.p. 為被動語態。"
+  },
+  {
+    "id": 1140234,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The public police of every country are the ______ of the peculiar social, economic, and political history of that country. (多選題)",
+    "options": [
+      "(A) fan",
+      "(B) steep",
+      "(C) outcome",
+      "(D) consequence",
+      "(E) hesitation"
+    ],
+    "answer": "CD",
+    "explanation": "警察制度是該國社會、經濟、政治歷史的產物(outcome)或結果(consequence)。"
+  },
+  {
+    "id": 1140235,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "For criminal justice data, there is a possible ______ between reported crime and actual crime. (多選題)",
+    "options": [
+      "(A) hole",
+      "(B) differ",
+      "(C) discrepancy",
+      "(D) divergence",
+      "(E) civilian"
+    ],
+    "answer": "CD",
+    "explanation": "報案犯罪數與實際犯罪數之間可能存在差異/分歧(discrepancy/divergence)。(A)破洞；(B)動詞(應為difference)；(E)平民。"
+  },
+  {
+    "id": 1140236,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Which words are opposites of \"cold\"? (多選題)",
+    "options": [
+      "(A) hot",
+      "(B) freeze",
+      "(C) chill",
+      "(D) ice",
+      "(E) warm"
+    ],
+    "answer": "AE",
+    "explanation": "cold 的相反詞為熱(hot)或溫暖(warm)。其他選項皆與冷有關。"
+  },
+  {
+    "id": 1140237,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Which of the following are synonyms of \"intelligent\"? (多選題)",
+    "options": [
+      "(A) smart",
+      "(B) bright",
+      "(C) clever",
+      "(D) stupid",
+      "(E) silly"
+    ],
+    "answer": "ABC",
+    "explanation": "intelligent (聰明的) 同義詞為 smart, bright, clever。(D)(E)為笨/愚蠢。"
+  },
+  {
+    "id": 1140238,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法(多選)",
+    "question": "Which of the following are correct comparative forms? (多選題)",
+    "options": [
+      "(A) slower",
+      "(B) colder",
+      "(C) gooder",
+      "(D) faster",
+      "(E) quicker"
+    ],
+    "answer": "ABDE",
+    "explanation": "(C) good 的比較級為 better，gooder 為錯誤形式。其他皆為正確的形容詞比較級。"
+  },
+  {
+    "id": 1140239,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "會話(多選)",
+    "question": "Which are common greeting phrases in English? (多選題)",
+    "options": [
+      "(A) Hello!",
+      "(B) How are you?",
+      "(C) Good morning!",
+      "(D) How long were you there?",
+      "(E) Write it down!"
+    ],
+    "answer": "ABC",
+    "explanation": "(A)(B)(C) 皆為常見問候語。(D)為詢問時間長度；(E)為命令句。"
+  },
+  {
+    "id": 1140240,
+    "year": "114",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The investigation into the mayor's corruption case was a ______ one, drawing media attention nationwide. (多選題)",
+    "options": [
+      "(A) low-key",
+      "(B) high-profile",
+      "(C) behind-the-scenes",
+      "(D) publicized",
+      "(E) covert"
+    ],
+    "answer": "BD",
+    "explanation": "調查引起全國媒體關注，屬於高調的(high-profile)或公開的(publicized)案件。(A)低調；(C)幕後；(E)秘密。"
+  },
+  {
+    "id": 1130201,
+    "year": "113",
+    "subject": "英文",
+    "category": "字彙",
+    "question": "When justice ______, it means that good overcomes evil and that light conquers darkness.",
+    "options": [
+      "(A) injurious",
+      "(B) junks",
+      "(C) prevails",
+      "(D) ingredients"
+    ],
+    "answer": "C",
+    "explanation": "prevail (v.) 戰勝、盛行。句意：當正義「戰勝」時，意味著善戰勝惡，光明征服黑暗。(A) 有害的；(B) 丟棄；(D) 成分。"
+  },
+  {
+    "id": 1130202,
+    "year": "113",
+    "subject": "英文",
+    "category": "片語",
+    "question": "The purpose of the survey was to ______ the police with local criminal problems.",
+    "options": [
+      "(A) acquaint",
+      "(B) strategy",
+      "(C) explicitly",
+      "(D) jurisdiction"
+    ],
+    "answer": "A",
+    "explanation": "acquaint sb. with sth. 使某人熟悉/了解某事。句意：調查的目的是為了讓警方「了解」當地的犯罪問題。"
+  },
+  {
+    "id": 1130203,
+    "year": "113",
+    "subject": "英文",
+    "category": "文法",
+    "question": "You have the right to remain ______ and refuse to answer questions.",
+    "options": [
+      "(A) silent",
+      "(B) silence",
+      "(C) speechless",
+      "(D) serenity"
+    ],
+    "answer": "A",
+    "explanation": "remain 連綴動詞後接形容詞 silent (緘默的)。remain silence (名詞) 文法不合。句意：你有權保持「緘默」並拒絕回答問題。"
+  },
+  {
+    "id": 1130204,
+    "year": "113",
+    "subject": "英文",
+    "category": "字彙",
+    "question": "She was of slim ______ with short, brown hair.",
+    "options": [
+      "(A) figuring",
+      "(B) former",
+      "(C) build",
+      "(D) physics"
+    ],
+    "answer": "C",
+    "explanation": "build (n.) 體格、體型。of slim build 身材苗條。(A) 計算；(B) 前者；(D) 物理學。"
+  },
+  {
+    "id": 1130205,
+    "year": "113",
+    "subject": "英文",
+    "category": "字彙",
+    "question": "The gang admitted they had ______ four recent bank robberies.",
+    "options": [
+      "(A) committed",
+      "(B) pledged",
+      "(C) enrolled",
+      "(D) trusted"
+    ],
+    "answer": "A",
+    "explanation": "commit (v.) 犯(罪)、做(錯事)。commit robbery 犯下搶劫案。(B) 發誓；(C) 註冊；(D) 信任。"
+  },
+  {
+    "id": 1130206,
+    "year": "113",
+    "subject": "英文",
+    "category": "介系詞",
+    "question": "______ thousands of years, people have known that no two people have the same fingerprints.",
+    "options": [
+      "(A) If",
+      "(B) At",
+      "(C) For",
+      "(D) On"
+    ],
+    "answer": "C",
+    "explanation": "For + 一段時間，表示持續的期間。For thousands of years 數千年來。"
+  },
+  {
+    "id": 1130207,
+    "year": "113",
+    "subject": "英文",
+    "category": "介系詞",
+    "question": "You violate the law if you do anything ______ it.",
+    "options": [
+      "(A) about",
+      "(B) against",
+      "(C) with",
+      "(D) for"
+    ],
+    "answer": "B",
+    "explanation": "against the law 違法、違反法律。"
+  },
+  {
+    "id": 1130208,
+    "year": "113",
+    "subject": "英文",
+    "category": "字彙",
+    "question": "Captain Lee is ______ in French and Chinese. He has an excellent command of both languages.",
+    "options": [
+      "(A) bilingual",
+      "(B) bypass",
+      "(C) binocular",
+      "(D) blizzard"
+    ],
+    "answer": "A",
+    "explanation": "bilingual (adj.) 雙語的。句意：李隊長是法語和中文的「雙語」人士。(B) 繞過；(C) 雙筒望遠鏡；(D) 暴風雪。"
+  },
+  {
+    "id": 1130209,
+    "year": "113",
+    "subject": "英文",
+    "category": "字彙",
+    "question": "In order to lay up a flexible mechanism for national rescue service, the National Rescue Command Center needs to build up its organization and establish its legal ______ in detail.",
+    "options": [
+      "(A) supple",
+      "(B) synthesize",
+      "(C) status",
+      "(D) swindle"
+    ],
+    "answer": "C",
+    "explanation": "legal status 法律地位。句意：為了建立靈活的國家搜救機制，國家搜救指揮中心需要建立組織並確立其詳細的法律「地位」。"
+  },
+  {
+    "id": 1130210,
+    "year": "113",
+    "subject": "英文",
+    "category": "字彙",
+    "question": "The thieves entered the museum through the roof and ______ three paintings worth more than two million dollars.",
+    "options": [
+      "(A) burgle",
+      "(B) stole",
+      "(C) thief",
+      "(D) take"
+    ],
+    "answer": "B",
+    "explanation": "stole (v.) 偷竊 (steal 的過去式)。根據 entered (過去式)，動詞需用過去式。(A) 入室竊盜(原形)；(C) 小偷(名詞)。"
+  },
+  {
+    "id": 1130211,
+    "year": "113",
+    "subject": "英文",
+    "category": "克漏字",
+    "question": "We recently purchased 21 Ford police interceptors to ______ our older patrol cars.",
+    "options": [
+      "(A) return",
+      "(B) relief",
+      "(C) reproduce",
+      "(D) replace"
+    ],
+    "answer": "D",
+    "explanation": "replace (v.) 取代、汰換。句意：我們最近購買了 21 輛福特警用攔截車來「汰換」舊的巡邏車。"
+  },
+  {
+    "id": 1130212,
+    "year": "113",
+    "subject": "英文",
+    "category": "克漏字",
+    "question": "Using the equipment console officers can quickly use the lights and sirens to ______ their presence.",
+    "options": [
+      "(A) signal",
+      "(B) submit",
+      "(C) surrender",
+      "(D) supply"
+    ],
+    "answer": "A",
+    "explanation": "signal (v.) 發信號、示意。signal their presence 示意他們的存在（警示）。"
+  },
+  {
+    "id": 1130213,
+    "year": "113",
+    "subject": "英文",
+    "category": "克漏字",
+    "question": "The rear seating area consists ______ a suspect enclosure capable of holding up to three individuals.",
+    "options": [
+      "(A) in",
+      "(B) of",
+      "(C) with",
+      "(D) for"
+    ],
+    "answer": "B",
+    "explanation": "consist of (phr.) 由...組成、包含。"
+  },
+  {
+    "id": 1130214,
+    "year": "113",
+    "subject": "英文",
+    "category": "閱讀理解",
+    "question": "According to the content from City Police Department's website about its police fleet, what can you infer about the traffic cars?",
+    "options": [
+      "(A) They contain suspect enclosures.",
+      "(B) They have a size modification.",
+      "(C) They lack department identification.",
+      "(D) They have bullet-proof windows."
+    ],
+    "answer": "C",
+    "explanation": "文中提到 \"we maintain several traffic cars, all of which are unmarked... All of our squad cars have our department identification...\" 可推知交通車輛(traffic cars)是 unmarked (未標示的)，即缺乏部門識別標誌。"
+  },
+  {
+    "id": 1130215,
+    "year": "113",
+    "subject": "英文",
+    "category": "閱讀理解",
+    "question": "Which is NOT a feature of the patrol cars?",
+    "options": [
+      "(A) A secure area to hold suspects.",
+      "(B) A way to access databases.",
+      "(C) Means to signal to the public.",
+      "(D) An unmarked exterior."
+    ],
+    "answer": "D",
+    "explanation": "文中提到巡邏車(squad cars/patrol cars)有 \"department identification clearly painted\" (清楚的識別標誌)，故 \"An unmarked exterior\" (未標示的外觀) 不是巡邏車的特徵（那是 traffic cars 的特徵）。"
+  },
+  {
+    "id": 1130216,
+    "year": "113",
+    "subject": "英文",
+    "category": "閱讀理解",
+    "question": "The passage implies that early childhood interventions ______",
+    "options": [
+      "(A) give rise to social chaos",
+      "(B) lead to socially undesirable results",
+      "(C) encourage children to commit crimes",
+      "(D) contribute to crime prevention"
+    ],
+    "answer": "D",
+    "explanation": "文章提到 \"interventions early in a child's life can be effective in reducing later life crime\"，意即早期干預有助於「預防犯罪」。"
+  },
+  {
+    "id": 1130217,
+    "year": "113",
+    "subject": "英文",
+    "category": "閱讀理解",
+    "question": "Police can play an important role in terms of providing facilitation between the various government and community organizations. What does \"facilitation\" mean in this sentence?",
+    "options": [
+      "(A) disaster",
+      "(B) help",
+      "(C) stigma",
+      "(D) conflict"
+    ],
+    "answer": "B",
+    "explanation": "facilitation (n.) 促進、幫助。在文中指警方協助各單位間的協調與運作。"
+  },
+  {
+    "id": 1130218,
+    "year": "113",
+    "subject": "英文",
+    "category": "閱讀理解",
+    "question": "According to the passage, to reduce crimes we require help from ______",
+    "options": [
+      "(A) police",
+      "(B) other government agencies",
+      "(C) community groups",
+      "(D) all the above"
+    ],
+    "answer": "D",
+    "explanation": "文中提到 \"require involvement from all sectors of the community, including police, other government agencies, and community groups\"，故選 (D) 以上皆是。"
+  },
+  {
+    "id": 1130219,
+    "year": "113",
+    "subject": "英文",
+    "category": "閱讀理解",
+    "question": "If someone is in place, it is ______",
+    "options": [
+      "(A) unsuitable",
+      "(B) replaced",
+      "(C) ready to work",
+      "(D) unimportant"
+    ],
+    "answer": "C",
+    "explanation": "in place 意指「準備就緒」、「到位」、「正在運作中」。"
+  },
+  {
+    "id": 1130220,
+    "year": "113",
+    "subject": "英文",
+    "category": "閱讀理解",
+    "question": "According to the passage, which of the following about police is true?",
+    "options": [
+      "(A) Police can play an important role in crime prevention.",
+      "(B) Without police, children grow up with no protective factors.",
+      "(C) Police strategies never lead to socially desirable outcomes.",
+      "(D) Police are not necessary for adult crime prevention."
+    ],
+    "answer": "A",
+    "explanation": "文中明確指出 \"Police can play an important role...\" 且是 \"strong advocates for early childhood intervention\"。"
+  },
+  {
+    "id": 1130221,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "Some patrol cars in our precinct have ______ for use in high-speed chases. (Choose synonyms for modifications)",
+    "options": [
+      "(A) modifications",
+      "(B) adjustments",
+      "(C) alterations",
+      "(D) fixations",
+      "(E) completions"
+    ],
+    "answer": "ABC",
+    "explanation": "modification (n.) 修改、改造。同義詞包含 adjustment (調整)、alteration (改變)。"
+  },
+  {
+    "id": 1130222,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "The security guard who falls asleep at his post is responsible for the ______, even though the burglar is also, indeed primarily, responsible.",
+    "options": [
+      "(A) interruption",
+      "(B) mediation",
+      "(C) break-in",
+      "(D) stealing",
+      "(E) breaking and entering"
+    ],
+    "answer": "CDE",
+    "explanation": "句意指警衛對「入室竊盜」負責。break-in (闖入)、stealing (偷竊)、breaking and entering (破門入竊) 皆符合語境。"
+  },
+  {
+    "id": 1130223,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "More than 100 remote-controlled ______ were installed near the convention center where the UN convention is to take place.",
+    "options": [
+      "(A) security cameras",
+      "(B) bodycams",
+      "(C) surveillance cameras",
+      "(D) save monitors",
+      "(E) closed-circuit televisions"
+    ],
+    "answer": "ACE",
+    "explanation": "安裝在會議中心附近的應為「監視器/安全攝影機」。(A) 安全攝影機、(C) 監控攝影機、(E) 閉路電視 (CCTV) 皆正確。(B) 隨身攝影機(密錄器)通常配戴於人身。"
+  },
+  {
+    "id": 1130224,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "The hotel management advises guests to deposit their ______ in the hotel safe.",
+    "options": [
+      "(A) valuables",
+      "(B) personal belongings",
+      "(C) wallets",
+      "(D) liabilities",
+      "(E) possessions"
+    ],
+    "answer": "ABCE",
+    "explanation": "建議客人將「貴重物品/財物」存放在保險箱。valuables, personal belongings, wallets, possessions 皆指財物。(D) 債務/責任。"
+  },
+  {
+    "id": 1130225,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "Due to last week's ______ in service calls, more police will be patrolling districts of North town.",
+    "options": [
+      "(A) shrink",
+      "(B) promotion",
+      "(C) rise",
+      "(D) increase",
+      "(E) decrease"
+    ],
+    "answer": "CD",
+    "explanation": "因為報案電話「增加」，所以加派警力。rise, increase 表增加。(A)(E) 減少。"
+  },
+  {
+    "id": 1130226,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "You have the right to a/an ______ before any questioning.",
+    "options": [
+      "(A) lawyer",
+      "(B) attorney",
+      "(C) commissioner",
+      "(D) possessor",
+      "(E) prosecutor"
+    ],
+    "answer": "AB",
+    "explanation": "你有權在偵訊前聘請「律師」。lawyer, attorney 皆指律師。(C) 委員/局長；(E) 檢察官。"
+  },
+  {
+    "id": 1130227,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "The safety holster is designed to ______ the police officer in maintaining his or her handgun in a struggle while ensuring handgun retention.",
+    "options": [
+      "(A) buckle",
+      "(B) trap",
+      "(C) assist",
+      "(D) aid",
+      "(E) help"
+    ],
+    "answer": "CDE",
+    "explanation": "安全槍套設計用來「協助/幫助」警員。assist, aid, help 皆表幫助。"
+  },
+  {
+    "id": 1130228,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "To ______ the community and enforce the law, we will increase patrols in several areas.",
+    "options": [
+      "(A) guard",
+      "(B) secure",
+      "(C) threaten",
+      "(D) endanger",
+      "(E) protect"
+    ],
+    "answer": "ABE",
+    "explanation": "為了「保護/守衛」社區。guard, secure, protect 皆有保護之意。(C)(D) 為負面義（威脅、危害）。"
+  },
+  {
+    "id": 1130229,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "Please choose the synonyms of \"illicit\".",
+    "options": [
+      "(A) illegal",
+      "(B) illegitimate",
+      "(C) illawful",
+      "(D) illegible",
+      "(E) illiterate"
+    ],
+    "answer": "AB",
+    "explanation": "illicit (adj.) 非法的。同義詞：illegal, illegitimate。(C) 無此字(應為 unlawful)；(D) 字跡潦草的；(E) 文盲的。"
+  },
+  {
+    "id": 1130230,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "What are the synonyms of \"arrest\"?",
+    "options": [
+      "(A) apprehension",
+      "(B) secure",
+      "(C) bust",
+      "(D) liberation",
+      "(E) release"
+    ],
+    "answer": "AC",
+    "explanation": "arrest (v./n.) 逮捕。同義詞：apprehension (逮捕), bust (突擊逮捕)。(D)(E) 釋放。"
+  },
+  {
+    "id": 1130231,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "Beyond data quality concerns, official data of crimes have some noteworthy substantive ______.",
+    "options": [
+      "(A) shortcomings",
+      "(B) newly",
+      "(C) frequent",
+      "(D) imperfections",
+      "(E) defects"
+    ],
+    "answer": "ADE",
+    "explanation": "官方犯罪數據有一些實質上的「缺點/瑕疵」。shortcomings, imperfections, defects 皆指缺點。"
+  },
+  {
+    "id": 1130232,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "The senior police officer was highly esteemed by his ______.",
+    "options": [
+      "(A) collides",
+      "(B) conveys",
+      "(C) colleagues",
+      "(D) coworkers",
+      "(E) associates"
+    ],
+    "answer": "CDE",
+    "explanation": "這位資深警官深受「同事」敬重。colleagues, coworkers, associates 皆指同事/共事者。"
+  },
+  {
+    "id": 1130233,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "The murderer ______ the entire family. It was a tragedy!",
+    "options": [
+      "(A) slaughtered",
+      "(B) killed",
+      "(C) massacred",
+      "(D) shrewd",
+      "(E) rigid"
+    ],
+    "answer": "ABC",
+    "explanation": "兇手「殺害/屠殺」了全家。slaughtered, killed, massacred 皆指殺害。(D) 精明的；(E) 僵硬的。"
+  },
+  {
+    "id": 1130234,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "Some drivers are ______ to accidents. The police should pay more attention to them.",
+    "options": [
+      "(A) timber",
+      "(B) prone",
+      "(C) trench",
+      "(D) tamper",
+      "(E) liable"
+    ],
+    "answer": "BE",
+    "explanation": "prone to / liable to 易於...的、有...傾向的（易發生事故）。"
+  },
+  {
+    "id": 1130235,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "These underground investment companies ______ money from many naive investors.",
+    "options": [
+      "(A) swindle",
+      "(B) cheat",
+      "(C) juvenile",
+      "(D) pallid",
+      "(E) fabric"
+    ],
+    "answer": "AB",
+    "explanation": "這些地下投資公司「詐騙」天真的投資者。swindle, cheat 皆指詐騙。"
+  },
+  {
+    "id": 1130236,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "The murder case continues to ______ the police. The suspect is still at large.",
+    "options": [
+      "(A) puzzle",
+      "(B) mystify",
+      "(C) prudently",
+      "(D) novice",
+      "(E) confuse"
+    ],
+    "answer": "ABE",
+    "explanation": "謀殺案持續讓警方「困惑/不解」。puzzle, mystify, confuse 皆有使困惑之意。"
+  },
+  {
+    "id": 1130237,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "To return to normal life, the juvenile delinquents need ______.",
+    "options": [
+      "(A) resocialization",
+      "(B) rehabilitation",
+      "(C) reckless",
+      "(D) savory",
+      "(E) reluctant"
+    ],
+    "answer": "AB",
+    "explanation": "少年犯需要「再社會化/復健(更生)」以回歸正常生活。resocialization, rehabilitation 符合句意。"
+  },
+  {
+    "id": 1130238,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "These steep stairs look ______. Mind your step, please!",
+    "options": [
+      "(A) dangerous",
+      "(B) hazardous",
+      "(C) risky",
+      "(D) humiliate",
+      "(E) perilous"
+    ],
+    "answer": "ABCE",
+    "explanation": "陡峭的樓梯看起來很「危險」。dangerous, hazardous, risky, perilous 皆指危險。"
+  },
+  {
+    "id": 1130239,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "This nation has made ______ achievements in the economy. It is a worldwide successful model.",
+    "options": [
+      "(A) shirk",
+      "(B) notable",
+      "(C) well-known",
+      "(D) remarkable",
+      "(E) scrub"
+    ],
+    "answer": "BCD",
+    "explanation": "這個國家在經濟上取得了「顯著的/著名的」成就。notable, well-known, remarkable 皆符合句意。（註：選項根據官方解答 BCD 與語意推斷重組，原始試卷排版可能造成選項錯置）。"
+  },
+  {
+    "id": 1130240,
+    "year": "113",
+    "subject": "英文",
+    "category": "多重選擇",
+    "question": "For criminal justice data, there is a possible ______ between reported crime and actual crime.",
+    "options": [
+      "(A) gap",
+      "(B) shrivel",
+      "(C) discrepancy",
+      "(D) divergence",
+      "(E) civilian"
+    ],
+    "answer": "ACD",
+    "explanation": "報導的犯罪與實際犯罪之間可能存在「落差/差異/分歧」。gap, discrepancy, divergence 皆表差異。"
+  },
+  {
+    "id": 1120201,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法",
+    "question": "How long ______ English?",
+    "options": [
+      "(A) do you learn",
+      "(B) are you learning",
+      "(C) have you been learning",
+      "(D) you learn"
+    ],
+    "answer": "C",
+    "explanation": "依據官方修正解答為 (C)。詢問持續到現在的動作或狀態，使用現在完成進行式 (have been learning) 最為恰當。"
+  },
+  {
+    "id": 1120202,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法",
+    "question": "The best way to learn a language is ______ a little every day.",
+    "options": [
+      "(A) speaking",
+      "(B) in speaking",
+      "(C) to speaking",
+      "(D) by speaking"
+    ],
+    "answer": "A或D",
+    "explanation": "依據官方修正解答 (A) 或 (D) 皆給分。(A) speaking 為動名詞作主詞補語；(D) by speaking 表示藉由說話的方式。"
+  },
+  {
+    "id": 1120203,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語",
+    "question": "You ______ better see a doctor.",
+    "options": [
+      "(A) did",
+      "(B) would",
+      "(C) should",
+      "(D) had"
+    ],
+    "answer": "D",
+    "explanation": "had better (最好) 為固定片語用法。"
+  },
+  {
+    "id": 1120204,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法",
+    "question": "Can you tell me when ______?",
+    "options": [
+      "(A) the train leaves",
+      "(B) does the train leave",
+      "(C) leaves the train",
+      "(D) does leave the train"
+    ],
+    "answer": "A",
+    "explanation": "間接問句句型：疑問詞 (when) + 主詞 (the train) + 動詞 (leaves)，不需倒裝。"
+  },
+  {
+    "id": 1120205,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語",
+    "question": "She has been ______ of murdering her husband.",
+    "options": [
+      "(A) charged",
+      "(B) accused",
+      "(C) arrested",
+      "(D) blamed"
+    ],
+    "answer": "B",
+    "explanation": "be accused of (被指控)；be charged with (被控告)。搭配介系詞 of 應選 accused。"
+  },
+  {
+    "id": 1120206,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "They have put speed ______ on the road to ______ accidents.",
+    "options": [
+      "(A) avoid",
+      "(B) prohibit",
+      "(C) prevent",
+      "(D) forbid"
+    ],
+    "answer": "C",
+    "explanation": "speed bumps (減速丘) 用來 prevent (預防) 事故。(A) avoid 避免(主詞通常是人)；(B)(D) 禁止。"
+  },
+  {
+    "id": 1120207,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法",
+    "question": "The tree ______ by lightning.",
+    "options": [
+      "(A) was flashed",
+      "(B) struck",
+      "(C) was struck",
+      "(D) flashed"
+    ],
+    "answer": "C",
+    "explanation": "樹被雷擊 (was struck)，需使用被動語態。"
+  },
+  {
+    "id": 1120208,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "The police chief ______ John for his negligence because he caused damage to agency property.",
+    "options": [
+      "(A) rewarded",
+      "(B) blamed",
+      "(C) resigned",
+      "(D) requested"
+    ],
+    "answer": "B",
+    "explanation": "局長責怪 (blamed) John 的疏忽。(A) 獎賞；(C) 辭職；(D) 要求。"
+  },
+  {
+    "id": 1120209,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "According to historical data, car thefts in a particular ______ are reported at an annual rate of 2.5 thefts per 1,000 cars.",
+    "options": [
+      "(A) jurisdiction",
+      "(B) liaison",
+      "(C) legislation",
+      "(D) intelligence"
+    ],
+    "answer": "A",
+    "explanation": "jurisdiction (管轄區/司法管轄權)。(B) 聯絡；(C) 立法；(D) 情報/智力。"
+  },
+  {
+    "id": 1120210,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "How could they charge you five thousand dollars for delivery? It was nothing less than ______.",
+    "options": [
+      "(A) piracy",
+      "(B) blackmail",
+      "(C) money laundering",
+      "(D) forgery"
+    ],
+    "answer": "B",
+    "explanation": "運費五千元簡直是勒索/敲詐 (blackmail)。(A) 海盜行為/盜版；(C) 洗錢；(D) 偽造。"
+  },
+  {
+    "id": 1120211,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "[Reading Passage] The government urged people who are planning to work in Southeast Asia to exercise extra (11)______, as Taiwanese jobseekers were reportedly abused and coerced into engaging in fraudulent activities in Cambodia. Promises of free round-trip tickets, favorable treatment and a salary of more than NT$100,000 per month had Taiwanese (12)______ the employment scam. As fraud rings excel (13)______ enticing people by promising them benefits that they will never see, anyone could have been targeted, (14)______ nationality or background. As for deterrence measures, it is high time for Taiwan to impose stricter laws and harsher punishments for scammers and their accomplices. Most scammers convicted in Taiwan receive jail sentences of less than a year, while money mules typically receive less than four months in prison, and the (15)______ rate is high.\n\n(11) Choose the best answer:",
+    "options": [
+      "(A) diligence",
+      "(B) caution",
+      "(C) authority",
+      "(D) intolerance"
+    ],
+    "answer": "B",
+    "explanation": "exercise extra caution (特別謹慎)。"
+  },
+  {
+    "id": 1120212,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "(12) Choose the best answer:",
+    "options": [
+      "(A) falling for",
+      "(B) bumping into",
+      "(C) responding to",
+      "(D) clamping down"
+    ],
+    "answer": "A",
+    "explanation": "falling for the scam (掉進/受騙於騙局)。"
+  },
+  {
+    "id": 1120213,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "(13) Choose the best answer:",
+    "options": [
+      "(A) to",
+      "(B) at",
+      "(C) of",
+      "(D) on"
+    ],
+    "answer": "B",
+    "explanation": "excel at (擅長於)。"
+  },
+  {
+    "id": 1120214,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "(14) Choose the best answer:",
+    "options": [
+      "(A) respective of",
+      "(B) regarding",
+      "(C) in terms of",
+      "(D) regardless of"
+    ],
+    "answer": "D",
+    "explanation": "regardless of (不管/不論) 國籍或背景。"
+  },
+  {
+    "id": 1120215,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "(15) Choose the best answer:",
+    "options": [
+      "(A) recruit",
+      "(B) release",
+      "(C) reception",
+      "(D) reoffending"
+    ],
+    "answer": "D",
+    "explanation": "reoffending rate (再犯率) 很高。"
+  },
+  {
+    "id": 1120216,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "[Reading Passage] Pickpockets operate most effectively when there are prospective victims in either heavily congested areas or in lonely places. In heavily populated areas, the large number of people around them covers the activities of these thieves. In lonely spots, they have the advantage of working unobserved. The main factor in the pickpocket's success is the selection of the right victim. A pickpocket's victim must, at the time of the crime, be inattentive, distracted, or unconscious. If any of these conditions exist, and if the pickpocket is skilled in his operations, the stage is set for a successful larceny. With the coming of big events, such as large concerts or marketing campaigns, the crowds move towards these activities and so do most of the pickpockets. However, some pickpockets will remain in certain areas all year around. They will concentrate on theater districts, bus and railroad terminals, hotels, or large shopping centers. A complete knowledge of the methods of this type of criminal and the ability to recognize them come only from long years of experience in performing patient surveillance and trailing of them. This knowledge is essential for the effective control and apprehension of this type of thief.\n\n16. According to the above paragraph, the pickpocket is LEAST likely to operate in a",
+    "options": [
+      "(A) baseball park with a full capacity attendance",
+      "(B) subway station in a remote area late at night",
+      "(C) moderately populated dance hall",
+      "(D) over-crowded department store"
+    ],
+    "answer": "C",
+    "explanation": "文章提到扒手喜歡「擁擠區域 (congested areas)」或「人跡罕至之處 (lonely places)」。(C) 中等程度人潮的舞廳最不符合這兩個極端條件。"
+  },
+  {
+    "id": 1120217,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "17. According to the above paragraph, one of the following factors which is NOT necessary for the successful operation of the pickpocket is",
+    "options": [
+      "(A) his proficiency in the operations required to pickpockets",
+      "(B) that the right potential victims be those who have been the subject of such a theft previously",
+      "(C) that his operations be hidden from the view of others",
+      "(D) that the potential victim be unaware of the actions of the pickpocket"
+    ],
+    "answer": "B",
+    "explanation": "被害人是否曾經被偷過 (subject of such a theft previously) 並非必要條件。"
+  },
+  {
+    "id": 1120218,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "18. According to the above paragraph, it would be MOST correct to conclude that police officers who are successful in apprehending pickpockets",
+    "options": [
+      "(A) are generally those who have had lengthy experience in recognizing all types of criminals.",
+      "(B) must, by intuition, be able to recognize potential right victims.",
+      "(C) must be able to predict the future actions of pickpockets using psychic abilities.",
+      "(D) must have acquired specific knowledge and skills in this field."
+    ],
+    "answer": "D",
+    "explanation": "文章最後提到，有效的控制與逮捕需要透過多年經驗累積的完整知識 (complete knowledge... essential for effective control)。"
+  },
+  {
+    "id": 1120219,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "19. What is the best title for this passage?",
+    "options": [
+      "(A) How to Become a Successful Pickpocket",
+      "(B) Understanding Pickpocketing: Targets, Methods and Apprehension",
+      "(C) The Art of Pickpocketing: Mastering the Skills for Success",
+      "(D) The Benefits of Pickpocketing"
+    ],
+    "answer": "B",
+    "explanation": "文章涵蓋了目標選擇、手法環境以及警方的逮捕知識，故 (B) 最為全面。"
+  },
+  {
+    "id": 1120220,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "閱讀測驗",
+    "question": "20. The word \"prospective\", as used in line 1 of the paragraph, most nearly means",
+    "options": [
+      "(A) likely",
+      "(B) depressing",
+      "(C) neglectful",
+      "(D) unimaginable"
+    ],
+    "answer": "A",
+    "explanation": "prospective victims 意指「潛在的/可能的」受害者，與 (A) likely 意思最接近。"
+  },
+  {
+    "id": 1120221,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Please choose the words related to \"felony\". (多選題)",
+    "options": [
+      "(A) arson",
+      "(B) rape",
+      "(C) murder",
+      "(D) stigma",
+      "(E) sedan"
+    ],
+    "answer": "ABC",
+    "explanation": "Felony (重罪) 相關單字：(A) arson 縱火、(B) rape 性侵、(C) murder 謀殺。註：原始題目選項可能錯置，但依據解答 ABC 判斷，B 為 rape (重罪)，D 為 stigma (汙名，非重罪)。"
+  },
+  {
+    "id": 1120222,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Please choose the words related to \"kidnap\". (多選題)",
+    "options": [
+      "(A) hijack",
+      "(B) fallacy",
+      "(C) dovetail",
+      "(D) seize",
+      "(E) capture"
+    ],
+    "answer": "ADE",
+    "explanation": "Kidnap (綁架) 相關：(A) hijack (劫持)、(D) seize (奪取/抓住，此處依語意推斷 D 為 seize)、(E) capture (擄獲/逮捕)。"
+  },
+  {
+    "id": 1120223,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "What are the synonyms of \"fraud\"? (多選題)",
+    "options": [
+      "(A) deception",
+      "(B) cheating",
+      "(C) deceit",
+      "(D) unimaginable",
+      "(E) coroner"
+    ],
+    "answer": "ABC",
+    "explanation": "Fraud (詐欺) 同義詞：(A) deception 欺騙、(B) cheating 作弊/欺騙、(C) deceit 欺騙。"
+  },
+  {
+    "id": 1120224,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Please choose the synonyms of \"lawyer\". (多選題)",
+    "options": [
+      "(A) freshman",
+      "(B) counselor",
+      "(C) coroner",
+      "(D) attorney",
+      "(E) advocate"
+    ],
+    "answer": "BDE",
+    "explanation": "Lawyer (律師) 同義詞：(B) counselor (法律顧問)、(D) attorney (律師)、(E) advocate (辯護人)。"
+  },
+  {
+    "id": 1120225,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The public police of every country are the ______ of the peculiar social, economic, and political history of that country. (多選題)",
+    "options": [
+      "(A) result",
+      "(B) steep",
+      "(C) outcome",
+      "(D) consequence",
+      "(E) hesitation"
+    ],
+    "answer": "ACD",
+    "explanation": "警察制度是該國歷史的 (A) result 結果、(C) outcome 產物、(D) consequence 後果。"
+  },
+  {
+    "id": 1120226,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Money laundering is the illegal process of making large amounts of money generated by criminal activity, such as ______ appear to have come from a legitimate source. (多選題)",
+    "options": [
+      "(A) drug trafficking",
+      "(B) terrorist funding",
+      "(C) propagation",
+      "(D) endorsement",
+      "(E) procrastination"
+    ],
+    "answer": "AB",
+    "explanation": "洗錢的非法所得來源如：(A) drug trafficking (販毒)、(B) terrorist funding (資助恐怖主義)。"
+  },
+  {
+    "id": 1120227,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "He must ______ the contract, because if not, we will bring an action against him. (多選題)",
+    "options": [
+      "(A) abide by",
+      "(B) comply with",
+      "(C) follow",
+      "(D) stick to",
+      "(E) according to"
+    ],
+    "answer": "ABCD",
+    "explanation": "遵守合約：(A) abide by、(B) comply with、(C) follow、(D) stick to。(E) according to 是介系詞片語，不能當動詞用。"
+  },
+  {
+    "id": 1120228,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "The thief tried to ______ the policeman of complete integrity but to no avail. (多選題)",
+    "options": [
+      "(A) buy out",
+      "(B) buy off",
+      "(C) bribe",
+      "(D) bribery",
+      "(E) give a bribe to"
+    ],
+    "answer": "BCE",
+    "explanation": "試圖行賄警察：(B) buy off (收買)、(C) bribe (賄賂)、(E) give a bribe to (給...賄賂)。(D) bribery 是名詞。"
+  },
+  {
+    "id": 1120229,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "The firefighter put his life ______ in order to save the trapped boy. (多選題)",
+    "options": [
+      "(A) in hatred",
+      "(B) in jeopardy",
+      "(C) in danger",
+      "(D) in harvest",
+      "(E) at risk"
+    ],
+    "answer": "BCE",
+    "explanation": "置生命於險境：(B) in jeopardy、(C) in danger、(E) at risk。"
+  },
+  {
+    "id": 1120230,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "Peter ______ stealing Mary's car. (多選題)",
+    "options": [
+      "(A) was accused of",
+      "(B) was in a charge of",
+      "(C) was charged with",
+      "(D) was indicted for",
+      "(E) was under an accusation of"
+    ],
+    "answer": "ACDE",
+    "explanation": "被指控偷車：(A) accused of、(C) charged with、(D) indicted for (被起訴)、(E) under an accusation of。"
+  },
+  {
+    "id": 1120231,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "The residents ______ the construction of the nuclear plant. (多選題)",
+    "options": [
+      "(A) oppose to",
+      "(B) are opposed to",
+      "(C) object to",
+      "(D) are against",
+      "(E) oppose"
+    ],
+    "answer": "BCDE",
+    "explanation": "反對建設：(B) are opposed to、(C) object to、(D) are against、(E) oppose (及物動詞)。(A) oppose to 文法錯誤。"
+  },
+  {
+    "id": 1120232,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "There was a severe typhoon coming the night before the first day of school. As a result, many school opening ceremonies were ______ (多選題)",
+    "options": [
+      "(A) called off",
+      "(B) canceled",
+      "(C) approved",
+      "(D) kept",
+      "(E) consented"
+    ],
+    "answer": "AB",
+    "explanation": "因為颱風，典禮被 (A) called off (取消) 或 (B) canceled (取消)。"
+  },
+  {
+    "id": 1120233,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "The train ______ with daily commuters. (多選題)",
+    "options": [
+      "(A) crowded",
+      "(B) was crowded",
+      "(C) was jammed",
+      "(D) was packed",
+      "(E) was filled"
+    ],
+    "answer": "BCDE",
+    "explanation": "火車擠滿了通勤者：be crowded/jammed/packed/filled with。註：選項 (D) 在原始檔案中可能顯示不全，但依據 packed with 慣用語意補上。"
+  },
+  {
+    "id": 1120234,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Please choose the synonyms of \"gangster\". (多選題)",
+    "options": [
+      "(A) thug",
+      "(B) criminal",
+      "(C) villain",
+      "(D) vendor",
+      "(E) journeyman"
+    ],
+    "answer": "ABC",
+    "explanation": "Gangster (歹徒/黑幫) 同義詞：(A) thug (暴徒)、(B) criminal (罪犯)、(C) villain (惡棍)。"
+  },
+  {
+    "id": 1120235,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "What are the synonyms of \"abuse\"? (多選題)",
+    "options": [
+      "(A) bully",
+      "(B) reverence",
+      "(C) torture",
+      "(D) appreciate",
+      "(E) misuse"
+    ],
+    "answer": "ACE",
+    "explanation": "Abuse (虐待/濫用) 同義詞：(A) bully (霸凌)、(C) torture (折磨)、(E) misuse (濫用)。"
+  },
+  {
+    "id": 1120236,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "What are the synonyms of \"siege\"? (多選題)",
+    "options": [
+      "(A) attack",
+      "(B) blockade",
+      "(C) arrest",
+      "(D) relief",
+      "(E) seizure"
+    ],
+    "answer": "ABE",
+    "explanation": "Siege (圍攻/封鎖)：(A) attack (攻擊)、(B) blockade (封鎖)、(E) seizure (奪取/佔領)。"
+  },
+  {
+    "id": 1120237,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Human Trafficking is the ______, or receipt of people through force, fraud or deception, with the aim of exploiting them for profit. (多選題)",
+    "options": [
+      "(A) harbouring",
+      "(B) transfer",
+      "(C) transportation",
+      "(D) manifesto",
+      "(E) recruitment"
+    ],
+    "answer": "ABCE",
+    "explanation": "人口販運定義包含：(E) recruitment (招募)、(C) transportation (運送)、(B) transfer (移交)、(A) harbouring (藏匿)。"
+  },
+  {
+    "id": 1120238,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "They caught the thief ______ and committed him to the police. (多選題)",
+    "options": [
+      "(A) innocent",
+      "(B) on the spot",
+      "(C) on the scene",
+      "(D) in the act of his stealing",
+      "(E) red-handed"
+    ],
+    "answer": "BCDE",
+    "explanation": "當場逮到小偷：(B) on the spot、(C) on the scene、(D) in the act...、(E) red-handed (現行犯)。"
+  },
+  {
+    "id": 1120239,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The suspect faced a ______ charge for assaulting the victim with a deadly weapon. (多選題)",
+    "options": [
+      "(A) felony",
+      "(B) libel",
+      "(C) serious crime",
+      "(D) forgery",
+      "(E) defamation"
+    ],
+    "answer": "AC",
+    "explanation": "持致命武器攻擊屬於 (A) felony (重罪) 或 (C) serious crime (嚴重犯罪)。"
+  },
+  {
+    "id": 1120240,
+    "year": "112",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Taipei District Court could not try Gary Huang for kidnapping because it did not have jurisdiction. Jurisdiction most nearly means (多選題)",
+    "options": [
+      "(A) custody",
+      "(B) probable cause",
+      "(C) reasonable doubt",
+      "(D) authority",
+      "(E) governance"
+    ],
+    "answer": "DE",
+    "explanation": "Jurisdiction (管轄權) 意近 (D) authority (權力/權限) 或 (E) governance (統治/管理權)。"
+  },
+  {
+    "id": 1110201,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "The Criminal Investigation Bureau transferred the suspect to the Taoyuan District Prosecutor's Office on ______ of violating anti-drug laws.",
+    "options": [
+      "(A) situations",
+      "(B) identifications",
+      "(C) witnesses",
+      "(D) charges"
+    ],
+    "answer": "D",
+    "explanation": "on charges of 以...罪名。句意：刑事警察局以違反毒品危害防制條例的「罪名」，將嫌疑人移送桃園地檢署。"
+  },
+  {
+    "id": 1110202,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "Examples of aggravated ______ included highway robbery, burglary, attacks by footpads and piracy.",
+    "options": [
+      "(A) abduction",
+      "(B) arson",
+      "(C) larceny",
+      "(D) homicide"
+    ],
+    "answer": "C",
+    "explanation": "larceny (n.) 竊盜罪。句意：加重「竊盜」的例子包括攔路搶劫、入室竊盜、路霸攻擊和海盜行為。(A) 綁架；(B) 縱火；(D) 殺人。"
+  },
+  {
+    "id": 1110203,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "______ is the illegal act of taking goods from a store without paying for them.",
+    "options": [
+      "(A) Shoplifting",
+      "(B) Burglary",
+      "(C) Pickpocketing",
+      "(D) Extortion"
+    ],
+    "answer": "A",
+    "explanation": "Shoplifting (n.) 順手牽羊、店舖竊盜。句意：「店舖竊盜」是指未付款即從商店取走商品的違法行為。(B) 入室竊盜；(C) 扒竊；(D) 勒索。"
+  },
+  {
+    "id": 1110204,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "Security forces ______ the demonstrators by blocking the road.",
+    "options": [
+      "(A) halted",
+      "(B) perpetrated",
+      "(C) fined",
+      "(D) deported"
+    ],
+    "answer": "A",
+    "explanation": "halt (v.) 使停止、阻止。句意：維安部隊透過封鎖道路「阻止」了示威者。(B) 犯罪；(C) 罰款；(D) 驅逐出境。"
+  },
+  {
+    "id": 1110205,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "The meeting was disrupted by a group of ______ who shouted and threw fruit at the speaker.",
+    "options": [
+      "(A) prosecutors",
+      "(B) manslaughters",
+      "(C) protesters",
+      "(D) traffickers"
+    ],
+    "answer": "C",
+    "explanation": "protesters (n.) 抗議者。句意：會議被一群「抗議者」打斷，他們大叫並向講者投擲水果。(A) 檢察官；(B) 過失殺人犯；(D) 販運者。"
+  },
+  {
+    "id": 1110206,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "In case catastrophic ______ occurs, they immediately respond to work with local government for rescue operation within the first 72 golden hours.",
+    "options": [
+      "(A) disagree",
+      "(B) disabuse",
+      "(C) diagnostic",
+      "(D) disaster"
+    ],
+    "answer": "D",
+    "explanation": "disaster (n.) 災難。句意：一旦發生災難性「災害」，他們會立即做出反應，與地方政府合作在黃金72小時內進行救援。"
+  },
+  {
+    "id": 1110207,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "The driver was asked to show his car registration at a police ______.",
+    "options": [
+      "(A) victim",
+      "(B) criminal",
+      "(C) checkpoint",
+      "(D) sidewalk"
+    ],
+    "answer": "C",
+    "explanation": "checkpoint (n.) 檢查哨、臨檢點。句意：駕駛被要求在警察「臨檢點」出示行照。"
+  },
+  {
+    "id": 1110208,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "Efforts to concentrate police enforcement efforts in high-risk places, commonly known as hot spot policing, have been found to be ______ in controlling crime.",
+    "options": [
+      "(A) edible",
+      "(B) enclose",
+      "(C) eatable",
+      "(D) effective"
+    ],
+    "answer": "D",
+    "explanation": "effective (adj.) 有效的。句意：集中警力在犯罪高風險區域（俗稱熱點警務）已被發現在控制犯罪方面是「有效的」。"
+  },
+  {
+    "id": 1110209,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "The corrupt policing practices of the \"political era\" were slowly ______ during the 1940s and 1950s as departments changed operational strategies to the reform model.",
+    "options": [
+      "(A) endocrine",
+      "(B) endive",
+      "(C) eliminated",
+      "(D) enclosure"
+    ],
+    "answer": "C",
+    "explanation": "eliminated (v.) 消除、淘汰。句意：「政治時期」的腐敗警務行為在1940和50年代隨著警局轉向改革模式而逐漸被「消除」。"
+  },
+  {
+    "id": 1110210,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "字彙",
+    "question": "Police responses to crime problems can be greatly ______ by securing productive partnerships with community members.",
+    "options": [
+      "(A) emigrate",
+      "(B) enigma",
+      "(C) enhanced",
+      "(D) stifle"
+    ],
+    "answer": "C",
+    "explanation": "enhanced (v.) 增強、提升。句意：透過與社區成員建立富有成效的夥伴關係，警方對犯罪問題的反應能力可以得到極大的「提升」。"
+  },
+  {
+    "id": 1110211,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "克漏字",
+    "question": "Spanish and French police ______ a human trafficking ring that smuggled migrants into Europe and the United States, charging up to 50,000 euros per person.",
+    "options": [
+      "(A) secured",
+      "(B) convicted",
+      "(C) sentenced",
+      "(D) dismantled"
+    ],
+    "answer": "D",
+    "explanation": "dismantled (v.) 拆除、瓦解。句意：西班牙和法國警方「瓦解」了一個人口販運集團。"
+  },
+  {
+    "id": 1110212,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "克漏字",
+    "question": "A total of 75 suspects were ______, including 51 in Spain and 24 in France after a two-year investigation.",
+    "options": [
+      "(A) consisted",
+      "(B) testified",
+      "(C) arrested",
+      "(D) survived"
+    ],
+    "answer": "C",
+    "explanation": "arrested (v.) 逮捕。句意：共有75名嫌疑犯被「逮捕」。"
+  },
+  {
+    "id": 1110213,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "克漏字",
+    "question": "A total of 75 suspects were arrested... after a two-year ______ investigation.",
+    "options": [
+      "(A) joint",
+      "(B) ambiguous",
+      "(C) civil",
+      "(D) classified"
+    ],
+    "answer": "A",
+    "explanation": "joint (adj.) 聯合的、共同的。因為是西班牙和法國警方合作，故為「聯合」調查。"
+  },
+  {
+    "id": 1110214,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "克漏字",
+    "question": "The traffickers provided ______ identities and transport foreign citizens to the United States and countries such as Spain, France, and Turkey.",
+    "options": [
+      "(A) simplified",
+      "(B) false",
+      "(C) acceptable",
+      "(D) missing"
+    ],
+    "answer": "B",
+    "explanation": "false (adj.) 假的、偽造的。人口販子提供「偽造」身分。"
+  },
+  {
+    "id": 1110215,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "克漏字",
+    "question": "Spanish police ______ 81 fake passports from Asian countries such as Taiwan, South Korea, and Japan.",
+    "options": [
+      "(A) transferred",
+      "(B) prosecuted",
+      "(C) interrogated",
+      "(D) seized"
+    ],
+    "answer": "D",
+    "explanation": "seized (v.) 查獲、扣押。警方「查獲」了81本假護照。"
+  },
+  {
+    "id": 1110216,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "閱讀測驗",
+    "question": "According to the passage, during the week of 911 attacks, which of the following about Giuliani is true?",
+    "options": [
+      "(A) He tried to fix broken windows at night.",
+      "(B) He read Winston Churchill's biography at night.",
+      "(C) He had another great leader to visit him at night.",
+      "(D) He lay in bed to have a good rest at night."
+    ],
+    "answer": "B",
+    "explanation": "文章提到：\"during the week of the 911 terrorist attacks, the biography of another great leader-Winston Churchill-was lying on Giuliani's nightstand.\""
+  },
+  {
+    "id": 1110217,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "閱讀測驗",
+    "question": "According to the broken windows theory, social problems often originate from",
+    "options": [
+      "(A) windows that are broken",
+      "(B) skepticism",
+      "(C) terrorist attacks",
+      "(D) minor crimes"
+    ],
+    "answer": "D",
+    "explanation": "文章提到：\"relatively minor crimes, like vandalism and graffiti, result in a deterioration of neighborhoods...\""
+  },
+  {
+    "id": 1110218,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "閱讀測驗",
+    "question": "What does \"status quo\" in the last paragraph mean?",
+    "options": [
+      "(A) previous event",
+      "(B) current quota",
+      "(C) present quotation",
+      "(D) present situation"
+    ],
+    "answer": "D",
+    "explanation": "status quo 意指「現狀」(present situation)。"
+  },
+  {
+    "id": 1110219,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "閱讀測驗",
+    "question": "Before Giuliani became the Mayor of New York City, he was a",
+    "options": [
+      "(A) scientist",
+      "(B) professor",
+      "(C) prosecutor",
+      "(D) governor"
+    ],
+    "answer": "C",
+    "explanation": "文章提到：\"As a former prosecutor, he applied his analytical skills...\""
+  },
+  {
+    "id": 1110220,
+    "year": "111",
+    "subject": "英文",
+    "category": "單選題",
+    "sub_category": "閱讀測驗",
+    "question": "According to the passage, which of the following about Giuliani is true?",
+    "options": [
+      "(A) He fought only minor crime such as graffiti.",
+      "(B) He paid a lot of money to learn new theories.",
+      "(C) He loves to read the biographies of great leaders.",
+      "(D) His crime-fighting efforts failed to pay off."
+    ],
+    "answer": "C",
+    "explanation": "根據文章第一段提到偉大領導者熱愛學習，以及他閱讀邱吉爾傳記、學習前人特質，可推知 (C) 正確。(A) 錯在only；(D) 錯在failed (文末說 paid off)。"
+  },
+  {
+    "id": 1110221,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "同義字",
+    "question": "Involuntary confessions cannot be ______ as evidence in a criminal prosecution.",
+    "options": [
+      "(A) accepted",
+      "(B) allowed",
+      "(C) admitted",
+      "(D) granted",
+      "(E) reception"
+    ],
+    "answer": "ABCD",
+    "explanation": "非自願的自白不能被「接受/允許/採納」為刑事訴訟的證據。accepted, allowed, admitted, granted 皆有被許可或採納之意。(E) 為名詞，詞性不合。"
+  },
+  {
+    "id": 1110222,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "Studies examining the effectiveness of severe punishments for drunk driving have suggested that tough laws do not ______ drunk drivers.",
+    "options": [
+      "(A) alternative",
+      "(B) deter",
+      "(C) collage",
+      "(D) discourage",
+      "(E) potential"
+    ],
+    "answer": "BD",
+    "explanation": "研究顯示嚴刑峻法並不能「嚇阻/阻止」酒駕司機。deter, discourage 皆有阻嚇、勸阻之意。"
+  },
+  {
+    "id": 1110223,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "The weather is too ______ here in the summer. It is very hot and wet.",
+    "options": [
+      "(A) humorous",
+      "(B) humble",
+      "(C) human",
+      "(D) humid",
+      "(E) damp"
+    ],
+    "answer": "DE",
+    "explanation": "這裡夏天太「潮濕」。humid, damp 皆指潮濕。(A) 幽默；(B) 謙虛；(C) 人類。"
+  },
+  {
+    "id": 1110224,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "What Mary feared most about becoming a teacher was that she must deal with ______ student and some difficult parents.",
+    "options": [
+      "(A) pleasant",
+      "(B) nature",
+      "(C) naughty",
+      "(D) disobedient",
+      "(E) mischievous"
+    ],
+    "answer": "CDE",
+    "explanation": "她最害怕的是必須應付「頑皮/不聽話」的學生。naughty, disobedient, mischievous 皆指頑皮、不服從。"
+  },
+  {
+    "id": 1110225,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "The government hopes that the charge for trash disposal can ______ people from throwing away usable resources.",
+    "options": [
+      "(A) bombard",
+      "(B) forgave",
+      "(C) discourage",
+      "(D) prevent",
+      "(E) hinder"
+    ],
+    "answer": "CDE",
+    "explanation": "政府希望垃圾處理費能「阻止/妨礙」人們丟棄可用資源。discourage, prevent, hinder 皆有阻止、阻礙之意。"
+  },
+  {
+    "id": 1110226,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "This handmade car sold for a million dollars because it was ______.",
+    "options": [
+      "(A) enroll",
+      "(B) unique",
+      "(C) extraordinary",
+      "(D) distinct",
+      "(E) special"
+    ],
+    "answer": "BCDE",
+    "explanation": "這輛手工車賣了一百萬美元，因為它很「獨特/非凡/特別」。unique, extraordinary, distinct, special 皆符合語意。"
+  },
+  {
+    "id": 1110227,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "Officer Chen never gave up, no matter how bad the situation was. His ______ was incredible.",
+    "options": [
+      "(A) tenacity",
+      "(B) perseverance",
+      "(C) persistence",
+      "(D) captivity",
+      "(E) capture"
+    ],
+    "answer": "ABC",
+    "explanation": "陳警官從不放棄，他的「堅韌/毅力/堅持」令人難以置信。tenacity, perseverance, persistence 皆指毅力、堅持。"
+  },
+  {
+    "id": 1110228,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "People with ______ often find it hard to find a job.",
+    "options": [
+      "(A) a criminal record",
+      "(B) a previous record",
+      "(C) subpoena",
+      "(D) a prior record",
+      "(E) alibi"
+    ],
+    "answer": "ABD",
+    "explanation": "有「前科/犯罪紀錄」的人通常很難找工作。criminal/previous/prior record 皆可指前科紀錄。"
+  },
+  {
+    "id": 1110229,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "Detectives ______ them for four hours before they were released.",
+    "options": [
+      "(A) pulled",
+      "(B) pushed",
+      "(C) quizzed",
+      "(D) questioned",
+      "(E) interrogated"
+    ],
+    "answer": "CDE",
+    "explanation": "探員在釋放他們之前「訊問/盤問」了四個小時。quizzed, questioned, interrogated 皆指訊問。"
+  },
+  {
+    "id": 1110230,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "There is ______ evidence that people whose diets are rich in vitamins are less likely to develop some types of cancer.",
+    "options": [
+      "(A) remanding",
+      "(B) mounting",
+      "(C) growing",
+      "(D) dwindling",
+      "(E) increasing"
+    ],
+    "answer": "BCE",
+    "explanation": "有「越來越多/增加中」的證據顯示...。mounting, growing, increasing 皆表增加。"
+  },
+  {
+    "id": 1110231,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "National Police Agency assigns sobriety check nationally for ______ drunk driving on weekend.",
+    "options": [
+      "(A) deteriorating",
+      "(B) deterring",
+      "(C) rushing",
+      "(D) stopping",
+      "(E) curbing"
+    ],
+    "answer": "BDE",
+    "explanation": "警政署實施酒測以「嚇阻/停止/遏止」週末酒駕。deterring, stopping, curbing 皆有阻止、遏制之意。"
+  },
+  {
+    "id": 1110232,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "His passport was ______ by the police to prevent him from leaving the country.",
+    "options": [
+      "(A) extended",
+      "(B) confiscated",
+      "(C) altered",
+      "(D) seized",
+      "(E) forged"
+    ],
+    "answer": "BD",
+    "explanation": "他的護照被警方「沒收/扣押」以防他出國。confiscated, seized 皆指沒收、查扣。"
+  },
+  {
+    "id": 1110233,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "If ______ coins were indistinguishable from genuine coin, the latter quickly would disappear from circulation.",
+    "options": [
+      "(A) controlled",
+      "(B) counterfeit",
+      "(C) forged",
+      "(D) detected",
+      "(E) imitative"
+    ],
+    "answer": "BCE",
+    "explanation": "如果「偽造/仿製」的硬幣與真幣無法區分...。counterfeit, forged, imitative 皆指偽造、模仿的。"
+  },
+  {
+    "id": 1110234,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "Which of the following examples are traffic violations?",
+    "options": [
+      "(A) graffiti",
+      "(B) DUI",
+      "(C) jaywalking",
+      "(D) illegal U turn",
+      "(E) auto theft"
+    ],
+    "answer": "BCD",
+    "explanation": "下列何者為交通違規？(B) DUI (酒駕), (C) jaywalking (違規穿越馬路), (D) illegal U turn (違規迴轉)。(A) 塗鴉；(E) 偷車（皆屬刑案）。"
+  },
+  {
+    "id": 1110235,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "Cheating on the exam is absolutely ______; You will fail this course, and your name will be made public on the university website.",
+    "options": [
+      "(A) unacceptable",
+      "(B) unmanageable",
+      "(C) forbidden",
+      "(D) uncountable",
+      "(E) inappropriate"
+    ],
+    "answer": "ACE",
+    "explanation": "作弊是絕對「不可接受/禁止/不恰當」的。unacceptable, forbidden, inappropriate 符合語意。"
+  },
+  {
+    "id": 1110236,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "The host didn't even try to hide his ______; he asked those uninvited visitors to leave immediately.",
+    "options": [
+      "(A) hostility",
+      "(B) utility",
+      "(C) eliminate",
+      "(D) antagonism",
+      "(E) unkindness"
+    ],
+    "answer": "ADE",
+    "explanation": "主人甚至沒試圖掩飾他的「敵意/不友善」。hostility, antagonism, unkindness 皆指敵意、不友善。"
+  },
+  {
+    "id": 1110237,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "There are many factors that would ______ the quality of our relationships with others.",
+    "options": [
+      "(A) expect",
+      "(B) affect",
+      "(C) realm",
+      "(D) influence",
+      "(E) vanity"
+    ],
+    "answer": "BD",
+    "explanation": "有許多因素會「影響」我們的人際關係品質。affect, influence 皆指影響。"
+  },
+  {
+    "id": 1110238,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "文意選填",
+    "question": "Carrying illegal weapon is a ______ in Taiwan.",
+    "options": [
+      "(A) deportation",
+      "(B) suspension",
+      "(C) felony",
+      "(D) crime",
+      "(E) riot"
+    ],
+    "answer": "CD",
+    "explanation": "攜帶非法武器在台灣是「重罪/犯罪」。felony (重罪), crime (犯罪)。"
+  },
+  {
+    "id": 1110239,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "同義字",
+    "question": "What are the synonyms of \"legal\"?",
+    "options": [
+      "(A) lawful",
+      "(B) licit",
+      "(C) legitimate",
+      "(D) proscribed",
+      "(E) authorized"
+    ],
+    "answer": "ABCE",
+    "explanation": "legal (合法的) 同義字：lawful, licit, legitimate, authorized。(D) proscribed (被禁止的)。"
+  },
+  {
+    "id": 1110240,
+    "year": "111",
+    "subject": "英文",
+    "category": "多重選擇題",
+    "sub_category": "同義字",
+    "question": "What are the synonyms of \"criminal\"?",
+    "options": [
+      "(A) offender",
+      "(B) malefactor",
+      "(C) executive",
+      "(D) commissioner",
+      "(E) villain"
+    ],
+    "answer": "ABE",
+    "explanation": "criminal (罪犯) 同義字：offender (罪犯/冒犯者), malefactor (作惡者/罪犯), villain (壞人/反派)。"
+  },
+  {
+    "id": 1100201,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "The program deals with drug ______, juvenile delinquency, and issues related to gang crimes.",
+    "options": [
+      "(A) abortion",
+      "(B) aggression",
+      "(C) addiction",
+      "(D) accountability"
+    ],
+    "answer": "C",
+    "explanation": "該計畫處理毒品成癮(drug addiction)、青少年犯罪及幫派犯罪相關議題。(A)墮胎；(B)侵略；(D)問責/責任。"
+  },
+  {
+    "id": 1100202,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "The police ______ the road in an attempt to control the traffic flow.",
+    "options": [
+      "(A) blocked",
+      "(B) backed",
+      "(C) booked",
+      "(D) bailed"
+    ],
+    "answer": "A",
+    "explanation": "警方封鎖(blocked)道路以試圖控制交通流量。(B)支持/倒車；(C)預訂/登記；(D)保釋。"
+  },
+  {
+    "id": 1100203,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "A variety of ______ measures are now in place in order to minimize the potential damage caused by the deadly epidemic.",
+    "options": [
+      "(A) press",
+      "(B) preventive",
+      "(C) prevalent",
+      "(D) persecution"
+    ],
+    "answer": "B",
+    "explanation": "各種預防性(preventive)措施已到位，以將致命流行病造成的潛在損害降至最低。(A)新聞/按壓；(C)普遍的；(D)迫害。"
+  },
+  {
+    "id": 1100204,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "Keep an eye on your personal belongings and beware of ______.",
+    "options": [
+      "(A) shoplifters",
+      "(B) abductors",
+      "(C) burglars",
+      "(D) pickpockets"
+    ],
+    "answer": "D",
+    "explanation": "留意你的個人隨身物品並提防扒手(pickpockets)。(A)順手牽羊者(偷商店)；(B)綁架者；(C)竊賊(闖空門)。"
+  },
+  {
+    "id": 1100205,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "The authorities said that the number one cause of death related to fires is smoke ______ not burns.",
+    "options": [
+      "(A) hallucination",
+      "(B) discrimination",
+      "(C) inhalation",
+      "(D) distribution"
+    ],
+    "answer": "C",
+    "explanation": "當局表示，火災相關的首要死因是吸入(inhalation)濃煙，而非燒傷。(A)幻覺；(B)歧視；(D)分配。"
+  },
+  {
+    "id": 1100206,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法",
+    "question": "Select the sentence that is correctly written.",
+    "options": [
+      "(A) Last week, the officers had self-defense training.",
+      "(B) Last week, the officers have self-defense training.",
+      "(C) Last week, the officers has self-defense training.",
+      "(D) The officers, last week, have self-defense training."
+    ],
+    "answer": "A",
+    "explanation": "時間副詞 Last week (上週) 需搭配過去式動詞 had。(B)(D)用現在式 have；(C)用單數現在式 has 且主詞為複數，皆錯誤。"
+  },
+  {
+    "id": 1100207,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "Criminals can also be called law breakers or ______.",
+    "options": [
+      "(A) lawyers",
+      "(B) offenders",
+      "(C) baddies",
+      "(D) mugger"
+    ],
+    "answer": "B",
+    "explanation": "罪犯也可稱為違法者或犯罪者(offenders)。(A)律師；(C)壞人(口語/非正式)；(D)搶劫犯(特定類型)。"
+  },
+  {
+    "id": 1100208,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法",
+    "question": "The witnesses said that ______ staying at a local motel.",
+    "options": [
+      "(A) their",
+      "(B) they're",
+      "(C) there",
+      "(D) she is"
+    ],
+    "answer": "B",
+    "explanation": "目擊者說他們正待在當地的汽車旅館。they're 為 they are 的縮寫。雖然主句為過去式 said，但在間接引句中若強調當下狀態或口語中可能保留現在式，或此處 they're 為 they were 的發音混淆選項(但文法上應選主詞+動詞結構)。選項中僅(B)與(D)具備主詞+動詞結構，且目擊者通常指稱複數對象(they)，故選(B)。"
+  },
+  {
+    "id": 1100209,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "In 2001, Saudi Arabian terrorists led an attack on the USA in which passenger airlines were ______ and crashed into buildings.",
+    "options": [
+      "(A) vandalized",
+      "(B) kidnapped",
+      "(C) hijacked",
+      "(D) forged"
+    ],
+    "answer": "C",
+    "explanation": "2001年恐怖份子攻擊美國，客機被劫持(hijacked)並撞向建築物。(A)破壞；(B)綁架(用於人)；(D)偽造。"
+  },
+  {
+    "id": 1100210,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "What kind of criminal is a businessman who imports goods without paying tax?",
+    "options": [
+      "(A) a forger",
+      "(B) a smuggler",
+      "(C) a deserter",
+      "(D) a golfer"
+    ],
+    "answer": "B",
+    "explanation": "進口貨物未繳稅(走私)的商人是走私者(a smuggler)。(A)偽造者；(C)逃兵；(D)高爾夫球手。"
+  },
+  {
+    "id": 1100211,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法",
+    "question": "There is ______ evidence that the police are only just beginning to come to terms with the true extent of violent crime in this country.",
+    "options": [
+      "(A) growth of",
+      "(B) grown",
+      "(C) growing",
+      "(D) growing up"
+    ],
+    "answer": "C",
+    "explanation": "growing evidence (越來越多的證據/增長中的證據)。"
+  },
+  {
+    "id": 1100212,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "[Paragraph] Most theories of juvenile delinquency have focused on children from disadvantaged families, (12)______ the fact that children from wealthy homes also commit crimes. The latter may commit crimes for lack of adequate parental control. Moreover, more families consist of one parent households or two working parents; (13)______, children are likely to have less supervision at home (14)______ was common in the traditional family system. This lack of parental supervision is thought to be an influence on juvenile crime rates. Other causes of offensive acts include frustration or failure in school, the increased (15)______ of drugs and alcohol, and the growing incidence of child abuse and child neglect. All these conditions tend to increase the (16)______ of a child committing a criminal act.\n\n(12) Choose the best answer:",
+    "options": [
+      "(A) ignoring",
+      "(B) considering",
+      "(C) highlighting",
+      "(D) refusing"
+    ],
+    "answer": "A",
+    "explanation": "大部份理論關注弱勢家庭兒童，忽略了(ignoring)富裕家庭兒童也會犯罪的事實。"
+  },
+  {
+    "id": 1100213,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "(13) Choose the best answer:",
+    "options": [
+      "(A) simultaneously",
+      "(B) consequently",
+      "(C) similarly",
+      "(D) contrarily"
+    ],
+    "answer": "B",
+    "explanation": "因為雙薪或單親家庭增多，因此(consequently)，孩子在家受到的監督變少。"
+  },
+  {
+    "id": 1100214,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "(14) Choose the best answer:",
+    "options": [
+      "(A) which",
+      "(B) that",
+      "(C) as",
+      "(D) than"
+    ],
+    "answer": "D",
+    "explanation": "less supervision ... than (比...更少的監督)。"
+  },
+  {
+    "id": 1100215,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "(15) Choose the best answer:",
+    "options": [
+      "(A) allocation",
+      "(B) exposure",
+      "(C) restriction",
+      "(D) availability"
+    ],
+    "answer": "D",
+    "explanation": "increased availability (可取得性的增加) of drugs and alcohol (毒品和酒精更容易取得)。"
+  },
+  {
+    "id": 1100216,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "克漏字",
+    "question": "(16) Choose the best answer:",
+    "options": [
+      "(A) awareness",
+      "(B) knowledge",
+      "(C) probability",
+      "(D) likeness"
+    ],
+    "answer": "C",
+    "explanation": "increase the probability (增加...的可能性/機率)。"
+  },
+  {
+    "id": 1100217,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "Betsy had no money to buy food for her kids, so she took it from a supermarket without paying. What was her crime?",
+    "options": [
+      "(A) kidnapping",
+      "(B) being poor",
+      "(C) shoplifting",
+      "(D) mugger"
+    ],
+    "answer": "C",
+    "explanation": "在超市未付款拿走商品是順手牽羊(shoplifting)。(D) mugger 是搶劫犯(人)。"
+  },
+  {
+    "id": 1100218,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法",
+    "question": "Compare the driving habits of the two groups of drivers, the researcher hopes to find out ways to enhance road safety. The underlined section contains a language mistake. Select the words or phrases which will correct the mistake.",
+    "options": [
+      "(A) Comparing with",
+      "(B) In comparison",
+      "(C) As compare",
+      "(D) By comparing"
+    ],
+    "answer": "D",
+    "explanation": "藉由比較(By comparing)...，研究者希望找出方法。此處表示方法手段。(A) Comparing with 若置句首通常表示「與...相比」，主詞需為被比較對象，不符句意。"
+  },
+  {
+    "id": 1100219,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "Serious ______ has been reported after the derailment. According to the report, among all the 276 passengers aboard, 89 were killed and 187 were injured.",
+    "options": [
+      "(A) exposure",
+      "(B) casualty",
+      "(C) firework",
+      "(D) speculation"
+    ],
+    "answer": "B",
+    "explanation": "出軌事故後報告了嚴重的死傷人數(casualty)。(A)暴露；(D)推測。"
+  },
+  {
+    "id": 1100220,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙",
+    "question": "A ______ is a person found guilty of a crime and sentenced by a court to serve a sentence in prison.",
+    "options": [
+      "(A) counselor",
+      "(B) warden",
+      "(C) convict",
+      "(D) prosecutor"
+    ],
+    "answer": "C",
+    "explanation": "被判有罪並服刑的人是囚犯(convict)。(A)顧問；(B)典獄長；(D)檢察官。"
+  },
+  {
+    "id": 1100221,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "What are the synonyms of \"judge\"? (多選題)",
+    "options": [
+      "(A) author",
+      "(B) arbitrator",
+      "(C) employer",
+      "(D) umpire",
+      "(E) referee"
+    ],
+    "answer": "BDE",
+    "explanation": "Judge (法官/裁判) 同義詞：(B) arbitrator (仲裁者)、(D) umpire (裁判)、(E) referee (裁判)。"
+  },
+  {
+    "id": 1100222,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "What are the synonyms of \"justice\"? (多選題)",
+    "options": [
+      "(A) administrative",
+      "(B) sentence",
+      "(C) discussion",
+      "(D) equity",
+      "(E) right"
+    ],
+    "answer": "DE",
+    "explanation": "Justice (正義/公正) 同義詞：(D) equity (公平)、(E) right (正當/權利/正義)。"
+  },
+  {
+    "id": 1100223,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "For criminal justice data, there is a possible ______ between reported crime and actual crime. (多選題)",
+    "options": [
+      "(A) gap",
+      "(B) differ",
+      "(C) discrepancy",
+      "(D) divergence",
+      "(E) civilian"
+    ],
+    "answer": "ACD",
+    "explanation": "報案數與實際犯罪數之間可能存在：(A) gap (差距)、(C) discrepancy (差異/不符)、(D) divergence (分歧)。"
+  },
+  {
+    "id": 1100224,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Arrest remains an important ______ in controlling repeat domestic violence. (多選題)",
+    "options": [
+      "(A) distinguish",
+      "(B) tool",
+      "(C) method",
+      "(D) extinguish",
+      "(E) approach"
+    ],
+    "answer": "BCE",
+    "explanation": "逮捕是控制重複家暴的重要：(B) tool (工具)、(C) method (方法)、(E) approach (手段/途徑)。"
+  },
+  {
+    "id": 1100225,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The public police of every country are the ______ of the peculiar social, economic, and political history of that country. (多選題)",
+    "options": [
+      "(A) result",
+      "(B) steep",
+      "(C) outcome",
+      "(D) consequence",
+      "(E) hesitation"
+    ],
+    "answer": "ACD",
+    "explanation": "警察制度是該國歷史的：(A) result (結果)、(C) outcome (產物/結果)、(D) consequence (後果)。"
+  },
+  {
+    "id": 1100226,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Cooperative structures that ______ the exchange of information between police agencies were first established at the beginning of the 20th century. (多選題)",
+    "options": [
+      "(A) gentle",
+      "(B) flexible",
+      "(C) facilitate",
+      "(D) enable",
+      "(E) promote"
+    ],
+    "answer": "CDE",
+    "explanation": "促進資訊交換的結構：(C) facilitate (促進/便利)、(D) enable (使能夠)、(E) promote (推動)。"
+  },
+  {
+    "id": 1100227,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The witness said the ______ wore a black mask and a wig during the home invasion. (多選題)",
+    "options": [
+      "(A) perpetrator",
+      "(B) offender",
+      "(C) criminal",
+      "(D) wrongdoer",
+      "(E) law-breaker"
+    ],
+    "answer": "ABCDE",
+    "explanation": "所有選項皆為「罪犯/作惡者」的同義詞，均符合語境。"
+  },
+  {
+    "id": 1100228,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The police set up ______ to prevent protestors approaching the city hall. (多選題)",
+    "options": [
+      "(A) roadblocks",
+      "(B) barricades",
+      "(C) barriers",
+      "(D) cartridges",
+      "(E) badges"
+    ],
+    "answer": "ABC",
+    "explanation": "警方設置(A)路障、(B)柵欄、(C)障礙物以阻擋抗議者。(D)彈藥筒；(E)徽章。"
+  },
+  {
+    "id": 1100229,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "It is proper time the police started to ______ illegal aliens in Taiwan. (多選題)",
+    "options": [
+      "(A) cover up for",
+      "(B) crack down on",
+      "(C) stay the course",
+      "(D) clamp down on",
+      "(E) cross out"
+    ],
+    "answer": "BD",
+    "explanation": "警方開始取締/嚴打非法移民：(B) crack down on、(D) clamp down on。(A)掩飾；(E)刪除。"
+  },
+  {
+    "id": 1100230,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法(多選)",
+    "question": "She accused ______ even though he denied the charge. (多選題)",
+    "options": [
+      "(A) him of stealing her car",
+      "(B) his stealing her car",
+      "(C) him that he had stolen her car",
+      "(D) him with stealing her car",
+      "(E) him by stealing her car"
+    ],
+    "answer": "AC",
+    "explanation": "Accuse 用法：accuse sb of doing sth。故(A)正確。選項(C)雖較少見，但在特定語境下可表示「指控他...」，官方答案包含(C)。(D)應為 charge him with。"
+  },
+  {
+    "id": 1100231,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "All of the police officers are willing to ______ their commander's request as long as it stands to reason. (多選題)",
+    "options": [
+      "(A) conform to",
+      "(B) comply with",
+      "(C) act up to",
+      "(D) abide by",
+      "(E) abide to"
+    ],
+    "answer": "ABD",
+    "explanation": "遵守/遵從命令：(A) conform to、(B) comply with、(D) abide by。(E)介系詞錯誤。"
+  },
+  {
+    "id": 1100232,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "The gang members in Shelly's neighborhood tried to ______ her into selling drugs, but she refused to be bullied. (多選題)",
+    "options": [
+      "(A) pay",
+      "(B) coerce",
+      "(C) discourage",
+      "(D) gender",
+      "(E) pressure"
+    ],
+    "answer": "BE",
+    "explanation": "試圖強迫/施壓她販毒：(B) coerce (強迫)、(E) pressure (施壓)。"
+  },
+  {
+    "id": 1100233,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "It is ______ for passengers in the front and back seats to wear seatbelts, or they will be subject to a fine. (多選題)",
+    "options": [
+      "(A) beneficial",
+      "(B) mandatory",
+      "(C) compelling",
+      "(D) convertible",
+      "(E) compulsory"
+    ],
+    "answer": "BCE",
+    "explanation": "繫安全帶是強制性的/義務的：(B) mandatory、(E) compulsory。(C) compelling 在此應指具強制力或義務性（依官方解答）。"
+  },
+  {
+    "id": 1100234,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法(多選)",
+    "question": "Select the sentences that are written clearly and grammatically correctly. (多選題)",
+    "options": [
+      "(A) Either the gun or the bullets was taken from the evidence locker without permission.",
+      "(B) Either the bullets or the gun was taken from the evidences locker without permission.",
+      "(C) Either the gun or the bullets were taken from the evidence locker without permission.",
+      "(D) Either the gun or the bullets were taken from the evidences locker without permission.",
+      "(E) Either the bullets or the gun was taken from the evidence locker without permission."
+    ],
+    "answer": "CE",
+    "explanation": "Either A or B 動詞配合B（就近原則）。(C) bullets (複數) 配 were (正確)。(E) gun (單數) 配 was (正確)。注意：evidence 為不可數名詞，不可用 evidences，故(B)(D)錯。"
+  },
+  {
+    "id": 1100235,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "Officer Lin absented himself from work ______ illness. Don't you misunderstand him. (多選題)",
+    "options": [
+      "(A) on account of",
+      "(B) because",
+      "(C) because of",
+      "(D) by reason of",
+      "(E) owing to"
+    ],
+    "answer": "ACDE",
+    "explanation": "因為生病：(A) on account of、(C) because of、(D) by reason of、(E) owing to。(B) because 後接子句，不能直接接名詞 illness。"
+  },
+  {
+    "id": 1100236,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "It is often difficult for an officer to determine which evidence is ______ to a case. (多選題)",
+    "options": [
+      "(A) pertinent",
+      "(B) immaterial",
+      "(C) irrelevant",
+      "(D) relevant",
+      "(E) obsolete"
+    ],
+    "answer": "AD",
+    "explanation": "判斷證據是否相關：(A) pertinent、(D) relevant。(B)(C)為不相關。"
+  },
+  {
+    "id": 1100237,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "One of the drawbacks of using ______ software is that it may install viruses or malware on a user's computer. (多選題)",
+    "options": [
+      "(A) pirate",
+      "(B) pirated",
+      "(C) piracy",
+      "(D) pirating",
+      "(E) illegal copied"
+    ],
+    "answer": "BE",
+    "explanation": "使用盜版軟體：(B) pirated software。(E) illegal copied software (文法上應為 illegally copied，但依據官方解答 B 與 E 皆給分，可能視為通俗用法或選項設計問題)。"
+  },
+  {
+    "id": 1100238,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "文法(多選)",
+    "question": "Which sentence is in the active voice? (多選題)",
+    "options": [
+      "(A) John wrote the song.",
+      "(B) The song was written by John.",
+      "(C) He drives fast.",
+      "(D) John killed his friend.",
+      "(E) The article is published online."
+    ],
+    "answer": "ACD",
+    "explanation": "主動語態：(A) John wrote、(C) He drives、(D) John killed。(B)(E) 為被動語態 (be + p.p.)。"
+  },
+  {
+    "id": 1100239,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "片語(多選)",
+    "question": "When polite requests failed to serve the purpose, the demonstrators ______ explicit threats. (多選題)",
+    "options": [
+      "(A) appealed to",
+      "(B) answered to",
+      "(C) resorted to",
+      "(D) turned to",
+      "(E) attended on"
+    ],
+    "answer": "ACD",
+    "explanation": "示威者訴諸/求助於威脅：(C) resorted to、(D) turned to。(A) appealed to (呼籲/訴諸) 在此語境亦可通。"
+  },
+  {
+    "id": 1100240,
+    "year": "110",
+    "subject": "英文",
+    "category": "英文",
+    "sub_category": "字彙(多選)",
+    "question": "Thousands of people flooded into the city to join the demonstration; as a result, the city's transportation system was almost ______. (多選題)",
+    "options": [
+      "(A) testified",
+      "(B) stabilized",
+      "(C) dissatisfied",
+      "(D) paralyzed",
+      "(E) frozen"
+    ],
+    "answer": "DE",
+    "explanation": "交通系統幾乎癱瘓/凍結：(D) paralyzed、(E) frozen。"
+  }
+
+
+]
